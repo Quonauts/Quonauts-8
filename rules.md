@@ -11,6 +11,7 @@
         * [**1.5.1. Errors**](#errors)
         * [**1.5.2. Rule violation polls**](#rule-violation-polls)
             * [**1.5.2.1. Punitive action**](#punitive-action)
+    * [**1.6. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -91,4 +92,8 @@ Any vote in such a poll cast by the convicted player is not counted.
 A punitive action poll must be available for voting for at least 24 hours before any action may be taken as a result.
 
 If a punitive action poll passes, then the convicted player may not perform any game actions for 24 hours.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
