@@ -18,6 +18,7 @@
         * [**1.8.2. Headers and tags**](#headers-and-tags)
         * [**1.8.3. Lists**](#lists)
         * [**1.8.4. Formatting**](#formatting)
+* [**2. Player state**](#player-state)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -158,4 +159,8 @@ From [GitHub's "Mastering Markdown" document](https://guides.github.com/features
 * Strikethrough
 
 Additionally, square brackets `[]` containing a tag will be converted into links to another rule section; e.g. `[%rule-tag]`. Discord mentions (@username, @role, and #channel) may be used, however they are not readable in GitHub-flavored markdown.
+
+## <a name='player-state'/> Player state
+
+Each player has their own "Player state". The player state of each player is part of the overall game state. Each subsection of this rule is part of each player's state.
 
