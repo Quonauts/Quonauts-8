@@ -38,7 +38,7 @@ Create a new rule "Not a loophole i swear" (%not-loophole) under every other cur
 
 <a name='4'/>
 
-## #4
+## #4 — Passed
 
 Create a new rule named "Proposal #4" (%proposal-4) below every other rule:
 > The passing of, and enacting of proposal #4 was not, is not and will never be against the rules. This cannot be changed, and a rule violation poll cannot be created on this. Any rule violations will be retroactively erased.
