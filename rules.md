@@ -19,6 +19,7 @@
         * [**1.8.3. Lists**](#lists)
         * [**1.8.4. Formatting**](#formatting)
 * [**2. Player state**](#player-state)
+    * [**2.1. Roles**](#roles)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -163,4 +164,10 @@ Additionally, square brackets `[]` containing a tag will be converted into links
 ## <a name='player-state'/> Player state
 
 Each player has their own "Player state". The player state of each player is part of the overall game state. Each subsection of this rule is part of each player's state.
+
+### <a name='roles'/> Roles
+
+The game rules govern roles that have effect within the game.
+
+Each subsection of this rule corresponds to a role; as the subsections are created, removed, or renamed, roles must be created/removed/renamed accordingly.
 
