@@ -22,6 +22,7 @@
     * [**2.1. Roles**](#roles)
 * [**3. Channels**](#channels)
     * [**3.1. #proposals**](#proposals-channel)
+    * [**3.2. #rules**](#rules-channel)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -182,4 +183,8 @@ Each subsection of this rule section corresponds to a game channel; as the subse
 ### <a name='proposals-channel'/> #proposals
 
 The <#694977941150367784> channel is governed by [%proposals].
+
+### <a name='rules-channel'/> #rules
+
+The <#694977952923779173> channel contains this rules document.
 
