@@ -20,6 +20,7 @@
         * [**1.8.4. Formatting**](#formatting)
 * [**2. Player state**](#player-state)
     * [**2.1. Roles**](#roles)
+* [**3. Channels**](#channels)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -170,4 +171,10 @@ Each player has their own "Player state". The player state of each player is par
 The game rules govern roles that have effect within the game.
 
 Each subsection of this rule corresponds to a role; as the subsections are created, removed, or renamed, roles must be created/removed/renamed accordingly.
+
+## <a name='channels'/> Channels
+
+The game rules govern only messages and reactions in the "Quonauts 8" category of the Discord server.
+
+Each subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.
 
