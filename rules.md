@@ -6,6 +6,7 @@
     * [**1.1. Glossary**](#glossary)
     * [**1.2. Accuracy**](#accuracy)
     * [**1.3. Precedence**](#precedence)
+    * [**1.4. Disallowed by default**](#disallowed-by-default)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -40,4 +41,8 @@ In the case of a contradiction between clauses, the following criteria are to be
 
 * If one clause has a more limited scope than another, then the clause with the more limited scope takes precedence.
 * The clause which appears last in the rules takes precedence.
+
+### <a name='disallowed-by-default'/> Disallowed by default
+
+Unless explicitly stated in the rules, all game actions are forbidden.
 
