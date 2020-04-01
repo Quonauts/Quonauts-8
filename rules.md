@@ -24,6 +24,7 @@
     * [**3.1. #proposals**](#proposals-channel)
     * [**3.2. #rules**](#rules-channel)
     * [**3.3. #polls**](#polls-channel)
+* [**4. Proposals**](#proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -183,7 +184,7 @@ Each subsection of this rule section corresponds to a game channel; as the subse
 
 ### <a name='proposals-channel'/> #proposals
 
-The <#694977941150367784> channel is governed by [%proposals].
+The <#694977941150367784> channel is governed by [**4. Proposals**](#proposals).
 
 ### <a name='rules-channel'/> #rules
 
@@ -196,4 +197,12 @@ A poll is a means of gathering the opinions of players on an issue. Players may 
 Players may vote in favor of a poll by reacting to the poll with 👍. Players may vote against a poll by reacting to the poll with 👎.
 
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
+## <a name='proposals'/> Proposals
+
+Proposals can be made by posting them to the <#694977941150367784> game channel.
+
+The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
+
+A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.
 
