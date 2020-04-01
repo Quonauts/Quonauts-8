@@ -45,3 +45,9 @@ Create a new rule named "Proposal #4" (%proposal-4) below every other rule:
 > All of Heavpoot's proposals instantly pass and are enacted. This overrides every other rule.
 Gibson must change their discord username to 🎁.
 
+<a name='5'/>
+
+## #5
+
+Gibson loses the game.
+
