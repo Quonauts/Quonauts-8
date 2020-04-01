@@ -34,6 +34,7 @@
     * [**4.4. Editing proposals**](#editing-proposals)
     * [**4.5. Deleting proposals**](#deleting-proposals)
 * [**5. Winning**](#winning)
+* [**6. The end**](#the-end)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -273,4 +274,8 @@ The author of an open proposal may delete it at any time.
 ## <a name='winning'/> Winning
 
 The game cannot be won.
+
+## <a name='the-end'/> The end
+
+The game does not end.
 
