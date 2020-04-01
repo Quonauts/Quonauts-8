@@ -181,7 +181,5 @@ Each subsection of this rule section corresponds to a game channel; as the subse
 
 ### <a name='proposals-channel'/> #proposals
 
-The game rules govern only messages and reactions in the "Quonauts 8" category of the Discord server.
-
-Each subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.
+The <#694977941150367784> channel is governed by [%proposals].
 
