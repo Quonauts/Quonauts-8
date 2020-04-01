@@ -25,6 +25,7 @@
     * [**3.2. #rules**](#rules-channel)
     * [**3.3. #polls**](#polls-channel)
 * [**4. Proposals**](#proposals)
+    * [**4.1. Proposal content**](#proposal-content)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -205,4 +206,14 @@ Proposals can be made by posting them to the <#694977941150367784> game channel.
 The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.
+
+### <a name='proposal-content'/> Proposal content
+
+A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
+
+A proposal must not depend on information outside of the game state, or propose a rule that does so.
+
+If a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.
+
+If a proposal describes the creation of a new rule section, it must specify its title, its location in relation to an existing one, and its content. If the proposal conflicts with an existing rule, the proposal must explicitly note which rule takes precedence in which situation.
 
