@@ -139,3 +139,9 @@ Any player may edit the rules to conform to these style conventions. Edits made 
 * Lists should be separated by the paragraphs above and below by a blank line.
 * Two lists of the same type can not be adjacent. (This is treated as one list when converted to Markdown.)
 
+Within a given list, all elements should have the same style, chosen from the following:
+
+* Elements are words or phrases, and do not end with a period.
+* Elements are clauses ending in a period (or other punctuation), and optionally followed by complete sentences.
+* Elements are complete sentences ending in a period, and optionally followed by more complete sentences.
+
