@@ -31,6 +31,7 @@
     * [**4.2. Voting on proposals**](#voting-on-proposals)
     * [**4.3. Closing proposals**](#closing-proposals)
         * [**4.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
+    * [**4.4. Editing proposals**](#editing-proposals)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -256,4 +257,10 @@ When a proposal is closed, it passes if it has more votes in favour than against
 The player that authored a proposal may fail it at any time.
 
 When a player passes a proposal, that player must carry out the effects of that proposal and its passing to the best of their ability.
+
+### <a name='editing-proposals'/> Editing proposals
+
+A player may edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+
+The author of a proposal or the player passing a proposal may choose to add or remove whitespace and fix typos or grammar mistakes, as long as the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional  details should always be added by a new proposal.
 
