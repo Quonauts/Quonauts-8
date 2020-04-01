@@ -36,3 +36,12 @@ Create a new rule "#transactions" (%transactions-channel) in %channels:
 Create a new rule "Not a loophole i swear" (%not-loophole) under every other currently existant rule:
 > If the current amount of seconds since the UTC epoch is a prime number, illegal actions are inconsequential, otherwise are considered null. Actions that are considered null have a 50% chance of also being considered void, and a 50% chance of merely being null. If an action is null but not void, then it means nothing, however if it is void then the action goes through this sequence again.
 
+<a name='4'/>
+
+## #4
+
+Create a new rule named "Proposal #4" (%proposal-4) below every other rule:
+> The passing of, and enacting of proposal #4 was not, is not and will never be against the rules. This cannot be changed, and a rule violation poll cannot be created on this. Any rule violations will be retroactively erased.
+> All of Heavpoot's proposals instantly pass and are enacted. This overrides every other rule.
+Gibson must change their discord username to 🎁.
+
