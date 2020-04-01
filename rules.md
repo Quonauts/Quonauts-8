@@ -4,6 +4,7 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Glossary**](#glossary)
+    * [**1.2. Accuracy**](#accuracy)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -27,4 +28,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Subsection**: A section contained within another another section.
 * **Clause**: A single statement in the rules.
 * **Limited scope** (of two clauses): The clause with the most constraints.
+
+### <a name='accuracy'/> Accuracy
+
+This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they are in the legal game state, rather than their description in this document.
 
