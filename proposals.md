@@ -51,3 +51,9 @@ Gibson must change their discord username to 🎁.
 
 Gibson loses the game.
 
+<a name='6'/>
+
+## #6
+
+Fail and undo proposal 4
+
