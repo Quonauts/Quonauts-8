@@ -93,10 +93,7 @@ nobody can lose past this point. Any rule regarding the removal of this rule mus
 
 <a name='13'/>
 
-## #13
-
-Create a new rule, proposal #13, which states that:
-iff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are treated as though they have 10000000 upvotes.
+## #13 — Deleted
 
 <a name='14'/>
 
