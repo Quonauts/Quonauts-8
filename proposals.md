@@ -123,3 +123,9 @@ iff proposal #10 passed, if the polls in question fail after 48 hours, their ass
 Create a new rule, proposal #17, which states that:
 "thumbs-ups", "upvotes", and "votes for" all mean "for vote"
 
+<a name='18'/>
+
+## #18
+
+Anyone who votes for this proposal is forthwith never to be considered an active player, regardless of their actual activity.
+
