@@ -57,3 +57,9 @@ Gibson loses the game.
 
 Fail and undo proposal 4
 
+<a name='7'/>
+
+## #7
+
+Unpass proposal 4 and make it up for voting again.
+
