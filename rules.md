@@ -35,7 +35,6 @@
     * [**4.5. Deleting proposals**](#deleting-proposals)
 * [**5. Winning**](#winning)
 * [**6. The end**](#the-end)
-* [**7. Proposal #4**](#proposal-4)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -279,9 +278,4 @@ The game cannot be won.
 ## <a name='the-end'/> The end
 
 The game does not end.
-
-## <a name='proposal-4'/> Proposal #4
-
-The passing of, and enacting of proposal #4 was not, is not and will never be against the rules. This cannot be changed, and a rule violation poll cannot be created on this. Any rule violations will be retroactively erased.
-All of Heavpoot's proposals instantly pass and are enacted. This overrides every other rule.
 
