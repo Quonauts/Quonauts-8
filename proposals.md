@@ -172,3 +172,10 @@ add a new rule:
 Rule w:
 the worlds rule and proposal are interchangable as far as names for rules go
 
+<a name='24'/>
+
+## #24
+
+Add a new rule named "Proposal #28" (%proposal-35):
+> No new proposals may be created. No existing proposals may be closed. This overrides all other rules, where applicable.
+
