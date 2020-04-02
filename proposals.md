@@ -65,3 +65,11 @@ Fail and undo proposal 4
 
 ## #8 — Deleted
 
+<a name='9'/>
+
+## #9
+
+Define two new quantities, "passed-proposals" and "enacted-proposals".
+Create a new rule named "Passed/enacted proposals" (%passed-enacted-proposals):
+> When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).
+
