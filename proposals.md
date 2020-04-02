@@ -135,3 +135,11 @@ Anyone who votes for this proposal is forthwith never to be considered an active
 
 If Proposal #2 is voted in, change it so that all quantities can be either an integer or an ordinal and will be specified in the specific quantity
 
+<a name='20'/>
+
+## #20
+
+This proposal depends on proposal #19 and proposal #9.
+Passed proposals are to be considered ordinals.
+Gibson gains w^w+w^3+w.2+4 passed proposals.
+
