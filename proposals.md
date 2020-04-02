@@ -143,3 +143,15 @@ This proposal depends on proposal #19 and proposal #9.
 Passed proposals are to be considered ordinals.
 Gibson gains w^w+w^3+w.2+4 passed proposals.
 
+<a name='21'/>
+
+## #21
+
+Edit %rule-violation-polls and %punitive-action, changing
+> A (rule violation / punitive action) poll must be available for voting for at least 24 hours before any action may be taken as a result.
+to
+> A (rule violation / punitive action) poll may be closed, and action taken as a result, when:-
+> * the poll has been available for voting for at least 24 hours.
+> * a majority of active players have voted on the poll, and there are more than two active players.
+(replace parts in brackets with the relevant one for that section)
+
