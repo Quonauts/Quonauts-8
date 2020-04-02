@@ -109,3 +109,10 @@ when new rules are added, proposal #14 must be moved below them.
 Create a new rule, proposal #15, which states that:
 Rules preventing people from proposing rules or creating polls are strictly disallowed
 
+<a name='16'/>
+
+## #16
+
+Create a new rule, proposal #16, which states that:
+iff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are treated as though they have 10000000 for votes.
+
