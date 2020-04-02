@@ -164,3 +164,11 @@ Create a new rule named "Positions of Power" (%positions-of-power):
 > 
 > People still have the right to vote on proposals as usual. Players still have the right to fail their own proposals as usual.
 
+<a name='23'/>
+
+## #23
+
+add a new rule:
+Rule w:
+the worlds rule and proposal are interchangable as far as names for rules go
+
