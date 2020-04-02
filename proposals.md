@@ -47,7 +47,7 @@ Gibson must change their discord username to 🎁.
 
 <a name='5'/>
 
-## #5 — Passed
+## #5
 
 Gibson loses the game.
 
