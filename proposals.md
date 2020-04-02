@@ -82,10 +82,7 @@ the passing of or enacting of proposals can be polled over whether the passing w
 
 <a name='11'/>
 
-## #11
-
-Create a new rule, proposal #11, which states that:
-iff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are passed automatically.
+## #11 — Deleted
 
 <a name='12'/>
 
