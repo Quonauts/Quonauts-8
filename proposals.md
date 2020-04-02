@@ -129,3 +129,9 @@ Create a new rule, proposal #17, which states that:
 
 Anyone who votes for this proposal is forthwith never to be considered an active player, regardless of their actual activity.
 
+<a name='19'/>
+
+## #19
+
+If Proposal #2 is voted in, change it so that all quantities can be either an integer or an ordinal and will be specified in the specific quantity
+
