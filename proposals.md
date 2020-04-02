@@ -103,5 +103,5 @@ iff proposal #10 passed, if the polls in question fail after 48 hours, their ass
 ## #14
 
 Create a new rule, proposal #14, which states that:
-when new rules are added, proposal #14 must be moved beloow them
+when new rules are added, proposal #14 must be moved below them.
 
