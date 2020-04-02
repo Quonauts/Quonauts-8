@@ -105,3 +105,10 @@ iff proposal #10 passed, if the polls in question fail after 48 hours, their ass
 Create a new rule, proposal #14, which states that:
 when new rules are added, proposal #14 must be moved below them.
 
+<a name='15'/>
+
+## #15
+
+Create a new rule, proposal #15, which states that:
+Rules preventing people from proposing rules or creating polls are strictly disallowed
+
