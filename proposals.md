@@ -63,8 +63,5 @@ Fail and undo proposal 4
 
 <a name='8'/>
 
-## #8
-
-Unpass proposal 4 and set it up for voting again, it's passing was unfair as it wasn't passed yet, so it couldn't have passed instantly as the rule didn't exist yet.
-Along with that, make proposal #5 up for voting again as it couldn't've passed instantly because proposal 4 couldn't've passed instantly.
+## #8 — Deleted
 
