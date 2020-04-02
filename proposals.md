@@ -155,3 +155,12 @@ to
 > * a majority of active players have voted on the poll, and there are more than two active players.
 (replace parts in brackets with the relevant one for that section)
 
+<a name='22'/>
+
+## #22
+
+Create a new rule named "Positions of Power" (%positions-of-power):
+> Players elect a president every week. The president grants the position of chancellor to another player. Only the chancellor may make proposals. The president may revoke the position of chancellor and put a new player in that position at any time. Neither position may ever be empty, ie. as long as no new president/chancellor has been declared, the old one is in power. Proposals created by a chancellor remain active after they leave the position.
+> 
+> People still have the right to vote on proposals as usual. Players still have the right to fail their own proposals as usual.
+
