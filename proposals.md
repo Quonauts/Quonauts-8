@@ -247,6 +247,6 @@ No rule may undo, remove, or in any way, shape, or form, modify Proposal #30.
 
 ## #35
 
-Edit Rule 5 to say:
+Edit Rule 5 [%winning] to say:
 The game cannot be won unless SoundOfSpouting has the Cool role.
 
