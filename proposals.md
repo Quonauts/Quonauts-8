@@ -227,3 +227,9 @@ Add a rule "100% loophole proof" (%no-more-heav) at the end:
 
 No proposal may undo or remove Proposal 30. This is to stop people from undoing/removing the rule by overriding the proposal instead of the rule.
 
+<a name='32'/>
+
+## #32
+
+No proposal or rule may undo or remove proposal #31 or proposal #32 either.
+
