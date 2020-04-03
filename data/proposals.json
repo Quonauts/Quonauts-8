@@ -1,4 +1,566 @@
 {
 	"channel": 694977941150367784,
-	"proposals": []
+	"proposals": [
+		{
+			"n": 1,
+			"author": 353513054912249856,
+			"content": "remove the rule that lets people add rules",
+			"status": "voting",
+			"message_id": 694988278595715219,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"321647780475174922": 1,
+				"330678593904443393": 0,
+				"353513054912249856": 1,
+				"364562317645709336": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585764917
+		},
+		{
+			"n": 2,
+			"author": 309787486278909952,
+			"content": "Create a new rule \"Quantities\" (%quantities) in %player-state:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must always be an integer.\n> * must never have a negative value.\n> \n> Quantities may be traded or exchanged in ways specifically allowed by the rules.\n> \n> The following quantities exist:\n> * \n> \n> When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.\n\nCreate a new rule \"#transactions\" (%transactions-channel) in %channels:\n> The #transactions channel may be used to modify quantities, but only as the rules allow them to be modified.",
+			"status": "voting",
+			"message_id": 695001394398101645,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"321647780475174922": 1,
+				"364562317645709336": 1,
+				"421060058009305088": 1,
+				"474424490382589952": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1585768044
+		},
+		{
+			"n": 3,
+			"author": 160279332454006795,
+			"content": "Create a new rule \"Not a loophole i swear\" (%not-loophole) under every other currently existant rule:\n> If the current amount of seconds since the UTC epoch is a prime number, illegal actions are inconsequential, otherwise are considered null. Actions that are considered null have a 50% chance of also being considered void, and a 50% chance of merely being null. If an action is null but not void, then it means nothing, however if it is void then the action goes through this sequence again.",
+			"status": "voting",
+			"message_id": 695048305692115005,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"321647780475174922": -1,
+				"330678593904443393": 1,
+				"364562317645709336": 0,
+				"421060058009305088": -1,
+				"474424490382589952": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585779229
+		},
+		{
+			"n": 4,
+			"author": 160279332454006795,
+			"content": "Create a new rule named \"Proposal #4\" (%proposal-4) below every other rule:\n> The passing of, and enacting of proposal #4 was not, is not and will never be against the rules. This cannot be changed, and a rule violation poll cannot be created on this. Any rule violations will be retroactively erased.\n> All of Heavpoot's proposals instantly pass and are enacted. This overrides every other rule.\nGibson must change their discord username to \ud83c\udf81.",
+			"status": "voting",
+			"message_id": 695049958721716275,
+			"votes": {
+				"151149148639330304": -1,
+				"321647780475174922": -1,
+				"364562317645709336": 1,
+				"474424490382589952": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585779623
+		},
+		{
+			"n": 5,
+			"author": 160279332454006795,
+			"content": "Gibson loses the game.",
+			"status": "voting",
+			"message_id": 695050466031173673,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"364562317645709336": -1,
+				"474424490382589952": -1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1585779744
+		},
+		{
+			"n": 6,
+			"author": 427589146295664667,
+			"content": "Fail and undo proposal 4",
+			"status": "voting",
+			"message_id": 695086244866031626,
+			"votes": {
+				"151149148639330304": 0,
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"321647780475174922": 1,
+				"364562317645709336": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"474424490382589952": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1585788274
+		},
+		{
+			"n": 7,
+			"author": 474424490382589952,
+			"content": "Unpass proposal 4 and make it up for voting again.",
+			"status": "deleted",
+			"message_id": 695101984180797440,
+			"votes": {},
+			"timestamp": 1585792027
+		},
+		{
+			"n": 8,
+			"author": 474424490382589952,
+			"content": "Unpass proposal 4 and set it up for voting again, it's passing was unfair as it wasn't passed yet, so it couldn't have passed instantly as the rule didn't exist yet.\nAlong with that, make proposal #5 up for voting again as it couldn't've passed instantly because proposal 4 couldn't've passed instantly.",
+			"status": "deleted",
+			"message_id": 695102862103150665,
+			"votes": {},
+			"timestamp": 1585792236
+		},
+		{
+			"n": 9,
+			"author": 160279332454006795,
+			"content": "Define two new quantities, \"passed-proposals\" and \"enacted-proposals\".\nCreate a new rule named \"Passed/enacted proposals\" (%passed-enacted-proposals):\n> When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).",
+			"status": "voting",
+			"message_id": 695230494396383233,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"321647780475174922": 1,
+				"364562317645709336": 1,
+				"421060058009305088": 1,
+				"628661184081559589": 1
+			},
+			"timestamp": 1585822666
+		},
+		{
+			"n": 10,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #10, which states that:\nthe passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.",
+			"status": "voting",
+			"message_id": 695361441884143646,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"321647780475174922": 1,
+				"364562317645709336": 0,
+				"474424490382589952": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1585853886
+		},
+		{
+			"n": 11,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #11, which states that:\niff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are passed automatically.",
+			"status": "deleted",
+			"message_id": 695362460898689076,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1585854129
+		},
+		{
+			"n": 12,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #12: which states that:\nnobody can lose past this point. Any rule regarding the removal of this rule must have unanimous support to pass",
+			"status": "voting",
+			"message_id": 695363240070217768,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"321647780475174922": 1,
+				"364562317645709336": 1,
+				"421060058009305088": 1,
+				"474424490382589952": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1585854315
+		},
+		{
+			"n": 13,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #13, which states that:\niff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are treated as though they have 10000000 upvotes.",
+			"status": "deleted",
+			"message_id": 695364682864787618,
+			"votes": {
+				"160279332454006795": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1585854659
+		},
+		{
+			"n": 14,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #14, which states that:\nwhen new rules are added, proposal #14 must be moved below them.",
+			"status": "voting",
+			"message_id": 695366659166175283,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"474424490382589952": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585855130
+		},
+		{
+			"n": 15,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #15, which states that:\nRules preventing people from proposing rules or creating polls are strictly disallowed",
+			"status": "voting",
+			"message_id": 695368872588738560,
+			"votes": {
+				"160279332454006795": 1,
+				"364562317645709336": -1,
+				"421060058009305088": 1,
+				"474424490382589952": 1
+			},
+			"timestamp": 1585855658
+		},
+		{
+			"n": 16,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #16, which states that:\niff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are treated as though they have 10000000 for votes.",
+			"status": "voting",
+			"message_id": 695369987405381684,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": -1,
+				"364562317645709336": -1,
+				"421060058009305088": 1,
+				"474424490382589952": -1
+			},
+			"timestamp": 1585855924
+		},
+		{
+			"n": 17,
+			"author": 421060058009305088,
+			"content": "Create a new rule, proposal #17, which states that:\n\"thumbs-ups\", \"upvotes\", and \"votes for\" all mean \"for vote\"",
+			"status": "voting",
+			"message_id": 695370496820117544,
+			"votes": {
+				"160279332454006795": -1,
+				"364562317645709336": -1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1585856045
+		},
+		{
+			"n": 18,
+			"author": 330678593904443393,
+			"content": "Anyone who votes for this proposal is forthwith never to be considered an active player, regardless of their actual activity.",
+			"status": "voting",
+			"message_id": 695378990780645376,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": -1,
+				"321647780475174922": 1,
+				"330678593904443393": 1,
+				"364562317645709336": 1,
+				"421060058009305088": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585858070
+		},
+		{
+			"n": 19,
+			"author": 421060058009305088,
+			"content": "If Proposal #2 is voted in, change it so that all quantities can be either an integer or an ordinal and will be specified in the specific quantity",
+			"status": "voting",
+			"message_id": 695383458653929532,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"321647780475174922": 1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585859135
+		},
+		{
+			"n": 20,
+			"author": 160279332454006795,
+			"content": "This proposal depends on proposal #19 and proposal #9.\nPassed proposals are to be considered ordinals.\nGibson gains w^w+w^3+w.2+4 passed proposals.",
+			"status": "voting",
+			"message_id": 695384628617412688,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"364562317645709336": 0,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585859414
+		},
+		{
+			"n": 21,
+			"author": 309787486278909952,
+			"content": "Edit %rule-violation-polls and %punitive-action, changing\n> A (rule violation / punitive action) poll must be available for voting for at least 24 hours before any action may be taken as a result.\nto\n> A (rule violation / punitive action) poll may be closed, and action taken as a result, when:-\n> * the poll has been available for voting for at least 24 hours.\n> * a majority of active players have voted on the poll, and there are more than two active players.\n(replace parts in brackets with the relevant one for that section)",
+			"status": "voting",
+			"message_id": 695387872429211688,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1585860188
+		},
+		{
+			"n": 22,
+			"author": 160279332454006795,
+			"content": "Create a new rule named \"Positions of Power\" (%positions-of-power):\n> Players elect a president every week. The president grants the position of chancellor to another player. Only the chancellor may make proposals. The president may revoke the position of chancellor and put a new player in that position at any time. Neither position may ever be empty, ie. as long as no new president/chancellor has been declared, the old one is in power. Proposals created by a chancellor remain active after they leave the position.\n> \n> People still have the right to vote on proposals as usual. Players still have the right to fail their own proposals as usual.",
+			"status": "voting",
+			"message_id": 695388443903000669,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 0,
+				"421060058009305088": -1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1585860324
+		},
+		{
+			"n": 23,
+			"author": 421060058009305088,
+			"content": "add a new rule:\nRule w:\nthe worlds rule and proposal are interchangable as far as names for rules go",
+			"status": "voting",
+			"message_id": 695391764390871160,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585861116
+		},
+		{
+			"n": 24,
+			"author": 160279332454006795,
+			"content": "Add a new rule named \"Proposal #28\" (%proposal-35):\n> No new proposals may be created. No existing proposals may be closed. This overrides all other rules, where applicable.",
+			"status": "voting",
+			"message_id": 695396051464749216,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"474424490382589952": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1585862138
+		},
+		{
+			"n": 25,
+			"author": 160279332454006795,
+			"content": "Add a new rule named \"Proposal #28\" (%proposal-35):\n> The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.\nwhoops did i accidentally a loophole",
+			"status": "passed",
+			"message_id": 695577138753044521,
+			"votes": {},
+			"timestamp": 1585905312
+		},
+		{
+			"n": 26,
+			"author": 353513054912249856,
+			"content": "proposal numbers 27, 34 and 69 will not be passed, no matter what",
+			"status": "voting",
+			"message_id": 695626101937930361,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"353513054912249856": 1,
+				"364562317645709336": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1585916986
+		},
+		{
+			"n": 27,
+			"author": 364562317645709336,
+			"content": "\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ufdfd\ncan immediately pass or fail any open proposal. This overrides %precedence, %closing-proposals, and %passing-and-failing-proposals.",
+			"status": "failed",
+			"message_id": 695667788202639411,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"353513054912249856": 1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1585926925
+		},
+		{
+			"n": 28,
+			"author": 160279332454006795,
+			"content": "Add a new rule named \"Loophole harmlessness\" (%loophole-harmlessness):\n> As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.",
+			"status": "voting",
+			"message_id": 695668630003646573,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1585927126
+		},
+		{
+			"n": 29,
+			"author": 151149148639330304,
+			"content": "Add a rule named \"Cool\" [%cool] that is a subsection of [%roles] and says:\nThe Cool role is a role given to SoundOfSpouting with color #ff0000. No other player may have this role.",
+			"status": "voting",
+			"message_id": 695679380806041622,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1585929689
+		},
+		{
+			"n": 30,
+			"author": 330678593904443393,
+			"content": "Add a rule \"100% loophole proof\" (%no-more-heav) at the end:\n> It is forbidden to write any proposal that uses a loophole. A player even thinking about making a proposal using loopholes is immediately banned from the game and any of their game actions are to be disregarded/reverted and have no effect. This rule overrides all other rules, where applicable, and no rule or proposal may override this rule.",
+			"status": "voting",
+			"message_id": 695690716763914311,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1585932391
+		},
+		{
+			"n": 31,
+			"author": 427589146295664667,
+			"content": "No proposal may undo or remove Proposal 30. This is to stop people from undoing/removing the rule by overriding the proposal instead of the rule.",
+			"status": "deleted",
+			"message_id": 695691425081196644,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 0,
+				"427589146295664667": 1
+			},
+			"timestamp": 1585932560
+		},
+		{
+			"n": 32,
+			"author": 330678593904443393,
+			"content": "No proposal or rule may undo or remove proposal #31 or proposal #32 either.",
+			"status": "voting",
+			"message_id": 695691665322803240,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 0,
+				"421060058009305088": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1585932618
+		},
+		{
+			"n": 33,
+			"author": 427589146295664667,
+			"content": "No proposals nor rules can change the rules created by Proposals 30, 31, or 32. This is to prevent people from simply changing the rule to remove the no overriding part.",
+			"status": "deleted",
+			"message_id": 695693287293583360,
+			"votes": {
+				"151149148639330304": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1585933004
+		},
+		{
+			"n": 34,
+			"author": 427589146295664667,
+			"content": "Add a rule \"Lower-level loophole patch) (%no-more-heav-2) at the end:\n>>> No proposal may undo, remove, or in any way, shape, or form, modify Proposal #30.\nNo rule may undo, remove, or in any way, shape, or form, modify Proposal #30.",
+			"status": "voting",
+			"message_id": 695700179650871337,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1585934648
+		},
+		{
+			"n": 35,
+			"author": 151149148639330304,
+			"content": "Edit Rule 5 [%winning] to say:\nThe game cannot be won unless SoundOfSpouting has the Cool role.",
+			"status": "voting",
+			"message_id": 695700416410943488,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1585934704
+		},
+		{
+			"n": 36,
+			"author": 421060058009305088,
+			"content": "add a rule under %winning stating:\nheavpoot cannot win the game",
+			"status": "deleted",
+			"message_id": 695712653712031794,
+			"votes": {
+				"160279332454006795": -1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1585937622
+		},
+		{
+			"n": 37,
+			"author": 421060058009305088,
+			"content": "add a rule, titled \"Heavpoot cannot win\" under [%winning] stating:\nheavpoot cannot win the game",
+			"status": "voting",
+			"message_id": 695717531029078066,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1585938784
+		},
+		{
+			"n": 38,
+			"author": 309787486278909952,
+			"content": "Create a new rule \"Meta rules\", %meta-rules, after %meta-rules:\n> This rule details how the rules are to be applied to the game.\n> This rule takes precedence in all situations.\nThis rule takes precedence in all situations.",
+			"status": "voting",
+			"message_id": 695722706720784415,
+			"votes": {
+				"151149148639330304": 0,
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1585940018
+		}
+	]
 }

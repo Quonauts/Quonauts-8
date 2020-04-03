@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694981470271570081
+				694987476321829006
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694982084179001444
+				694987518495424643
 			]
 		},
 		"channels": {
@@ -32,7 +32,7 @@
 				"polls-channel"
 			],
 			"message_ids": [
-				694982825924886578
+				694987543115989052
 			]
 		},
 		"closing-proposals": {
@@ -44,7 +44,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				694983554127364226
+				694987585596162059
 			]
 		},
 		"conflict-resolution": {
@@ -54,7 +54,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				694983293359226990
+				694987566595702844
 			]
 		},
 		"content": {
@@ -64,7 +64,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694982244707729469
+				694987520433324112
 			]
 		},
 		"deleting-proposals": {
@@ -74,7 +74,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694983798781378580
+				694987605925691462
 			]
 		},
 		"dependency-resolution": {
@@ -84,7 +84,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				694983372547686441
+				694987583993937980
 			]
 		},
 		"disallowed-by-default": {
@@ -94,7 +94,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694981586604654614
+				694987478062333992
 			]
 		},
 		"editing-proposals": {
@@ -104,7 +104,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694983738278281267
+				694987587517022219
 			]
 		},
 		"errors": {
@@ -114,7 +114,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				694981720725913651
+				694987497305931786
 			]
 		},
 		"formatting": {
@@ -124,7 +124,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694982463516049519
+				694987540335296665
 			]
 		},
 		"glossary": {
@@ -134,7 +134,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694981408904708148
+				694987475692552233
 			]
 		},
 		"headers-and-tags": {
@@ -144,7 +144,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694982306644885624
+				694987520953548911
 			]
 		},
 		"lists": {
@@ -154,7 +154,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694982360931762327
+				694987521708261467
 			]
 		},
 		"meta-rules": {
@@ -173,7 +173,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				694981347655286824
+				694987474640044122
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -183,7 +183,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				694983653092229120
+				694987586732818432
 			]
 		},
 		"player-state": {
@@ -195,7 +195,7 @@
 				"roles"
 			],
 			"message_ids": [
-				694982589924245554
+				694987541602107493
 			]
 		},
 		"polls-channel": {
@@ -205,7 +205,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694983117831929888
+				694987562875486329
 			]
 		},
 		"precedence": {
@@ -215,7 +215,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694981522771542138
+				694987477311684619
+			]
+		},
+		"proposal-35": {
+			"tag": "proposal-35",
+			"title": "Proposal #28",
+			"content": "The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				695577383176241172
 			]
 		},
 		"proposal-content": {
@@ -228,7 +238,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				694983209880125491
+				694987565400588389
 			]
 		},
 		"proposals": {
@@ -244,7 +254,7 @@
 				"deleting-proposals"
 			],
 			"message_ids": [
-				694983158130540658
+				694987564372983899
 			]
 		},
 		"proposals-channel": {
@@ -254,7 +264,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694982895588212817
+				694987543585751101
 			]
 		},
 		"punitive-action": {
@@ -264,7 +274,7 @@
 			"parent_tag": "rule-violation-polls",
 			"child_tags": [],
 			"message_ids": [
-				694981896006008912
+				694987499231248426
 			]
 		},
 		"roles": {
@@ -274,7 +284,7 @@
 			"parent_tag": "player-state",
 			"child_tags": [],
 			"message_ids": [
-				694982640914399295
+				694987542101229579
 			]
 		},
 		"root": {
@@ -288,11 +298,13 @@
 				"channels",
 				"proposals",
 				"winning",
-				"the-end"
+				"the-end",
+				"proposal-35"
 			],
 			"message_ids": [
-				694983913101328455,
-				694983914191716362
+				695577384065302568,
+				695577385172598805,
+				695577386137288746
 			]
 		},
 		"rule-violation-polls": {
@@ -304,7 +316,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				694981809221664780
+				694987497750659195
 			]
 		},
 		"rule-violations": {
@@ -317,7 +329,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				694981649217093672
+				694987496437842011
 			]
 		},
 		"rules-channel": {
@@ -327,7 +339,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694982992816373840
+				694987562053402736
 			]
 		},
 		"style-conventions": {
@@ -342,7 +354,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				694982168941690972
+				694987519544000672
 			]
 		},
 		"the-end": {
@@ -352,7 +364,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				694983912434171954
+				694987607645356042
 			]
 		},
 		"timezones": {
@@ -362,7 +374,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694982046979719218
+				694987500523094189
 			]
 		},
 		"voting-on-proposals": {
@@ -372,7 +384,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694983488956268574
+				694987585038057563
 			]
 		},
 		"winning": {
@@ -382,7 +394,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				694983868167487510
+				694987606882123809
 			]
 		}
 	}
