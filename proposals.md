@@ -235,3 +235,11 @@ No proposal or rule may undo or remove proposal #31 or proposal #32 either.
 
 ## #33 — Deleted
 
+<a name='34'/>
+
+## #34
+
+Add a rule "Lower-level loophole patch) (%no-more-heav-2) at the end:
+>>> No proposal may undo, remove, or in any way, shape, or form, modify Proposal #30.
+No rule may undo, remove, or in any way, shape, or form, modify Proposal #30.
+
