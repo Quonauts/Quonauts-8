@@ -243,3 +243,10 @@ Add a rule "Lower-level loophole patch) (%no-more-heav-2) at the end:
 >>> No proposal may undo, remove, or in any way, shape, or form, modify Proposal #30.
 No rule may undo, remove, or in any way, shape, or form, modify Proposal #30.
 
+<a name='35'/>
+
+## #35
+
+Edit Rule 5 to say:
+The game cannot be won unless SoundOfSpouting has the Cool role.
+
