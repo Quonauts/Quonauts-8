@@ -267,5 +267,6 @@ heavpoot cannot win the game
 
 Create a new rule "Meta rules", %meta-rules, after %meta-rules:
 > This rule details how the rules are to be applied to the game.
+> This rule takes precedence in all situations.
 This rule takes precedence in all situations.
 
