@@ -187,3 +187,9 @@ Add a new rule named "Proposal #28" (%proposal-35):
 > The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
 whoops did i accidentally a loophole
 
+<a name='26'/>
+
+## #26
+
+proposal numbers 27, 34 and 69 will not be passed, no matter what
+
