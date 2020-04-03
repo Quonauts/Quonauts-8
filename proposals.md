@@ -211,6 +211,6 @@ Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
 
 ## #29
 
-Add a rule named "Cool" (%cool) that is a subset of [%roles] and says:
+Add a rule named "Cool" [%cool] that is a subsection of [%roles] and says:
 The Cool role is a role given to SoundOfSpouting with color #ff0000. No other player may have this role.
 
