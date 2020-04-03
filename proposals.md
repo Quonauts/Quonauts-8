@@ -181,7 +181,7 @@ Add a new rule named "Proposal #28" (%proposal-35):
 
 <a name='25'/>
 
-## #25
+## #25 — Passed
 
 Add a new rule named "Proposal #28" (%proposal-35):
 > The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
