@@ -35,6 +35,7 @@
     * [**4.5. Deleting proposals**](#deleting-proposals)
 * [**5. Winning**](#winning)
 * [**6. The end**](#the-end)
+* [**7. Proposal #28**](#proposal-35)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -278,4 +279,8 @@ The game cannot be won.
 ## <a name='the-end'/> The end
 
 The game does not end.
+
+## <a name='proposal-35'/> Proposal #28
+
+The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
 
