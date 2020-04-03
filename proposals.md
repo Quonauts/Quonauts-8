@@ -179,3 +179,11 @@ the worlds rule and proposal are interchangable as far as names for rules go
 Add a new rule named "Proposal #28" (%proposal-35):
 > No new proposals may be created. No existing proposals may be closed. This overrides all other rules, where applicable.
 
+<a name='25'/>
+
+## #25
+
+Add a new rule named "Proposal #28" (%proposal-35):
+> The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
+whoops did i accidentally a loophole
+
