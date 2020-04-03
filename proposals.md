@@ -252,8 +252,5 @@ The game cannot be won unless SoundOfSpouting has the Cool role.
 
 <a name='36'/>
 
-## #36
-
-add a rule under %winning stating:
-heavpoot cannot win the game
+## #36 — Deleted
 
