@@ -265,7 +265,7 @@ heavpoot cannot win the game
 
 ## #38
 
-Create a new rule "Meta rules", %meta-rules:
+Create a new rule "Meta rules", %meta-rules, after %meta-rules:
 > This rule details how the rules are to be applied to the game.
 This rule takes precedence in all situations.
 
