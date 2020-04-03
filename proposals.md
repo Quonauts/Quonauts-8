@@ -214,3 +214,10 @@ Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
 Add a rule named "Cool" [%cool] that is a subsection of [%roles] and says:
 The Cool role is a role given to SoundOfSpouting with color #ff0000. No other player may have this role.
 
+<a name='30'/>
+
+## #30
+
+Add a rule "100% loophole proof" (%no-more-heav) at the end:
+> It is forbidden to write any proposal that uses a loophole. A player even thinking about making a proposal using loopholes is immediately banned from the game and any of their game actions are to be disregarded/reverted and have no effect. This rule overrides all other rules, where applicable, and no rule or proposal may override this rule.
+
