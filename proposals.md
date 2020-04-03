@@ -233,3 +233,9 @@ No proposal may undo or remove Proposal 30. This is to stop people from undoing/
 
 No proposal or rule may undo or remove proposal #31 or proposal #32 either.
 
+<a name='33'/>
+
+## #33
+
+No proposals nor rules can change the rules created by Proposals 30, 31, or 32. This is to prevent people from simply changing the rule to remove the no overriding part.
+
