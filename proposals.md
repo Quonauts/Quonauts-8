@@ -261,3 +261,11 @@ The game cannot be won unless SoundOfSpouting has the Cool role.
 add a rule, titled "Heavpoot cannot win" under [%winning] stating:
 heavpoot cannot win the game
 
+<a name='38'/>
+
+## #38
+
+Create a new rule "Meta rules", %meta-rules:
+> This rule details how the rules are to be applied to the game.
+This rule takes precedence in all situations.
+
