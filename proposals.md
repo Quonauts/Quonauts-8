@@ -200,3 +200,10 @@ proposal numbers 27, 34 and 69 will not be passed, no matter what
 ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽
 can immediately pass or fail any open proposal. This overrides %precedence, %closing-proposals, and %passing-and-failing-proposals.
 
+<a name='28'/>
+
+## #28
+
+Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
+> As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.
+
