@@ -195,7 +195,7 @@ proposal numbers 27, 34 and 69 will not be passed, no matter what
 
 <a name='27'/>
 
-## #27
+## #27 — Failed
 
 ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽
 can immediately pass or fail any open proposal. This overrides %precedence, %closing-proposals, and %passing-and-failing-proposals.
