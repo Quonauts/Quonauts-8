@@ -207,3 +207,10 @@ can immediately pass or fail any open proposal. This overrides %precedence, %clo
 Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
 > As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.
 
+<a name='29'/>
+
+## #29
+
+Add a rule named "Cool" (%cool) that is a subset of [%roles] and says:
+The Cool role is a role given to SoundOfSpouting with color #ff0000. No other player may have this role.
+
