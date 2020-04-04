@@ -276,3 +276,11 @@ proposal #39
 
 vibe check gibson if he is to vote against fucking idiot rat boy’s proposals
 
+<a name='40'/>
+
+## #40
+
+Proposal #40 
+
+Gibson cannot abstain from a vote
+
