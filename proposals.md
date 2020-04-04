@@ -268,3 +268,11 @@ Create a new rule "Meta rules", %meta-rules, after %meta-rules:
 > This rule takes precedence in all situations.
 This rule takes precedence in all situations.
 
+<a name='39'/>
+
+## #39
+
+proposal #39
+
+vibe check gibson if he is to vote against fucking idiot rat boy’s proposals
+
