@@ -227,9 +227,7 @@ Add a rule "100% loophole proof" (%no-more-heav) at the end:
 
 <a name='32'/>
 
-## #32
-
-No proposal or rule may undo or remove proposal #31 or proposal #32 either.
+## #32 — Deleted
 
 <a name='33'/>
 
