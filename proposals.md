@@ -31,7 +31,7 @@ Create a new rule "#transactions" (%transactions-channel) in %channels:
 
 <a name='3'/>
 
-## #3
+## #3 — Failed
 
 Create a new rule "Not a loophole i swear" (%not-loophole) under every other currently existant rule:
 > If the current amount of seconds since the UTC epoch is a prime number, illegal actions are inconsequential, otherwise are considered null. Actions that are considered null have a 50% chance of also being considered void, and a 50% chance of merely being null. If an action is null but not void, then it means nothing, however if it is void then the action goes through this sequence again.
