@@ -29,10 +29,11 @@
 			"child_tags": [
 				"proposals-channel",
 				"rules-channel",
-				"polls-channel"
+				"polls-channel",
+				"transactions-channel"
 			],
 			"message_ids": [
-				694987543115989052
+				695956972368953354
 			]
 		},
 		"closing-proposals": {
@@ -44,7 +45,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				694987585596162059
+				695957016111218749
 			]
 		},
 		"conflict-resolution": {
@@ -54,7 +55,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				694987566595702844
+				695956996494458910
 			]
 		},
 		"content": {
@@ -74,7 +75,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694987605925691462
+				695957019361804328
 			]
 		},
 		"dependency-resolution": {
@@ -84,7 +85,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				694987583993937980
+				695956997157421157
 			]
 		},
 		"disallowed-by-default": {
@@ -104,7 +105,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694987587517022219
+				695957018162233376
 			]
 		},
 		"errors": {
@@ -176,6 +177,16 @@
 				694987474640044122
 			]
 		},
+		"passed-enacted-proposals": {
+			"tag": "passed-enacted-proposals",
+			"title": "Passed/enacted proposals",
+			"content": "When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				695956971349606431
+			]
+		},
 		"passing-and-failing-proposals": {
 			"tag": "passing-and-failing-proposals",
 			"title": "Passing and failing proposals",
@@ -183,7 +194,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				694987586732818432
+				695957017482756206
 			]
 		},
 		"player-state": {
@@ -192,7 +203,8 @@
 			"content": "Each player has their own \"Player state\". The player state of each player is part of the overall game state. Each subsection of this rule is part of each player's state.",
 			"parent_tag": "root",
 			"child_tags": [
-				"roles"
+				"roles",
+				"quantities"
 			],
 			"message_ids": [
 				694987541602107493
@@ -205,7 +217,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694987562875486329
+				695956974730346578
 			]
 		},
 		"precedence": {
@@ -225,7 +237,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				695577383176241172
+				695957038869774386
 			]
 		},
 		"proposal-content": {
@@ -238,7 +250,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				694987565400588389
+				695956994963669044
 			]
 		},
 		"proposals": {
@@ -254,7 +266,7 @@
 				"deleting-proposals"
 			],
 			"message_ids": [
-				694987564372983899
+				695956994145779723
 			]
 		},
 		"proposals-channel": {
@@ -264,7 +276,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694987543585751101
+				695956972973064203
 			]
 		},
 		"punitive-action": {
@@ -275,6 +287,18 @@
 			"child_tags": [],
 			"message_ids": [
 				694987499231248426
+			]
+		},
+		"quantities": {
+			"tag": "quantities",
+			"title": "Quantities",
+			"content": "A quantity is a named property with a numerical value for each player.\n\n    By default any unique quantity added to the game:\n    * applies to all players.\n    * is instantiated at zero.\n    * must always be an integer.\n    * must never have a negative value.\n\n    Quantities may be traded or exchanged in ways specifically allowed by the rules.\n\n    The following quantities exist:\n    * \n\n    When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.",
+			"parent_tag": "player-state",
+			"child_tags": [
+				"passed-enacted-proposals"
+			],
+			"message_ids": [
+				695956087752491018
 			]
 		},
 		"roles": {
@@ -302,9 +326,9 @@
 				"proposal-35"
 			],
 			"message_ids": [
-				695577384065302568,
-				695577385172598805,
-				695577386137288746
+				695957039725412473,
+				695957040375529483,
+				695957058905702421
 			]
 		},
 		"rule-violation-polls": {
@@ -339,7 +363,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				694987562053402736
+				695956974319173642
 			]
 		},
 		"style-conventions": {
@@ -364,7 +388,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				694987607645356042
+				695957037997359194
 			]
 		},
 		"timezones": {
@@ -377,6 +401,16 @@
 				694987500523094189
 			]
 		},
+		"transactions-channel": {
+			"tag": "transactions-channel",
+			"title": "#transactions",
+			"content": "The <#695956107079843872> channel may be used to modify quantities, but only as the rules allow them to be modified.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				695956993353187328
+			]
+		},
 		"voting-on-proposals": {
 			"tag": "voting-on-proposals",
 			"title": "Voting on proposals",
@@ -384,7 +418,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				694987585038057563
+				695957015360700416
 			]
 		},
 		"winning": {
@@ -394,7 +428,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				694987606882123809
+				695957037179338773
 			]
 		}
 	}

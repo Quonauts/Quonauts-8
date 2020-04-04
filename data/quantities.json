@@ -1,1 +1,14 @@
-{}
+{
+	"enacted-proposals": {
+		"name": "enacted-proposals",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"passed-proposals": {
+		"name": "passed-proposals",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	}
+}

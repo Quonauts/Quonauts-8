@@ -5,7 +5,7 @@
 			"n": 1,
 			"author": 353513054912249856,
 			"content": "remove the rule that lets people add rules",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 694988278595715219,
 			"votes": {
 				"151149148639330304": -1,
@@ -25,7 +25,7 @@
 			"n": 2,
 			"author": 309787486278909952,
 			"content": "Create a new rule \"Quantities\" (%quantities) in %player-state:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must always be an integer.\n> * must never have a negative value.\n> \n> Quantities may be traded or exchanged in ways specifically allowed by the rules.\n> \n> The following quantities exist:\n> * \n> \n> When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.\n\nCreate a new rule \"#transactions\" (%transactions-channel) in %channels:\n> The #transactions channel may be used to modify quantities, but only as the rules allow them to be modified.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695001394398101645,
 			"votes": {
 				"151149148639330304": 1,
@@ -43,7 +43,7 @@
 			"n": 3,
 			"author": 160279332454006795,
 			"content": "Create a new rule \"Not a loophole i swear\" (%not-loophole) under every other currently existant rule:\n> If the current amount of seconds since the UTC epoch is a prime number, illegal actions are inconsequential, otherwise are considered null. Actions that are considered null have a 50% chance of also being considered void, and a 50% chance of merely being null. If an action is null but not void, then it means nothing, however if it is void then the action goes through this sequence again.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695048305692115005,
 			"votes": {
 				"151149148639330304": -1,
@@ -62,7 +62,7 @@
 			"n": 4,
 			"author": 160279332454006795,
 			"content": "Create a new rule named \"Proposal #4\" (%proposal-4) below every other rule:\n> The passing of, and enacting of proposal #4 was not, is not and will never be against the rules. This cannot be changed, and a rule violation poll cannot be created on this. Any rule violations will be retroactively erased.\n> All of Heavpoot's proposals instantly pass and are enacted. This overrides every other rule.\nGibson must change their discord username to \ud83c\udf81.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695049958721716275,
 			"votes": {
 				"151149148639330304": -1,
@@ -77,7 +77,7 @@
 			"n": 5,
 			"author": 160279332454006795,
 			"content": "Gibson loses the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695050466031173673,
 			"votes": {
 				"151149148639330304": 1,
@@ -129,7 +129,7 @@
 			"n": 9,
 			"author": 160279332454006795,
 			"content": "Define two new quantities, \"passed-proposals\" and \"enacted-proposals\".\nCreate a new rule named \"Passed/enacted proposals\" (%passed-enacted-proposals):\n> When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695230494396383233,
 			"votes": {
 				"151149148639330304": 1,
@@ -391,7 +391,8 @@
 				"160279332454006795": -1,
 				"353513054912249856": 1,
 				"364562317645709336": 1,
-				"421060058009305088": -1
+				"421060058009305088": -1,
+				"474424490382589952": -1
 			},
 			"timestamp": 1585916986
 		},
@@ -470,7 +471,7 @@
 			"n": 32,
 			"author": 330678593904443393,
 			"content": "No proposal or rule may undo or remove proposal #31 or proposal #32 either.",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 695691665322803240,
 			"votes": {
 				"151149148639330304": -1,
@@ -520,7 +521,8 @@
 				"160279332454006795": 1,
 				"309787486278909952": 1,
 				"421060058009305088": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"628661184081559589": 1
 			},
 			"timestamp": 1585934704
 		},
@@ -545,7 +547,9 @@
 			"votes": {
 				"151149148639330304": -1,
 				"160279332454006795": -1,
-				"309787486278909952": -1
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"628661184081559589": -1
 			},
 			"timestamp": 1585938784
 		},
@@ -558,9 +562,35 @@
 			"votes": {
 				"151149148639330304": 0,
 				"160279332454006795": 1,
-				"309787486278909952": 1
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"628661184081559589": 1
 			},
 			"timestamp": 1585940018
+		},
+		{
+			"n": 39,
+			"author": 628661184081559589,
+			"content": "proposal #39\n\nvibe check gibson if he is to vote against fucking idiot rat boy\u2019s proposals",
+			"status": "voting",
+			"message_id": 695955572243169331,
+			"votes": {
+				"309787486278909952": 0,
+				"628661184081559589": 1
+			},
+			"timestamp": 1585995538
+		},
+		{
+			"n": 40,
+			"author": 628661184081559589,
+			"content": "Proposal #40 \n\nGibson cannot abstain from a vote",
+			"status": "voting",
+			"message_id": 695956248415174657,
+			"votes": {
+				"309787486278909952": 1,
+				"628661184081559589": 1
+			},
+			"timestamp": 1585995699
 		}
 	]
 }
