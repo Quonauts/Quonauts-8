@@ -25,6 +25,7 @@
     * [**3.1. #proposals**](#proposals-channel)
     * [**3.2. #rules**](#rules-channel)
     * [**3.3. #polls**](#polls-channel)
+    * [**3.4. #transactions**](#transactions-channel)
 * [**4. Proposals**](#proposals)
     * [**4.1. Proposal content**](#proposal-content)
         * [**4.1.1. Conflict resolution**](#conflict-resolution)
@@ -226,6 +227,10 @@ A poll is a means of gathering the opinions of players on an issue. Players may 
 Players may vote in favor of a poll by reacting to the poll with 👍. Players may vote against a poll by reacting to the poll with 👎.
 
 The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+
+### <a name='transactions-channel'/> #transactions
+
+The <#695956107079843872> channel may be used to modify quantities, but only as the rules allow them to be modified.
 
 ## <a name='proposals'/> Proposals
 
