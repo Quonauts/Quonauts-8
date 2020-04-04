@@ -67,7 +67,7 @@ Fail and undo proposal 4
 
 <a name='9'/>
 
-## #9
+## #9 — Passed
 
 Define two new quantities, "passed-proposals" and "enacted-proposals".
 Create a new rule named "Passed/enacted proposals" (%passed-enacted-proposals):
