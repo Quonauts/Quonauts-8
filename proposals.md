@@ -8,7 +8,7 @@ remove the rule that lets people add rules
 
 <a name='2'/>
 
-## #2
+## #2 — Passed
 
 Create a new rule "Quantities" (%quantities) in %player-state:
 > A quantity is a named property with a numerical value for each player.
