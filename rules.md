@@ -21,6 +21,7 @@
 * [**2. Player state**](#player-state)
     * [**2.1. Roles**](#roles)
     * [**2.2. Quantities**](#quantities)
+        * [**2.2.1. Passed/enacted proposals**](#passed-enacted-proposals)
 * [**3. Channels**](#channels)
     * [**3.1. #proposals**](#proposals-channel)
     * [**3.2. #rules**](#rules-channel)
@@ -205,6 +206,10 @@ A quantity is a named property with a numerical value for each player.
     * 
 
     When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
+
+#### <a name='passed-enacted-proposals'/> Passed/enacted proposals
+
+When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).
 
 ## <a name='channels'/> Channels
 
