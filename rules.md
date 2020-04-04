@@ -36,6 +36,7 @@
 * [**5. Winning**](#winning)
 * [**6. The end**](#the-end)
 * [**7. Proposal #28**](#proposal-35)
+* [**8. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -283,4 +284,21 @@ The game does not end.
 ## <a name='proposal-35'/> Proposal #28
 
 The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+    By default any unique quantity added to the game:
+    * applies to all players.
+    * is instantiated at zero.
+    * must always be an integer.
+    * must never have a negative value.
+
+    Quantities may be traded or exchanged in ways specifically allowed by the rules.
+
+    The following quantities exist:
+    * 
+
+    When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
 
