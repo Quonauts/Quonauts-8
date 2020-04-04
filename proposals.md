@@ -53,7 +53,7 @@ Gibson loses the game.
 
 <a name='6'/>
 
-## #6
+## #6 — Passed
 
 Fail and undo proposal 4
 
