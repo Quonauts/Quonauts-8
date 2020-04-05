@@ -315,3 +315,10 @@ Treat proposal #43 as though all active players downvoted it
 
 The next proposal by each active player who didn't downvote #44 will pass automatically without requiring a vote. This only applies to proposals that contain the word "duck".
 
+<a name='46'/>
+
+## #46
+
+Remove rule7 (%the-end). Replace rule 5 (%winning) with:
+> 64 is a sacred number. The author of proposal 64 will win the game and the game ends when proposal #64 has been submitted.
+
