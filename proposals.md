@@ -125,7 +125,7 @@ Create a new rule, proposal #17, which states that:
 
 <a name='18'/>
 
-## #18
+## #18 — Failed
 
 Anyone who votes for this proposal is forthwith never to be considered an active player, regardless of their actual activity.
 
