@@ -145,7 +145,7 @@ Gibson gains w^w+w^3+w.2+4 passed proposals.
 
 <a name='21'/>
 
-## #21
+## #21 — Passed
 
 Edit %rule-violation-polls and %punitive-action, changing
 > A (rule violation / punitive action) poll must be available for voting for at least 24 hours before any action may be taken as a result.
