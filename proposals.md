@@ -322,3 +322,10 @@ The next proposal by each active player who didn't downvote #44 will pass automa
 Remove rule7 (%the-end). Replace rule 5 (%winning) with:
 > 64 is a sacred number. The author of proposal 64 will win the game and the game ends when proposal #64 has been submitted.
 
+<a name='47'/>
+
+## #47
+
+Replace contents of rule %winning:
+"All players who voted on Proposal #47 win the game. This does not end the game."
+
