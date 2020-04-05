@@ -303,3 +303,9 @@ Create a new rule named "Proposal #42":
 
 Fail all proposals that are open at the time of passing this proposal.
 
+<a name='44'/>
+
+## #44
+
+Treat proposal #43 as though all active players downvoted it
+
