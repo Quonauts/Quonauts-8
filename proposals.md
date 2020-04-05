@@ -137,7 +137,7 @@ If Proposal #2 is voted in, change it so that all quantities can be either an in
 
 <a name='20'/>
 
-## #20
+## #20 — Failed
 
 This proposal depends on proposal #19 and proposal #9.
 Passed proposals are to be considered ordinals.
