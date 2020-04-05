@@ -341,3 +341,9 @@ Remove the rule named "Proposal #28" (%proposal-35)
 
 Create a <#694842119268990986> for this Quonauts game, because every other Quonauts game so far has one.
 
+<a name='50'/>
+
+## #50
+
+Make the next proposal be numbered #52 instead of #51. This is because the proposal numbered #51 was partially responsible for killing Quonauts 6, and completely responsible for killing Quonauts 5.
+
