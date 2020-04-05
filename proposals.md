@@ -166,7 +166,7 @@ Create a new rule named "Positions of Power" (%positions-of-power):
 
 <a name='23'/>
 
-## #23
+## #23 — Failed
 
 add a new rule:
 Rule w:
