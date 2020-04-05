@@ -297,3 +297,9 @@ how do i make proposals?
 Create a new rule named "Proposal #42":
 > Proposal #42
 
+<a name='43'/>
+
+## #43
+
+Fail all proposals that are open at the time of passing this proposal.
+
