@@ -37,8 +37,9 @@
     * [**4.4. Editing proposals**](#editing-proposals)
     * [**4.5. Deleting proposals**](#deleting-proposals)
 * [**5. Winning**](#winning)
-* [**6. The end**](#the-end)
-* [**7. Proposal #28**](#proposal-35)
+* [**6. Losing**](#losing)
+* [**7. The end**](#the-end)
+* [**8. Proposal #28**](#proposal-35)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -303,6 +304,10 @@ The author of an open proposal may delete it at any time.
 ## <a name='winning'/> Winning
 
 The game cannot be won.
+
+## <a name='losing'/> Losing
+
+Nobody can lose. Any proposal/rule regarding the removal of this rule must have unanimous support to pass.
 
 ## <a name='the-end'/> The end
 
