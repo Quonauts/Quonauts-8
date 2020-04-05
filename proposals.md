@@ -86,7 +86,7 @@ the passing of or enacting of proposals can be polled over whether the passing w
 
 <a name='12'/>
 
-## #12
+## #12 — Passed
 
 Create a new rule, proposal #12: which states that:
 nobody can lose past this point. Any rule regarding the removal of this rule must have unanimous support to pass
