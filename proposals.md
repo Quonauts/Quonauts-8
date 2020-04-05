@@ -329,3 +329,9 @@ Remove rule7 (%the-end). Replace rule 5 (%winning) with:
 Replace contents of rule %winning:
 "All players who voted on Proposal #47 win the game. This does not end the game."
 
+<a name='48'/>
+
+## #48
+
+Remove the rule named "Proposal #28" (%proposal-35)
+
