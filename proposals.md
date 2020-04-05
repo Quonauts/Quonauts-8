@@ -97,7 +97,7 @@ nobody can lose past this point. Any rule regarding the removal of this rule mus
 
 <a name='14'/>
 
-## #14
+## #14 — Failed
 
 Create a new rule, proposal #14, which states that:
 when new rules are added, proposal #14 must be moved below them.
