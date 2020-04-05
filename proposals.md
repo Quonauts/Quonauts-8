@@ -290,3 +290,10 @@ Gibson cannot abstain from a vote
 
 how do i make proposals?
 
+<a name='42'/>
+
+## #42
+
+Create a new rule named "Proposal #42":
+> Proposal #42
+
