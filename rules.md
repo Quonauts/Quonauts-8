@@ -307,7 +307,7 @@ The game cannot be won.
 
 ## <a name='losing'/> Losing
 
-Nobody can lose. Any proposal/rule regarding the removal of this rule must have unanimous support to pass.
+No player can lose. Any proposal regarding the removal of this rule must have unanimous support to pass.
 
 ## <a name='the-end'/> The end
 
