@@ -104,7 +104,7 @@ when new rules are added, proposal #14 must be moved below them.
 
 <a name='15'/>
 
-## #15
+## #15 — Failed
 
 Create a new rule, proposal #15, which states that:
 Rules preventing people from proposing rules or creating polls are strictly disallowed
