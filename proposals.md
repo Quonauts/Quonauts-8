@@ -118,7 +118,7 @@ iff proposal #10 passed, if the polls in question fail after 48 hours, their ass
 
 <a name='17'/>
 
-## #17
+## #17 — Failed
 
 Create a new rule, proposal #17, which states that:
 "thumbs-ups", "upvotes", and "votes for" all mean "for vote"
