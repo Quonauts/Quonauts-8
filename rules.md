@@ -117,7 +117,9 @@ Players should vote in favour of this poll only if they believe the convicted pl
 
 Any vote in such a poll cast by the convicted player is not counted.
 
-A punitive action poll must be available for voting for at least 24 hours before any action may be taken as a result.
+A punitive action poll may be closed, and action taken as a result, when:-
+* the poll has been available for voting for at least 24 hours.
+* a majority of active players have voted on the poll, and there are more than two active players.
 
 If a punitive action poll passes, then the convicted player may not perform any game actions for 24 hours.
 
