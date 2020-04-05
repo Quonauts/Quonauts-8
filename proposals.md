@@ -131,7 +131,7 @@ Anyone who votes for this proposal is forthwith never to be considered an active
 
 <a name='19'/>
 
-## #19
+## #19 — Failed
 
 If Proposal #2 is voted in, change it so that all quantities can be either an integer or an ordinal and will be specified in the specific quantity
 
