@@ -75,7 +75,7 @@ Create a new rule named "Passed/enacted proposals" (%passed-enacted-proposals):
 
 <a name='10'/>
 
-## #10
+## #10 — Passed
 
 Create a new rule, proposal #10, which states that:
 the passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.
