@@ -376,3 +376,10 @@ No rule or proposal can prevent people from proposing or passing a rule
 
 Proposal #55 is to be considered failed and then have its effects retroactively undone.
 
+<a name='56'/>
+
+## #56
+
+Append to rule %proposals:
+> The title of a new rule section must not reference (ie. include the number of) any specific proposal.
+
