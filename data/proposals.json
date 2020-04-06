@@ -11,7 +11,6 @@
 				"151149148639330304": -1,
 				"160279332454006795": -1,
 				"309787486278909952": -1,
-				"321647780475174922": 1,
 				"330678593904443393": 0,
 				"353513054912249856": 1,
 				"364562317645709336": -1,
@@ -31,7 +30,6 @@
 				"151149148639330304": 1,
 				"160279332454006795": 1,
 				"309787486278909952": 1,
-				"321647780475174922": 1,
 				"364562317645709336": 1,
 				"421060058009305088": 1,
 				"474424490382589952": 1,
@@ -49,7 +47,6 @@
 				"151149148639330304": -1,
 				"160279332454006795": 1,
 				"309787486278909952": 0,
-				"321647780475174922": -1,
 				"330678593904443393": 1,
 				"364562317645709336": 0,
 				"421060058009305088": -1,
@@ -66,7 +63,6 @@
 			"message_id": 695049958721716275,
 			"votes": {
 				"151149148639330304": -1,
-				"321647780475174922": -1,
 				"364562317645709336": 1,
 				"474424490382589952": -1,
 				"91269654017748992": -1
@@ -92,13 +88,12 @@
 			"n": 6,
 			"author": 427589146295664667,
 			"content": "Fail and undo proposal 4",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695086244866031626,
 			"votes": {
 				"151149148639330304": 0,
 				"160279332454006795": 0,
 				"309787486278909952": 0,
-				"321647780475174922": 1,
 				"364562317645709336": 0,
 				"421060058009305088": 1,
 				"427589146295664667": 1,
@@ -135,7 +130,6 @@
 				"151149148639330304": 1,
 				"160279332454006795": 1,
 				"309787486278909952": 1,
-				"321647780475174922": 1,
 				"364562317645709336": 1,
 				"421060058009305088": 1,
 				"628661184081559589": 1
@@ -151,8 +145,8 @@
 			"votes": {
 				"160279332454006795": -1,
 				"309787486278909952": 0,
-				"321647780475174922": 1,
 				"364562317645709336": 0,
+				"421060058009305088": 1,
 				"474424490382589952": 1,
 				"91269654017748992": 0
 			},
@@ -174,12 +168,11 @@
 			"n": 12,
 			"author": 421060058009305088,
 			"content": "Create a new rule, proposal #12: which states that:\nnobody can lose past this point. Any rule regarding the removal of this rule must have unanimous support to pass",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695363240070217768,
 			"votes": {
 				"160279332454006795": 1,
 				"309787486278909952": 1,
-				"321647780475174922": 1,
 				"364562317645709336": 1,
 				"421060058009305088": 1,
 				"474424490382589952": 1,
@@ -203,7 +196,7 @@
 			"n": 14,
 			"author": 421060058009305088,
 			"content": "Create a new rule, proposal #14, which states that:\nwhen new rules are added, proposal #14 must be moved below them.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695366659166175283,
 			"votes": {
 				"160279332454006795": -1,
@@ -218,7 +211,7 @@
 			"n": 15,
 			"author": 421060058009305088,
 			"content": "Create a new rule, proposal #15, which states that:\nRules preventing people from proposing rules or creating polls are strictly disallowed",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695368872588738560,
 			"votes": {
 				"160279332454006795": 1,
@@ -232,7 +225,7 @@
 			"n": 16,
 			"author": 421060058009305088,
 			"content": "Create a new rule, proposal #16, which states that:\niff proposal #10 passed, if the polls in question fail after 48 hours, their associated rules are removed. iff proposal #10 did not pass, any proposals by <@!421060058009305088> are treated as though they have 10000000 for votes.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695369987405381684,
 			"votes": {
 				"160279332454006795": 0,
@@ -247,7 +240,7 @@
 			"n": 17,
 			"author": 421060058009305088,
 			"content": "Create a new rule, proposal #17, which states that:\n\"thumbs-ups\", \"upvotes\", and \"votes for\" all mean \"for vote\"",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695370496820117544,
 			"votes": {
 				"160279332454006795": -1,
@@ -261,13 +254,12 @@
 			"n": 18,
 			"author": 330678593904443393,
 			"content": "Anyone who votes for this proposal is forthwith never to be considered an active player, regardless of their actual activity.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695378990780645376,
 			"votes": {
 				"151149148639330304": -1,
 				"160279332454006795": 1,
 				"309787486278909952": -1,
-				"321647780475174922": 1,
 				"330678593904443393": 1,
 				"364562317645709336": 1,
 				"421060058009305088": -1,
@@ -279,12 +271,11 @@
 			"n": 19,
 			"author": 421060058009305088,
 			"content": "If Proposal #2 is voted in, change it so that all quantities can be either an integer or an ordinal and will be specified in the specific quantity",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695383458653929532,
 			"votes": {
 				"160279332454006795": -1,
 				"309787486278909952": 0,
-				"321647780475174922": 1,
 				"421060058009305088": 1,
 				"91269654017748992": -1
 			},
@@ -294,7 +285,7 @@
 			"n": 20,
 			"author": 160279332454006795,
 			"content": "This proposal depends on proposal #19 and proposal #9.\nPassed proposals are to be considered ordinals.\nGibson gains w^w+w^3+w.2+4 passed proposals.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695384628617412688,
 			"votes": {
 				"151149148639330304": -1,
@@ -310,7 +301,7 @@
 			"n": 21,
 			"author": 309787486278909952,
 			"content": "Edit %rule-violation-polls and %punitive-action, changing\n> A (rule violation / punitive action) poll must be available for voting for at least 24 hours before any action may be taken as a result.\nto\n> A (rule violation / punitive action) poll may be closed, and action taken as a result, when:-\n> * the poll has been available for voting for at least 24 hours.\n> * a majority of active players have voted on the poll, and there are more than two active players.\n(replace parts in brackets with the relevant one for that section)",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695387872429211688,
 			"votes": {
 				"151149148639330304": 1,
@@ -325,7 +316,7 @@
 			"n": 22,
 			"author": 160279332454006795,
 			"content": "Create a new rule named \"Positions of Power\" (%positions-of-power):\n> Players elect a president every week. The president grants the position of chancellor to another player. Only the chancellor may make proposals. The president may revoke the position of chancellor and put a new player in that position at any time. Neither position may ever be empty, ie. as long as no new president/chancellor has been declared, the old one is in power. Proposals created by a chancellor remain active after they leave the position.\n> \n> People still have the right to vote on proposals as usual. Players still have the right to fail their own proposals as usual.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695388443903000669,
 			"votes": {
 				"151149148639330304": -1,
@@ -341,7 +332,7 @@
 			"n": 23,
 			"author": 421060058009305088,
 			"content": "add a new rule:\nRule w:\nthe worlds rule and proposal are interchangable as far as names for rules go",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695391764390871160,
 			"votes": {
 				"151149148639330304": -1,
@@ -358,7 +349,7 @@
 			"n": 24,
 			"author": 160279332454006795,
 			"content": "Add a new rule named \"Proposal #28\" (%proposal-35):\n> No new proposals may be created. No existing proposals may be closed. This overrides all other rules, where applicable.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 695396051464749216,
 			"votes": {
 				"151149148639330304": -1,
@@ -420,7 +411,8 @@
 				"151149148639330304": -1,
 				"160279332454006795": 1,
 				"330678593904443393": 1,
-				"421060058009305088": 1
+				"421060058009305088": 1,
+				"91269654017748992": 0
 			},
 			"timestamp": 1585927126
 		},
@@ -435,7 +427,8 @@
 				"160279332454006795": -1,
 				"309787486278909952": 0,
 				"421060058009305088": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585929689
 		},
@@ -450,7 +443,8 @@
 				"160279332454006795": -1,
 				"330678593904443393": 1,
 				"421060058009305088": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585932391
 		},
@@ -506,7 +500,8 @@
 				"160279332454006795": -1,
 				"309787486278909952": 0,
 				"421060058009305088": -1,
-				"427589146295664667": 1
+				"427589146295664667": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585934648
 		},
@@ -522,7 +517,9 @@
 				"309787486278909952": 1,
 				"421060058009305088": -1,
 				"427589146295664667": -1,
-				"628661184081559589": 1
+				"474424490382589952": -1,
+				"628661184081559589": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585934704
 		},
@@ -549,7 +546,8 @@
 				"160279332454006795": -1,
 				"309787486278909952": -1,
 				"421060058009305088": -1,
-				"628661184081559589": -1
+				"628661184081559589": -1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585938784
 		},
@@ -564,7 +562,8 @@
 				"160279332454006795": 1,
 				"309787486278909952": 1,
 				"421060058009305088": 1,
-				"628661184081559589": 1
+				"628661184081559589": 1,
+				"91269654017748992": 1
 			},
 			"timestamp": 1585940018
 		},
@@ -575,8 +574,11 @@
 			"status": "voting",
 			"message_id": 695955572243169331,
 			"votes": {
+				"151149148639330304": -1,
 				"309787486278909952": 0,
-				"628661184081559589": 1
+				"427589146295664667": -1,
+				"628661184081559589": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585995538
 		},
@@ -587,10 +589,194 @@
 			"status": "voting",
 			"message_id": 695956248415174657,
 			"votes": {
+				"160279332454006795": -1,
 				"309787486278909952": 1,
-				"628661184081559589": 1
+				"330678593904443393": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"628661184081559589": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1585995699
+		},
+		{
+			"n": 41,
+			"author": 330678593904443393,
+			"content": "how do i make proposals?",
+			"status": "voting",
+			"message_id": 695977528099078185,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"271274710753476610": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
+				"421060058009305088": -1,
+				"628661184081559589": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1586000773
+		},
+		{
+			"n": 42,
+			"author": 160279332454006795,
+			"content": "Create a new rule named \"Proposal #42\":\n> Proposal #42",
+			"status": "voting",
+			"message_id": 696317288726659132,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"628661184081559589": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586081778
+		},
+		{
+			"n": 43,
+			"author": 330678593904443393,
+			"content": "Fail all proposals that are open at the time of passing this proposal.",
+			"status": "voting",
+			"message_id": 696383079899594792,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586097464
+		},
+		{
+			"n": 44,
+			"author": 421060058009305088,
+			"content": "Treat proposal #43 as though all active players downvoted it",
+			"status": "voting",
+			"message_id": 696391265511669772,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586099415
+		},
+		{
+			"n": 45,
+			"author": 330678593904443393,
+			"content": "The next proposal by each active player who didn't downvote #44 will pass automatically without requiring a vote. This only applies to proposals that contain the word \"duck\".",
+			"status": "voting",
+			"message_id": 696407290882031646,
+			"votes": {
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586103236
+		},
+		{
+			"n": 46,
+			"author": 330678593904443393,
+			"content": "Remove rule7 (%the-end). Replace rule 5 (%winning) with:\n> 64 is a sacred number. The author of proposal 64 will win the game and the game ends when proposal #64 has been submitted.",
+			"status": "voting",
+			"message_id": 696409625041436702,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586103793
+		},
+		{
+			"n": 47,
+			"author": 91269654017748992,
+			"content": "Replace contents of rule %winning:\n\"All players who voted on Proposal #47 win the game. This does not end the game.\"",
+			"status": "voting",
+			"message_id": 696431538207981738,
+			"votes": {
+				"309787486278909952": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586109017
+		},
+		{
+			"n": 48,
+			"author": 91269654017748992,
+			"content": "Remove the rule named \"Proposal #28\" (%proposal-35)",
+			"status": "voting",
+			"message_id": 696497712358621264,
+			"votes": {
+				"309787486278909952": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586124794
+		},
+		{
+			"n": 49,
+			"author": 427589146295664667,
+			"content": "Create a <#694842119268990986> for this Quonauts game, because every other Quonauts game so far has one.",
+			"status": "voting",
+			"message_id": 696501205815394324,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"427589146295664667": 1,
+				"474424490382589952": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586125627
+		},
+		{
+			"n": 50,
+			"author": 427589146295664667,
+			"content": "Make the next proposal be numbered #52 instead of #51. This is because the proposal numbered #51 was partially responsible for killing Quonauts 6, and completely responsible for killing Quonauts 5.",
+			"status": "voting",
+			"message_id": 696502499938664479,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586125936
+		},
+		{
+			"n": 51,
+			"author": 330678593904443393,
+			"content": "(Skipped - this is not a proposal)",
+			"status": "deleted",
+			"message_id": 696590010362626129,
+			"votes": {},
+			"timestamp": 1586146800
+		},
+		{
+			"n": 52,
+			"author": 330678593904443393,
+			"content": "Delete every future proposal with an uneven number as soon as it is submitted.",
+			"status": "voting",
+			"message_id": 696652527218851880,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586161705
 		}
 	]
 }

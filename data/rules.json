@@ -158,6 +158,16 @@
 				694987521708261467
 			]
 		},
+		"losing": {
+			"tag": "losing",
+			"title": "Losing",
+			"content": "No player can lose. Any proposal regarding the removal of this rule must have unanimous support to pass.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				696318149351571466
+			]
+		},
 		"meta-rules": {
 			"tag": "meta-rules",
 			"title": "Meta rules",
@@ -230,6 +240,16 @@
 				694987477311684619
 			]
 		},
+		"proposal-15": {
+			"tag": "proposal-15",
+			"title": "Proposal #15",
+			"content": "Rules preventing people from proposing rules or creating polls are strictly disallowed.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				696671957562687518
+			]
+		},
 		"proposal-35": {
 			"tag": "proposal-35",
 			"title": "Proposal #28",
@@ -237,7 +257,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				695957038869774386
+				696318151390134292
 			]
 		},
 		"proposal-content": {
@@ -282,7 +302,7 @@
 		"punitive-action": {
 			"tag": "punitive-action",
 			"title": "Punitive action",
-			"content": "If a player (hereby \"the convicted player\") is convicted of violating the rules, another player may conduct a poll (called a \"punitive action poll\") to determine whether punitive action should be taken.\n\nPlayers should vote in favour of this poll only if they believe the convicted player violated the rules knowingly and with malicious intent.\n\nAny vote in such a poll cast by the convicted player is not counted.\n\nA punitive action poll must be available for voting for at least 24 hours before any action may be taken as a result.\n\nIf a punitive action poll passes, then the convicted player may not perform any game actions for 24 hours.",
+			"content": "If a player (hereby \"the convicted player\") is convicted of violating the rules, another player may conduct a poll (called a \"punitive action poll\") to determine whether punitive action should be taken.\n\nPlayers should vote in favour of this poll only if they believe the convicted player violated the rules knowingly and with malicious intent.\n\nAny vote in such a poll cast by the convicted player is not counted.\n\nA punitive action poll may be closed, and action taken as a result, when:-\n* the poll has been available for voting for at least 24 hours.\n* a majority of active players have voted on the poll, and there are more than two active players.\n\nIf a punitive action poll passes, then the convicted player may not perform any game actions for 24 hours.",
 			"parent_tag": "rule-violation-polls",
 			"child_tags": [],
 			"message_ids": [
@@ -322,13 +342,15 @@
 				"channels",
 				"proposals",
 				"winning",
+				"losing",
 				"the-end",
-				"proposal-35"
+				"proposal-35",
+				"proposal-15"
 			],
 			"message_ids": [
-				695957039725412473,
-				695957040375529483,
-				695957058905702421
+				696671958707994676,
+				696671960058298390,
+				696671961165856829
 			]
 		},
 		"rule-violation-polls": {
@@ -388,7 +410,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				695957037997359194
+				696318150404472832
 			]
 		},
 		"timezones": {
