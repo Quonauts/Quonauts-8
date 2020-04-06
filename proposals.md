@@ -370,3 +370,9 @@ Every currently failed proposal is to be passed. Every passed proposal is to hav
 Add a new rule, %very-important, under [%proposals]
 No rule or proposal can prevent people from proposing or passing a rule
 
+<a name='55'/>
+
+## #55
+
+Proposal #55 is to be considered failed and then have its effects retroactively undone.
+
