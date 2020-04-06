@@ -299,7 +299,7 @@ Create a new rule named "Proposal #42":
 
 <a name='43'/>
 
-## #43
+## #43 — Failed
 
 Fail all proposals that are open at the time of passing this proposal.
 
