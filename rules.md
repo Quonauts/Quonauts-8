@@ -42,6 +42,7 @@
 * [**8. Proposal #28**](#proposal-35)
 * [**9. Proposal #15**](#proposal-15)
 * [**10. Loophole harmlessness**](#loophole-harmlessness)
+* [**11. Proposal #42**](#proposal-42)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -328,4 +329,8 @@ Rules preventing people from proposing rules or creating polls are strictly disa
 ## <a name='loophole-harmlessness'/> Loophole harmlessness
 
 As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.
+
+## <a name='proposal-42'/> Proposal #42
+
+Proposal #42.
 
