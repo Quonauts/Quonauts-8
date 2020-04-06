@@ -398,3 +398,12 @@ This proposal depends on #54.
 
 Remove %proposal-15.
 
+<a name='59'/>
+
+## #59
+
+Create two new quantities, "ducks" and "bread" (update %quantities accordingly).
+
+Add a new rule "Ducks" (%ducks) in root:
+> For every 10 passed-proposals a player earns, they gain one duck. This applies retroactively.
+
