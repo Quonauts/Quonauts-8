@@ -471,3 +471,11 @@ The game does not end, unless the amount of proposals exceeds TREE(3).
 
 Rename rule "Proposal #10" %proposal-10 to "Legitimacy poll" %legitimacy-poll. Move rule %legitimacy-poll to end of %proposals
 
+<a name='70'/>
+
+## #70
+
+This Proposal is dependent on Proposal #54. 
+If Proposal #54 has not been passed yet, immediately fail it.
+If Proposal #54 already has passed, immediately reverse its effects on the game-rules.
+
