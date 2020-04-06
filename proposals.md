@@ -278,7 +278,7 @@ vibe check gibson if he is to vote against fucking idiot rat boy’s proposals
 
 <a name='40'/>
 
-## #40
+## #40 — Failed
 
 Proposal #40 
 
