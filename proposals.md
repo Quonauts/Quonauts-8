@@ -363,3 +363,10 @@ Delete every future proposal with an uneven number as soon as it is submitted.
 
 Every currently failed proposal is to be passed. Every passed proposal is to have its effects retroactively undone and then failed.
 
+<a name='54'/>
+
+## #54
+
+Add a new rule, %very-important, under [%proposals]
+No rule or proposal can prevent people from proposing or passing a rule
+
