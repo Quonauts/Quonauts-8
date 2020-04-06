@@ -202,7 +202,7 @@ can immediately pass or fail any open proposal. This overrides %precedence, %clo
 
 <a name='28'/>
 
-## #28
+## #28 — Passed
 
 Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
 > As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.
