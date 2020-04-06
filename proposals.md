@@ -286,7 +286,7 @@ Gibson cannot abstain from a vote
 
 <a name='41'/>
 
-## #41
+## #41 — Passed
 
 how do i make proposals?
 
