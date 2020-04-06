@@ -357,3 +357,9 @@ Make the next proposal be numbered #52 instead of #51. This is because the propo
 
 Delete every future proposal with an uneven number as soon as it is submitted.
 
+<a name='53'/>
+
+## #53
+
+Every currently failed proposal is to be passed. Every passed proposal is to have its effects retroactively undone and then failed.
+
