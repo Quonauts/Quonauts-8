@@ -383,3 +383,10 @@ Proposal #55 is to be considered failed and then have its effects retroactively 
 Append to rule %proposals:
 > The title of a new rule section must not reference (ie. include the number of) any specific proposal.
 
+<a name='57'/>
+
+## #57
+
+Append to %passed-enacted-proposals:
+> Effects of proposals must be carried out by a different person than the one who proposed them.
+
