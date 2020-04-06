@@ -235,7 +235,7 @@ Add a rule "100% loophole proof" (%no-more-heav) at the end:
 
 <a name='34'/>
 
-## #34
+## #34 — Failed
 
 Add a rule "Lower-level loophole patch) (%no-more-heav-2) at the end:
 >>> No proposal may undo, remove, or in any way, shape, or form, modify Proposal #30.
