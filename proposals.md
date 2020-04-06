@@ -451,3 +451,10 @@ Add a new rule under all existing rules named "Income" (%income):
 
 Everyone gets one more of every quantity that exists at the time this proposal is passed.
 
+<a name='67'/>
+
+## #67
+
+Delete both copies of %the-end. Replace the content of %winning with the following:
+> If a proposal number is not congruent to 4 or 5 modulo 9 and not expressible as a sum of three (positive or negative) cubes, then the author of the proposal immediately wins if the proposal contains a proof of the latter statement.
+
