@@ -189,7 +189,7 @@ whoops did i accidentally a loophole
 
 <a name='26'/>
 
-## #26
+## #26 — Failed
 
 proposal numbers 27, 34 and 69 will not be passed, no matter what
 
