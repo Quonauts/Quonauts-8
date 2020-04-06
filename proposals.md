@@ -390,3 +390,11 @@ Append to rule %proposals:
 Append to %passed-enacted-proposals:
 > Effects of proposals must be carried out by a different person than the one who proposed them.
 
+<a name='58'/>
+
+## #58
+
+This proposal depends on #54.
+
+Remove %proposal-15.
+
