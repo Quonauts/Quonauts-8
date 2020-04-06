@@ -305,7 +305,7 @@ Fail all proposals that are open at the time of passing this proposal.
 
 <a name='44'/>
 
-## #44
+## #44 — Passed
 
 Treat proposal #43 as though all active players downvoted it
 
