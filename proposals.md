@@ -209,7 +209,7 @@ Add a new rule named "Loophole harmlessness" (%loophole-harmlessness):
 
 <a name='29'/>
 
-## #29
+## #29 — Failed
 
 Add a rule named "Cool" [%cool] that is a subsection of [%roles] and says:
 The Cool role is a role given to SoundOfSpouting with color #ff0000. No other player may have this role.
