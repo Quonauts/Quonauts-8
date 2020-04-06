@@ -465,3 +465,9 @@ Delete both copies of %the-end. Replace the content of %winning with the followi
 Change the contents of %the-end to:
 The game does not end, unless the amount of proposals exceeds TREE(3).
 
+<a name='69'/>
+
+## #69
+
+Rename rule "Proposal #10" %proposal-10 to "Legitimacy poll" %legitimacy-poll. Move rule %legitimacy-poll to end of %proposals
+
