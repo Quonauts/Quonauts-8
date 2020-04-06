@@ -292,7 +292,7 @@ how do i make proposals?
 
 <a name='42'/>
 
-## #42
+## #42 — Passed
 
 Create a new rule named "Proposal #42":
 > Proposal #42
