@@ -423,3 +423,11 @@ change the contents of  the sixth line (counting the empty line) of %quantities 
 
 add a new quantity called money (update %quantities accordingly). add a new rule, %money, under %quantities, stating that money can be traded for any other quantity at any rate as long as both parties trading agree.
 
+<a name='63'/>
+
+## #63
+
+Depends on proposal #62.
+Create a new rule %starting-money under %money:
+> Each player may, at most once during the game, give themselves 100 money.
+
