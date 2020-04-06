@@ -417,3 +417,9 @@ Add a new rule "Ducks" (%ducks) in root:
 
 change the contents of  the sixth line (counting the empty line) of %quantities from "must always be an integer" to "must be a complex number where both the real and imaginary parts of the number are integers"
 
+<a name='62'/>
+
+## #62
+
+add a new quantity called money (update %quantities accordingly). add a new rule, %money, under %quantities, stating that money can be traded for any other quantity at any rate as long as both parties trading agree.
+
