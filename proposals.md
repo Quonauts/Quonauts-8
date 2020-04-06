@@ -351,3 +351,9 @@ Make the next proposal be numbered #52 instead of #51. This is because the propo
 
 ## #51 — Deleted
 
+<a name='52'/>
+
+## #52
+
+Delete every future proposal with an uneven number as soon as it is submitted.
+
