@@ -261,7 +261,7 @@ heavpoot cannot win the game
 
 <a name='38'/>
 
-## #38
+## #38 — Passed
 
 Create a new rule "Meta rules", %meta-rules, after %meta-rules:
 > This rule details how the rules are to be applied to the game.
