@@ -201,18 +201,19 @@ Each subsection of this rule corresponds to a role; as the subsections are creat
 
 A quantity is a named property with a numerical value for each player.
 
-    By default any unique quantity added to the game:
-    * applies to all players.
-    * is instantiated at zero.
-    * must always be an integer.
-    * must never have a negative value.
+By default any unique quantity added to the game:
+* applies to all players.
+* is instantiated at zero.
+* must always be an integer.
+* must never have a negative value.
 
-    Quantities may be traded or exchanged in ways specifically allowed by the rules.
+Quantities may be traded or exchanged in ways specifically allowed by the rules.
 
-    The following quantities exist:
-    * 
+The following quantities exist:
+* **passed-proposals**: the number of passed proposals submitted by a player
+* **enacted-proposals**: the number of proposals a player has carried out
 
-    When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
+When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
 
 #### <a name='passed-enacted-proposals'/> Passed/enacted proposals
 
