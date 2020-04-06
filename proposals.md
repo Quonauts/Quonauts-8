@@ -413,5 +413,5 @@ Add a new rule "Ducks" (%ducks) in root:
 
 This proposal depends on #59.
 Add a new rule, %bread, under [%ducks]
-For every 10 ducks a player has, someone, which can be them, must spend 1 bread. If bread is a limit ordinal at any time for any player, their bread becomes bread[ducks]. bread is an ordinal. Everyone starts with w^w bread. If someone has not spent bread for their ducks, they lose.
+For every 10 ducks a player has, someone, which can be them, must spend 1 bread. If bread is a limit ordinal at any time for any player, their bread becomes bread[ducks]. bread is an ordinal. Everyone starts with w^w +5bread. If someone has not spent bread for their ducks, they lose.
 
