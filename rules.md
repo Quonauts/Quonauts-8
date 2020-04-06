@@ -43,6 +43,7 @@
 * [**9. Proposal #15**](#proposal-15)
 * [**10. Loophole harmlessness**](#loophole-harmlessness)
 * [**11. Proposal #42**](#proposal-42)
+* [**12. Proposal #10**](#proposal-10)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -333,4 +334,8 @@ As a strictly non legally binding agreement, Heavpoot will not abuse loopholes i
 ## <a name='proposal-42'/> Proposal #42
 
 Proposal #42.
+
+## <a name='proposal-10'/> Proposal #10
+
+The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.
 
