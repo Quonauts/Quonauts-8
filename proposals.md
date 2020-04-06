@@ -349,7 +349,5 @@ Make the next proposal be numbered #52 instead of #51. This is because the propo
 
 <a name='51'/>
 
-## #51
-
-(Skipped - this is not a proposal)
+## #51 — Deleted
 
