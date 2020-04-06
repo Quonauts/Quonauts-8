@@ -243,7 +243,7 @@ No rule may undo, remove, or in any way, shape, or form, modify Proposal #30.
 
 <a name='35'/>
 
-## #35
+## #35 — Failed
 
 Edit Rule 5 [%winning] to say:
 The game cannot be won unless SoundOfSpouting has the Cool role.
