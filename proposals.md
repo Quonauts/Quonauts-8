@@ -437,3 +437,11 @@ Create a new rule %starting-money under %money:
 
 Change the name of the "Money" quantity to "Points" if Proposal #62 passes. If not, make a new quantity named Points.
 
+<a name='65'/>
+
+## #65
+
+This rule depends on proposal #64 
+Add a new rule under all existing rules named "Income" (%income):
+> With a delay of no less than 20 hours, players may award themselves an amount of points equivelant to their passed-proposals quantity at that time.
+
