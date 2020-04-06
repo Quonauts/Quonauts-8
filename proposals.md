@@ -270,7 +270,7 @@ This rule takes precedence in all situations.
 
 <a name='39'/>
 
-## #39
+## #39 — Failed
 
 proposal #39
 
