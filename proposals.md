@@ -347,3 +347,9 @@ Create a <#694842119268990986> for this Quonauts game, because every other Quona
 
 Make the next proposal be numbered #52 instead of #51. This is because the proposal numbered #51 was partially responsible for killing Quonauts 6, and completely responsible for killing Quonauts 5.
 
+<a name='51'/>
+
+## #51
+
+(Skipped - this is not a proposal)
+
