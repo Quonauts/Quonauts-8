@@ -407,3 +407,11 @@ Create two new quantities, "ducks" and "bread" (update %quantities accordingly).
 Add a new rule "Ducks" (%ducks) in root:
 > For every 10 passed-proposals a player earns, they gain one duck. This applies retroactively.
 
+<a name='60'/>
+
+## #60
+
+This proposal depends on #59.
+Add a new rule, %bread, under [%ducks]
+For every 10 ducks a player has, someone, which can be them, must spend 1 bread. If bread is a limit ordinal at any time for any player, their bread becomes bread[ducks]. bread is an ordinal. Everyone starts with w^w bread. If someone has not spent bread for their ducks, they lose.
+
