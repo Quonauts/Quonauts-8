@@ -445,3 +445,9 @@ This rule depends on proposal #64
 Add a new rule under all existing rules named "Income" (%income):
 > With a delay of no less than 20 hours, players may award themselves an amount of points equivelant to their passed-proposals quantity at that time.
 
+<a name='66'/>
+
+## #66
+
+Everyone gets one more of every quantity that exists at the time this proposal is passed.
+
