@@ -431,3 +431,9 @@ Depends on proposal #62.
 Create a new rule %starting-money under %money:
 > Each player may, at most once during the game, give themselves 100 money.
 
+<a name='64'/>
+
+## #64
+
+Change the name of the "Money" quantity to "Points" if Proposal #62 passes. If not, make a new quantity named Points.
+
