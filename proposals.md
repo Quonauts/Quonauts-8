@@ -343,7 +343,7 @@ Create a <#694842119268990986> for this Quonauts game, because every other Quona
 
 <a name='50'/>
 
-## #50
+## #50 — Failed
 
 Make the next proposal be numbered #52 instead of #51. This is because the proposal numbered #51 was partially responsible for killing Quonauts 6, and completely responsible for killing Quonauts 5.
 
