@@ -337,7 +337,7 @@ Remove the rule named "Proposal #28" (%proposal-35)
 
 <a name='49'/>
 
-## #49
+## #49 — Passed
 
 Create a <#694842119268990986> for this Quonauts game, because every other Quonauts game so far has one.
 
