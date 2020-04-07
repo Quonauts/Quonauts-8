@@ -528,3 +528,10 @@ The dragon (%dragon)
 
 gibson bad
 
+<a name='77'/>
+
+## #77
+
+Add a new rule named "Winning Via Passed Proposals" (%wvpp):
+> The winner of Quonauts 8 is to be the first player to attain 50 passed-proposals or more. This does not end the game. This overrides all rules where applicable.
+
