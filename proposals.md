@@ -331,7 +331,7 @@ Replace contents of rule %winning:
 
 <a name='48'/>
 
-## #48
+## #48 — Passed
 
 Remove the rule named "Proposal #28" (%proposal-35)
 
