@@ -537,7 +537,7 @@ Add a new rule named "Winning Via Passed Proposals" (%wvpp):
 
 <a name='78'/>
 
-## #78
+## #78 — Failed
 
 Fail proposal #78 immediately
 
