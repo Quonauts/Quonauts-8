@@ -541,3 +541,10 @@ Add a new rule named "Winning Via Passed Proposals" (%wvpp):
 
 Fail proposal #78 immediately
 
+<a name='79'/>
+
+## #79
+
+Remove following paragraph from rule %proposal-content:
+> A proposal must not depend on information outside of the game state, or propose a rule that does so.
+
