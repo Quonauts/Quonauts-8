@@ -522,3 +522,9 @@ Obsidian pillars (%pillars)
 The dragon (%dragon)
 > The dragon can fly, attack in melee, breathe enderfire, and as long as it is close to an end crystal, heal itself. To kill the dragon, players need to repeatedly attack it with a bow or sword. When killed, it will leave behind a dragon egg and the game is completed (but not ended).
 
+<a name='76'/>
+
+## #76
+
+gibson bad
+
