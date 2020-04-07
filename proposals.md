@@ -496,3 +496,9 @@ The game does not end, unless the amount of proposals exceeds THREE (3).
 
 This proposal conflicts with #68.
 
+<a name='73'/>
+
+## #73
+
+This proposal conflicts with #73.
+
