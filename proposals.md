@@ -502,3 +502,10 @@ This proposal conflicts with #68.
 
 This proposal conflicts with #73.
 
+<a name='74'/>
+
+## #74
+
+Change the contents of %the-end to:
+The end is a dimension that consists of a large chunk of end stone, twelve obsidian pillars, one bedrock fountain, and one dragon.
+
