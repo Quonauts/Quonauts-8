@@ -311,7 +311,7 @@ Treat proposal #43 as though all active players downvoted it
 
 <a name='45'/>
 
-## #45
+## #45 — Failed
 
 The next proposal by each active player who didn't downvote #44 will pass automatically without requiring a vote. This only applies to proposals that contain the word "duck".
 
