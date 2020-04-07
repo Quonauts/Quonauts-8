@@ -40,11 +40,10 @@
 * [**5. Winning**](#winning)
 * [**6. Losing**](#losing)
 * [**7. The end**](#the-end)
-* [**8. Proposal #28**](#proposal-35)
-* [**9. Proposal #15**](#proposal-15)
-* [**10. Loophole harmlessness**](#loophole-harmlessness)
-* [**11. Proposal #42**](#proposal-42)
-* [**12. Proposal #10**](#proposal-10)
+* [**8. Proposal #15**](#proposal-15)
+* [**9. Loophole harmlessness**](#loophole-harmlessness)
+* [**10. Proposal #42**](#proposal-42)
+* [**11. Proposal #10**](#proposal-10)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -324,10 +323,6 @@ No player can lose. Any proposal regarding the removal of this rule must have un
 ## <a name='the-end'/> The end
 
 The game does not end.
-
-## <a name='proposal-35'/> Proposal #28
-
-The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.
 
 ## <a name='proposal-15'/> Proposal #15
 
