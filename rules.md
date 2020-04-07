@@ -23,10 +23,11 @@
     * [**2.2. Quantities**](#quantities)
         * [**2.2.1. Passed/enacted proposals**](#passed-enacted-proposals)
 * [**3. Channels**](#channels)
-    * [**3.1. #proposals**](#proposals-channel)
-    * [**3.2. #rules**](#rules-channel)
-    * [**3.3. #polls**](#polls-channel)
-    * [**3.4. #transactions**](#transactions-channel)
+    * [**3.1. #general**](#general-channel)
+    * [**3.2. #proposals**](#proposals-channel)
+    * [**3.3. #rules**](#rules-channel)
+    * [**3.4. #polls**](#polls-channel)
+    * [**3.5. #transactions**](#transactions-channel)
 * [**4. Proposals**](#proposals)
     * [**4.1. Proposal content**](#proposal-content)
         * [**4.1.1. Conflict resolution**](#conflict-resolution)
@@ -224,6 +225,10 @@ When a proposal is closed and has more for votes than against votes, the author 
 The game rules govern only messages and reactions in the "Quonauts 8" category of the Discord server.
 
 Each subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.
+
+### <a name='general-channel'/> #general
+
+Players may talk freely in the <#697146081393508362> channel.
 
 ### <a name='proposals-channel'/> #proposals
 
