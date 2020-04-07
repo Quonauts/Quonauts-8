@@ -487,3 +487,12 @@ This Proposal is dependent on Proposal #70.
 If Proposal #70 has not been passed yet, immediately fail it.
 If Proposal #70 already has passed, immediately reverse its effects on the game-rules.
 
+<a name='72'/>
+
+## #72
+
+Change the contents of %the-end to:
+The game does not end, unless the amount of proposals exceeds THREE (3).
+
+This proposal conflicts with #68.
+
