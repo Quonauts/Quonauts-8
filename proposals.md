@@ -509,3 +509,16 @@ This proposal conflicts with #73.
 Change the contents of %the-end to:
 The end is a dimension that consists of a large chunk of end stone, twelve obsidian pillars, one bedrock fountain, and one dragon.
 
+<a name='75'/>
+
+## #75
+
+Depends on #74.
+Add following new rule sections as subsection of %the-end
+End stone (%end-stone)
+> End stone can be walked on and mined using a pickaxe. When mined, it can be collected in the inventory and used as building block. There is a sheer infinite supply of end stone in the end, and for the sake of simplicity we can assume that it's impossible to mine it all away.
+Obsidian pillars (%pillars)
+> The 12 obsidian pillars are of varying height. On top of each pillar is an end crystal, which can be destroyed with a bow or melee. Some pillars have an iron cage around the end crystal, so it can't be destroyed by bows. To reach the top of a pillar, active players need to build themselves up using building blocks.
+The dragon (%dragon)
+> The dragon can fly, attack in melee, breathe enderfire, and as long as it is close to an end crystal, heal itself. To kill the dragon, players need to repeatedly attack it with a bow or sword. When killed, it will leave behind a dragon egg and the game is completed (but not ended).
+
