@@ -799,3 +799,10 @@ add a rule for bread under %quantities:
 1 blood and 1 bread can be used to gain 10 proposal-taint.
 add a quantity called blood. 1 blood and 1 bread can be used to gain 10 proposal-taint.
 
+<a name='116'/>
+
+## #116
+
+add a new rule under %proposals:
+nobody can propose more than 10 proposals per day. this overrides other rules.
+
