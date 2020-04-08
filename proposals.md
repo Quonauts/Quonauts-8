@@ -1194,3 +1194,10 @@ Quonauts 8 is paused until the completion of Quonauts 9.
 Add a new rule "why not" (%i-eat-keyboards-mmmmm)
 All players must either win or lose Quonauts 23. This rule persists after Quonauts 8's completion.
 
+<a name='181'/>
+
+## #181
+
+Add a new rule "hurry" (%faster)
+Quonauts 9, 10, 11, and 12 all begin immediately
+
