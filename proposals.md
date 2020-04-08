@@ -1201,3 +1201,10 @@ All players must either win or lose Quonauts 23. This rule persists after Quonau
 Add a new rule "hurry" (%faster)
 Quonauts 9, 10, 11, and 12 all begin immediately
 
+<a name='182'/>
+
+## #182
+
+Add a new rule "Shahrazad" (%shahrazad):
+Players play a subgame of Quonauts when this rule is passed. All players who do not win the subgame lose Quonauts 8.
+
