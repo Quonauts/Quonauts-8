@@ -1127,3 +1127,10 @@ Proposals may not propose proposals
 
 Proposals may not propose to proposals
 
+<a name='171'/>
+
+## #171
+
+Add a new rule "Softlock" (%softlock):
+All game actions are illegal. This rule overrides all other rules, and any proposal referencing this rule automatically fail.
+
