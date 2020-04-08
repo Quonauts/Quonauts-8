@@ -1007,3 +1007,9 @@ The passing of proposal #148 was not illegal. Everyone wins the game fourty-two 
 
 ## #150 — Deleted
 
+<a name='151'/>
+
+## #151
+
+Create a rule violation poll on everyone. All rule violation polls created by Proposal #151 immediately pass.
+
