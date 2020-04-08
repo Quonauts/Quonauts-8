@@ -37,13 +37,13 @@
         * [**4.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
     * [**4.4. Editing proposals**](#editing-proposals)
     * [**4.5. Deleting proposals**](#deleting-proposals)
+    * [**4.6. Legitimacy Poll**](#legitimacy-poll)
 * [**5. Winning**](#winning)
 * [**6. Losing**](#losing)
 * [**7. The end**](#the-end)
 * [**8. Proposal #15**](#proposal-15)
 * [**9. Loophole harmlessness**](#loophole-harmlessness)
 * [**10. Proposal #42**](#proposal-42)
-* [**11. Legitimacy Poll**](#legitimacy-poll)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -312,6 +312,10 @@ The author of a proposal or the player passing a proposal may choose to add or r
 
 The author of an open proposal may delete it at any time.
 
+### <a name='legitimacy-poll'/> Legitimacy Poll
+
+The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.
+
 ## <a name='winning'/> Winning
 
 The game cannot be won.
@@ -335,8 +339,4 @@ As a strictly non legally binding agreement, Heavpoot will not abuse loopholes i
 ## <a name='proposal-42'/> Proposal #42
 
 Proposal #42.
-
-## <a name='legitimacy-poll'/> Legitimacy Poll
-
-The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.
 
