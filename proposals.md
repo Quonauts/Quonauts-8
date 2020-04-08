@@ -773,3 +773,10 @@ Create a rule section called %proposal-taint, below all other rules:
 Create a rule section called %more-taint, below all other rules, which reads:
 > <@!421060058009305088> can instantly pass proposals they like. This overrides all other rules and is definitely legal. (bc <@!421060058009305088> really wants proposal taint
 
+<a name='113'/>
+
+## #113
+
+This proposal depends on #112.
+Append a closing parenthesis to the end of %more-taint
+
