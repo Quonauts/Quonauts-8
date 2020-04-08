@@ -1245,3 +1245,9 @@ Heavpoot must propose a copy of proposal #86 and vote for it
 
 <@!427589146295664667> Must propse a copy of Proposal #86.
 
+<a name='189'/>
+
+## #189
+
+Every active player except <@!421060058009305088> must propose a copy of Proposal #86 and vote for it
+
