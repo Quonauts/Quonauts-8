@@ -957,3 +957,9 @@ Everyone wins the game. Fail all currently open proposals
 
 Rules and proposals are swapped.
 
+<a name='142'/>
+
+## #142
+
+Create a new role, "nasty in Quo8". Give <@!421060058009305088> the role "nasty in Quo8". <@!151149148639330304> may opt in to getting "nasty in Quo8" if they wish.
+
