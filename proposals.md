@@ -1005,3 +1005,9 @@ The passing of proposal #148 was not illegal. Everyone wins the game fourty-two 
 
 Create a rule violation poll on everyone.
 
+<a name='150'/>
+
+## #150
+
+All rule violation polls immediately pass.
+
