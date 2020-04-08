@@ -921,3 +921,9 @@ Replace all open proposals with copies of Proposal #86.
 If Proposal #131 is closed and it failed, reopen it.
 Else, the next time Proposal #130 would fail, reopen it and remove all votes from it.
 
+<a name='136'/>
+
+## #136
+
+Replace all open proposals with copies of Proposal #134.
+
