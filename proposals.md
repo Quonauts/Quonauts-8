@@ -753,3 +753,9 @@ Create a rule section named %a2 below all other rules:
 Create a rule section named %a3 below all other rules:
 > Heavpoots `FOR` votes are to count as 1000 `FOR` votes. GIVE ME PrOPOSAL tainT PLS.
 
+<a name='110'/>
+
+## #110
+
+Proposals #106 to #109 are closed but not failed.
+
