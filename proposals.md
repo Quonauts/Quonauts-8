@@ -969,3 +969,9 @@ Create a new role, "nasty in Quo8". Give <@!421060058009305088> the role "nasty 
 
 Give <@!151149148639330304> the Cool role. I created it and got it ready everything before y'all voted no.
 
+<a name='144'/>
+
+## #144
+
+Give everyone the Cool role.
+
