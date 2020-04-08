@@ -400,7 +400,7 @@ Remove %proposal-15.
 
 <a name='59'/>
 
-## #59
+## #59 — Passed
 
 Create two new quantities, "ducks" and "bread" (update %quantities accordingly).
 
