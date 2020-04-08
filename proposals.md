@@ -1058,3 +1058,12 @@ mute everyone who voted against this proposal in this channel for 24 hours
 
 If at least three people voted for this proposal, mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours.
 
+<a name='160'/>
+
+## #160
+
+Add a rule "Danish pastry" (%north-korea)
+> On Sundays (UTC+0) any active player whose username or real name contains at least one 'i' wins the game, but only if the CoViD-19 pandemic is still ongoing (according to WHO) and if P != NP.
+> This does not end the game, and the respective players stop having won when Sunday ends.
+> This rule is an exception to 5 (%winning) and the second paragraph of 4.1 (%proposal-content).
+
