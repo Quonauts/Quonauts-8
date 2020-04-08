@@ -612,3 +612,10 @@ Add a new rule "UNO" (%uno):
 
 Sinthorion is added to the <#608051523192225838> club.
 
+<a name='88'/>
+
+## #88
+
+Add a new line to %proposal-content:
+You cannot change all the rules at once.
+
