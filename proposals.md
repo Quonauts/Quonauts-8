@@ -608,9 +608,7 @@ Add a new rule "UNO" (%uno):
 
 <a name='87'/>
 
-## #87
-
-Sinthorion is added to the <#608051523192225838> club.
+## #87 — Deleted
 
 <a name='88'/>
 
