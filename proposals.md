@@ -599,3 +599,10 @@ If #81 passes, move diamonds to %items. If #82 passes, move sticks and diamond p
 
 i would put a really good well thought out proposal here but im tired and thirsty and have a headache and just generally dont  want to
 
+<a name='86'/>
+
+## #86
+
+Add a new rule "UNO" (%uno):
+    All Quonauts 8 rules (including this one) are replaced with the rules to the popular card game UNO.
+
