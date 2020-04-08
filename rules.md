@@ -47,6 +47,7 @@
 * [**8. Proposal #15**](#proposal-15)
 * [**9. Loophole harmlessness**](#loophole-harmlessness)
 * [**10. Proposal #42**](#proposal-42)
+* [**11. Ducks**](#ducks)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -357,4 +358,8 @@ As a strictly non legally binding agreement, Heavpoot will not abuse loopholes i
 ## <a name='proposal-42'/> Proposal #42
 
 Proposal #42.
+
+## <a name='ducks'/> Ducks
+
+For every 10 passed-proposals a player earns, they gain one duck. This applies retroactively.
 
