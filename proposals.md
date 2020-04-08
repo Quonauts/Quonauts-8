@@ -806,3 +806,11 @@ add a quantity called blood. 1 blood and 1 bread can be used to gain 10 proposal
 add a new rule under %proposals:
 nobody can propose more than 10 proposals per day. this overrides other rules.
 
+<a name='117'/>
+
+## #117
+
+This proposal depends on #97.
+
+Remove the quantity "proposal taint", and all rules that mention it. Fail every open proposal that mentions it.
+
