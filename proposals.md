@@ -999,3 +999,9 @@ Fail every proposal except those by <@!151149148639330304> .
 
 The passing of proposal #148 was not illegal. Everyone wins the game fourty-two times
 
+<a name='149'/>
+
+## #149
+
+Create a rule violation poll on everyone.
+
