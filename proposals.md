@@ -780,3 +780,11 @@ Create a rule section called %more-taint, below all other rules, which reads:
 This proposal depends on #112.
 Append a closing parenthesis to the end of %more-taint
 
+<a name='114'/>
+
+## #114
+
+This proposal depends on #97
+add a rule at the end of %proposal-taint stating:
+if you have over 25 proposal-taint, your vote counts double, but only if you're voting for a proposal which will not benefit you
+
