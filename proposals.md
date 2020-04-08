@@ -1085,3 +1085,9 @@ Add a rule "Danish pastry" (%north-korea)
 
 Change everyone's nickname to a [noun], where [noun] is a random noun
 
+<a name='164'/>
+
+## #164
+
+Players may not propose proposals.
+
