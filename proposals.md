@@ -1187,3 +1187,10 @@ Banned players may not make game actions. All players are Banned.
 Add a new rule "Out of Order" (%out-of-order):
 Quonauts 8 is paused until the completion of Quonauts 9.
 
+<a name='180'/>
+
+## #180
+
+Add a new rule "why not" (%i-eat-keyboards-mmmmm)
+All players must either win or lose Quonauts 23. This rule persists after Quonauts 8's completion.
+
