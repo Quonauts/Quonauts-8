@@ -1166,3 +1166,10 @@ Gibson wins Quonauts 14. This rule persists after Quonauts 8's completion.
 Add a new rule "Rootkit" (%rootkit):
 Gibson loses Quonauts 14. This rule persists after Quonauts 8's completion.
 
+<a name='177'/>
+
+## #177
+
+Add a new rule "Cat" (%cat):
+Gibson will win or lose Quonauts 14 but is in a superposition of both until observed. This rule persists after Quonauts 8's completion
+
