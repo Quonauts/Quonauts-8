@@ -864,3 +864,9 @@ Gibson cannot decide what to vote on proposals. To vote on a proposal, Gibson mu
 * There is a majority vote on the poll.
 When one of these polls is closed, Gibson's vote is chosen as the majority vote on the poll.
 
+<a name='126'/>
+
+## #126
+
+reopen the poll for proposal #86
+
