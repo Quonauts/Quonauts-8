@@ -625,3 +625,9 @@ You cannot change all the rules at once.
 
 Anyone voting for this proposal is given read/write access to <#608051523192225838>.
 
+<a name='90'/>
+
+## #90
+
+The author of proposal 90 wins the game
+
