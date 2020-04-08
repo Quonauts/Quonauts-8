@@ -548,3 +548,11 @@ Fail proposal #78 immediately
 Remove following paragraph from rule %proposal-content:
 > A proposal must not depend on information outside of the game state, or propose a rule that does so.
 
+<a name='80'/>
+
+## #80
+
+Create a new rule called "Not Minecraft" (%not-minecraft):
+> player-x, player-y, and player-z are quantities that can be negative.
+Place %the-end and all its subrules under %not-minecraft.
+
