@@ -643,3 +643,10 @@ Add a rule "Cool" (%cool) that is a subsection of %roles:
 Add a rule "unCool" (%uncool) that is a subsection of %roles:
 The unCool role is a role give to the author of Proposal #91 with color #ff0000. This role persists after Quonauts 8's completetion. It disallows them from authoring proposals involving roles for the duration of Quonauts 8.
 
+<a name='93'/>
+
+## #93
+
+Proposal #93 requires Proposal #92.
+Edit %uncool (if it exists) by replacing all occurences of "91" with "92".
+
