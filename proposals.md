@@ -1257,3 +1257,9 @@ Every active player except <@!421060058009305088> must propose a copy of Proposa
 
 Every active player except those who voted for Proposal #190 must propose a copy of Proposal #86 and a copy of Proposal #190
 
+<a name='191'/>
+
+## #191
+
+All open proposals deemed "low-quality" by <@!427589146295664667> are closed and failed.
+
