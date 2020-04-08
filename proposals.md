@@ -1159,3 +1159,10 @@ Force Moooosey to vote against this
 Add a new rule "Prophecy" (%prophecy):
 Gibson wins Quonauts 14. This rule persists after Quonauts 8's completion.
 
+<a name='176'/>
+
+## #176
+
+Add a new rule "Rootkit" (%rootkit):
+Gibson loses Quonauts 14. This rule persists after Quonauts 8's completion.
+
