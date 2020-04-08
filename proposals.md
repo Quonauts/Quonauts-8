@@ -467,7 +467,7 @@ The game does not end, unless the amount of proposals exceeds TREE(3).
 
 <a name='69'/>
 
-## #69
+## #69 — Passed
 
 Rename rule "Proposal #10" %proposal-10 to "Legitimacy poll" %legitimacy-poll. Move rule %legitimacy-poll to end of %proposals
 
