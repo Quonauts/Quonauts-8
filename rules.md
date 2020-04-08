@@ -213,7 +213,7 @@ Quantities may be traded or exchanged in ways specifically allowed by the rules.
 The following quantities exist:
 * **passed-proposals**: the number of passed proposals submitted by a player
 * **enacted-proposals**: the number of proposals a player has carried out
-* **money**
+* **money**: a quantity that can be traded for other quantities
 
 When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
 
