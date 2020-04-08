@@ -939,3 +939,9 @@ Prevent <@!151149148639330304> and <@!421060058009305088> from making proposals 
 
 Prevent everyone from making proposals until all currently open proposals are either passed or failed
 
+<a name='139'/>
+
+## #139
+
+Prevent <@!91269654017748992> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.
+
