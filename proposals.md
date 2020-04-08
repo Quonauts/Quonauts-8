@@ -636,3 +636,10 @@ The author of proposal 90 wins the game
 Add a rule "Cool" (%cool) that is a subsection of %roles:
     The Cool role is a role give to the author of Proposal #91 with color #ff0000. This role persists after Quonauts 8's completetion.
 
+<a name='92'/>
+
+## #92
+
+Add a rule "unCool" (%uncool) that is a subsection of %roles:
+The unCool role is a role give to the author of Proposal #91 with color #ff0000. This role persists after Quonauts 8's completetion. It disallows them from authoring proposals involving roles for the duration of Quonauts 8.
+
