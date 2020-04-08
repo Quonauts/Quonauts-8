@@ -897,3 +897,10 @@ Else, the next time Proposal #86 would fail, reopen it and remove all votes from
 
 Uno sucks; replace the rules with those of Monopoly
 
+<a name='132'/>
+
+## #132
+
+If Proposal #130 is closed, reopen it.
+Else, the next time Proposal #130 would fail, reopen it and remove all votes from it.
+
