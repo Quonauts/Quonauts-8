@@ -1036,3 +1036,9 @@ Add a rule under %proposal-content stating that no proposal with a number greate
 This proposal depends on #97.
 If proposal #97 is passed, Moooosey gets 1 proposal-taint
 
+<a name='156'/>
+
+## #156
+
+mute everyone who voted for this proposal in this channel for 24 hours
+
