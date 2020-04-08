@@ -23,6 +23,7 @@
     * [**2.2. Quantities**](#quantities)
         * [**2.2.1. Passed/enacted proposals**](#passed-enacted-proposals)
         * [**2.2.2. Money**](#money)
+            * [**2.2.2.1. Starting money**](#starting-money)
 * [**3. Channels**](#channels)
     * [**3.1. #general**](#general-channel)
     * [**3.2. #proposals**](#proposals-channel)
@@ -224,6 +225,10 @@ When a proposal is closed and has more for votes than against votes, the author 
 #### <a name='money'/> Money
 
 Money can be traded for any other quantity at any rate as long as both parties trading agree.
+
+##### <a name='starting-money'/> Starting money
+
+Each player may, at most once during the game, give themselves 100 money.
 
 ## <a name='channels'/> Channels
 
