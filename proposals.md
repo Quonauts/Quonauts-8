@@ -878,3 +878,9 @@ When one of these polls is closed, Gibson's vote is chosen as the majority vote 
 
 pass proposal #128
 
+<a name='129'/>
+
+## #129
+
+Remove every single rule from the game
+
