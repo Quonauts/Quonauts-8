@@ -670,3 +670,11 @@ Skip the 104th proposal
 Add a new named "Proposal 0" (%proposal-2.5):
     Whenever Proposal #91 is failed, reopen it and remove all votes from it.
 
+<a name='97'/>
+
+## #97
+
+Create quantity **proposal-taint**.
+Add rule %proposal-taint under %quantities:
+> Every time a proposal fails, its author gains one **proposal-taint**. At most once in a UTC day, a player may lower their own **proposal-taint** by one. This quantity cannot be traded.
+
