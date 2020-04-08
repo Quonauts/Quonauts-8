@@ -556,3 +556,10 @@ Create a new rule called "Not Minecraft" (%not-minecraft):
 > player-x, player-y, and player-z are quantities that can be negative.
 Place %the-end and all its subrules under %not-minecraft.
 
+<a name='81'/>
+
+## #81
+
+Add a new quantity to %quantities:
+> * **diamonds**: A valuable item with many purposes. Diamonds can be used as currency and traded with other players. Each player starts out with 3 diamonds.
+
