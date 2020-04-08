@@ -870,9 +870,7 @@ When one of these polls is closed, Gibson's vote is chosen as the majority vote 
 
 <a name='127'/>
 
-## #127
-
-reopen the voting for proposal #86
+## #127 — Deleted
 
 <a name='128'/>
 
