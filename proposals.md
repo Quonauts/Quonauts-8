@@ -1180,3 +1180,10 @@ Gibson will win or lose Quonauts 14 but is in a superposition of both until obse
 Add a new rule "Banned" (%banned) that is a subsection of %roles:
 Banned players may not make game actions. All players are Banned.
 
+<a name='179'/>
+
+## #179
+
+Add a new rule "Out of Order" (%out-of-order):
+Quonauts 8 is paused until the completion of Quonauts 9.
+
