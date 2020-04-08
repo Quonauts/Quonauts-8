@@ -761,10 +761,7 @@ Proposals #106 to #109 are closed but not passed or failed. This overrides %clos
 
 <a name='111'/>
 
-## #111
-
-Create a rule section called %proposal-taint, below all other rules:
-> <@!421060058009305088> gains 1 proposal taint when they see fit.
+## #111 — Deleted
 
 <a name='112'/>
 
