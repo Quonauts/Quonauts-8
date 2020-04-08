@@ -902,3 +902,9 @@ Else, the next time Proposal #86 would fail, reopen it and remove all votes from
 If Proposal #130 is closed, reopen it.
 Else, the next time Proposal #130 would fail, reopen it and remove all votes from it.
 
+<a name='133'/>
+
+## #133
+
+Replace the rules with those of Monopoly. Immediately fail proposal #68.
+
