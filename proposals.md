@@ -1233,3 +1233,9 @@ If a mod changes someone's nickname, said mod must change their nickname to "mod
 
 ## #186 — Deleted
 
+<a name='187'/>
+
+## #187
+
+Heavpoot must propose a copy of proposal #86 and vote for it
+
