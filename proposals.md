@@ -821,3 +821,10 @@ Remove the quantity "proposal taint", and all rules that mention it. Fail every 
 Change %very-important to:
 "no proposal or rule, besides this one, can prevent people from proposing rules"
 
+<a name='119'/>
+
+## #119
+
+Change %very-important to:
+No rule or proposal, except %very-important, can prevent people from proposing or passing a rule.
+
