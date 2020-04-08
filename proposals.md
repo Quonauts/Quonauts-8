@@ -378,7 +378,7 @@ Proposal #55 is to be considered failed and then have its effects retroactively 
 
 <a name='56'/>
 
-## #56
+## #56 — Passed
 
 Append to rule %proposals:
 > The title of a new rule section must not reference (ie. include the number of) any specific proposal.
