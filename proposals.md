@@ -1229,3 +1229,9 @@ All subgames must have at least one subgame.
 add a new rule called "mistreatment" (%mistreatment)
 If a mod changes someone's nickname, said mod must change their nickname to "mod abuser"
 
+<a name='186'/>
+
+## #186
+
+Someone must propose a copy of Proposal #86
+
