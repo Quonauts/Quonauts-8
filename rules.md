@@ -40,6 +40,7 @@
     * [**4.4. Editing proposals**](#editing-proposals)
     * [**4.5. Deleting proposals**](#deleting-proposals)
     * [**4.6. Legitimacy Poll**](#legitimacy-poll)
+    * [**4.7. Very important**](#very-important)
 * [**5. Winning**](#winning)
 * [**6. Losing**](#losing)
 * [**7. The end**](#the-end)
@@ -326,6 +327,10 @@ The author of an open proposal may delete it at any time.
 ### <a name='legitimacy-poll'/> Legitimacy Poll
 
 The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.
+
+### <a name='very-important'/> Very important
+
+No rule or proposal can prevent people from proposing or passing a rule.
 
 ## <a name='winning'/> Winning
 
