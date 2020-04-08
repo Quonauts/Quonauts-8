@@ -768,10 +768,7 @@ Create a rule section called %proposal-taint, below all other rules:
 
 <a name='112'/>
 
-## #112
-
-Create a rule section called %more-taint, below all other rules, which reads:
-> <@!421060058009305088> can instantly pass proposals they like. This overrides all other rules and is definitely legal. (bc <@!421060058009305088> really wants proposal taint
+## #112 — Deleted
 
 <a name='113'/>
 
