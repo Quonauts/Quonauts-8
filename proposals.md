@@ -1146,3 +1146,9 @@ All inactive players are replaced with copies of <@!151149148639330304>.
 
 Moooosey is cloned
 
+<a name='174'/>
+
+## #174
+
+Force Moooosey to vote against this
+
