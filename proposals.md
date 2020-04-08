@@ -850,3 +850,15 @@ Delete Proposal #111
 
 Remove %very-important. Fail any open proposals that reference it.
 
+<a name='124'/>
+
+## #124
+
+This proposal depends on #97 and conflicts with #117.
+
+Append to %proposal-taint:
+
+> A player with more than 10 proposal-taint may not create new proposals. Every 24 hours, a player with more than 10 proposal-taint loses 1 proposal taint (in addition to the one they may remove at their choice).
+
+This overrides other rules, read %precedence and delete the last paragraph of %proposal-content
+
