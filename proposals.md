@@ -814,3 +814,10 @@ This proposal depends on #97.
 
 Remove the quantity "proposal taint", and all rules that mention it. Fail every open proposal that mentions it.
 
+<a name='118'/>
+
+## #118
+
+Change %very-important to:
+"no proposal or rule, besides this one, can prevent people from proposing rules"
+
