@@ -1134,3 +1134,9 @@ Proposals may not propose to proposals
 Add a new rule "Softlock" (%softlock):
 All game actions are illegal. This rule overrides all other rules, and any proposal referencing this rule automatically fail.
 
+<a name='172'/>
+
+## #172
+
+All inactive players are replaced with copies of <@!151149148639330304>.
+
