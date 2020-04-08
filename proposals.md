@@ -1073,3 +1073,9 @@ Add a rule "Danish pastry" (%north-korea)
 
 \zxcvnm,./
 
+<a name='162'/>
+
+## #162
+
+/.,mnbvcxz\
+
