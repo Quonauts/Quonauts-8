@@ -987,3 +987,9 @@ Fail Proposal #144.
 
 Replace all open proposals with themselves.
 
+<a name='147'/>
+
+## #147
+
+Fail every proposal except those by <@!151149148639330304> .
+
