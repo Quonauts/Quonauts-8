@@ -650,3 +650,10 @@ The unCool role is a role give to the author of Proposal #91 with color #ff0000.
 Proposal #93 requires Proposal #92.
 Edit %uncool (if it exists) by replacing all occurences of "91" with "92".
 
+<a name='94'/>
+
+## #94
+
+Proposal #94 requires Proposal #104.
+Replace all occurences of "You cannot change all the rules at once." in %proposal-content with "You cannot change the rules at once."
+
