@@ -927,3 +927,9 @@ Else, the next time Proposal #130 would fail, reopen it and remove all votes fro
 
 Replace all open proposals with copies of Proposal #134.
 
+<a name='137'/>
+
+## #137
+
+Prevent <@!151149148639330304> and <@!421060058009305088> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.
+
