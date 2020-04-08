@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987476321829006
+				696849029006622720
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987518495424643
+				696849070769307678
 			]
 		},
 		"channels": {
@@ -27,13 +27,14 @@
 			"content": "The game rules govern only messages and reactions in the \"Quonauts 8\" category of the Discord server.\n\nEach subsection of this rule section corresponds to a game channel; as the subsections are created, removed, renamed, or reordered, game channels must be created/removed/renamed/reordered accordingly.",
 			"parent_tag": "root",
 			"child_tags": [
+				"general-channel",
 				"proposals-channel",
 				"rules-channel",
 				"polls-channel",
 				"transactions-channel"
 			],
 			"message_ids": [
-				695956972368953354
+				696849114419429477
 			]
 		},
 		"closing-proposals": {
@@ -45,7 +46,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				695957016111218749
+				697146850268020847
 			]
 		},
 		"conflict-resolution": {
@@ -55,7 +56,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				695956996494458910
+				697146830303133826
 			]
 		},
 		"content": {
@@ -65,7 +66,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694987520433324112
+				696849072124067961
 			]
 		},
 		"deleting-proposals": {
@@ -75,7 +76,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				695957019361804328
+				697146853812076584
 			]
 		},
 		"dependency-resolution": {
@@ -85,7 +86,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				695956997157421157
+				697146831179612171
 			]
 		},
 		"disallowed-by-default": {
@@ -95,7 +96,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987478062333992
+				696849030562709515
 			]
 		},
 		"editing-proposals": {
@@ -105,7 +106,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				695957018162233376
+				697146852801380372
 			]
 		},
 		"errors": {
@@ -115,7 +116,7 @@
 			"parent_tag": "rule-violations",
 			"child_tags": [],
 			"message_ids": [
-				694987497305931786
+				696849051567652975
 			]
 		},
 		"formatting": {
@@ -125,7 +126,17 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694987540335296665
+				696849092386488432
+			]
+		},
+		"general-channel": {
+			"tag": "general-channel",
+			"title": "#general",
+			"content": "Players may talk freely in the <#697146081393508362> channel.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				697146806521561312
 			]
 		},
 		"glossary": {
@@ -135,7 +146,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987475692552233
+				696849028012310548
 			]
 		},
 		"headers-and-tags": {
@@ -145,7 +156,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694987520953548911
+				696849073453400094
 			]
 		},
 		"lists": {
@@ -155,7 +166,17 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				694987521708261467
+				696849074233671790
+			]
+		},
+		"loophole-harmlessness": {
+			"tag": "loophole-harmlessness",
+			"title": "Loophole harmlessness",
+			"content": "As a strictly non legally binding agreement, Heavpoot will not abuse loopholes in any way which harms the game state.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				697146876771827742
 			]
 		},
 		"losing": {
@@ -165,7 +186,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				696318149351571466
+				697146872682381412
 			]
 		},
 		"meta-rules": {
@@ -184,7 +205,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				694987474640044122
+				696849026938568797
 			]
 		},
 		"passed-enacted-proposals": {
@@ -194,7 +215,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				695956971349606431
+				696849097075982376
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -204,7 +225,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				695957017482756206
+				697146851543089245
 			]
 		},
 		"player-state": {
@@ -217,7 +238,7 @@
 				"quantities"
 			],
 			"message_ids": [
-				694987541602107493
+				696849093506498662
 			]
 		},
 		"polls-channel": {
@@ -227,7 +248,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				695956974730346578
+				697146810044514334
 			]
 		},
 		"precedence": {
@@ -237,7 +258,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987477311684619
+				696849029836832818
+			]
+		},
+		"proposal-10": {
+			"tag": "proposal-10",
+			"title": "Proposal #10",
+			"content": "The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				697146895142748180
 			]
 		},
 		"proposal-15": {
@@ -247,17 +278,17 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				696671957562687518
+				697146875534376960
 			]
 		},
-		"proposal-35": {
-			"tag": "proposal-35",
-			"title": "Proposal #28",
-			"content": "The passing of proposal #25 was/is/will be legal. **This overrides all other rules where applicable.** Gibson loses quonauts 8.",
+		"proposal-42": {
+			"tag": "proposal-42",
+			"title": "Proposal #42",
+			"content": "Proposal #42.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				696318151390134292
+				697146894387904522
 			]
 		},
 		"proposal-content": {
@@ -270,7 +301,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				695956994963669044
+				697146829225328683
 			]
 		},
 		"proposals": {
@@ -286,7 +317,7 @@
 				"deleting-proposals"
 			],
 			"message_ids": [
-				695956994145779723
+				697146828084346923
 			]
 		},
 		"proposals-channel": {
@@ -296,7 +327,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				695956972973064203
+				697146807943299162
 			]
 		},
 		"punitive-action": {
@@ -306,19 +337,19 @@
 			"parent_tag": "rule-violation-polls",
 			"child_tags": [],
 			"message_ids": [
-				694987499231248426
+				696849053748559944
 			]
 		},
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\n    By default any unique quantity added to the game:\n    * applies to all players.\n    * is instantiated at zero.\n    * must always be an integer.\n    * must never have a negative value.\n\n    Quantities may be traded or exchanged in ways specifically allowed by the rules.\n\n    The following quantities exist:\n    * \n\n    When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must always be an integer.\n* must never have a negative value.\n\nQuantities may be traded or exchanged in ways specifically allowed by the rules.\n\nThe following quantities exist:\n* **passed-proposals**: the number of passed proposals submitted by a player\n* **enacted-proposals**: the number of proposals a player has carried out\n\nWhen a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.",
 			"parent_tag": "player-state",
 			"child_tags": [
 				"passed-enacted-proposals"
 			],
 			"message_ids": [
-				695956087752491018
+				696849095616233573
 			]
 		},
 		"roles": {
@@ -328,7 +359,7 @@
 			"parent_tag": "player-state",
 			"child_tags": [],
 			"message_ids": [
-				694987542101229579
+				696849094181912588
 			]
 		},
 		"root": {
@@ -344,13 +375,15 @@
 				"winning",
 				"losing",
 				"the-end",
-				"proposal-35",
-				"proposal-15"
+				"proposal-15",
+				"loophole-harmlessness",
+				"proposal-42",
+				"proposal-10"
 			],
 			"message_ids": [
-				696671958707994676,
-				696671960058298390,
-				696671961165856829
+				697146895893790720,
+				697146896619274300,
+				697146897198219345
 			]
 		},
 		"rule-violation-polls": {
@@ -362,7 +395,7 @@
 				"punitive-action"
 			],
 			"message_ids": [
-				694987497750659195
+				696849052687663144
 			]
 		},
 		"rule-violations": {
@@ -375,7 +408,7 @@
 				"rule-violation-polls"
 			],
 			"message_ids": [
-				694987496437842011
+				696849049206128671
 			]
 		},
 		"rules-channel": {
@@ -385,7 +418,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				695956974319173642
+				697146808979161199
 			]
 		},
 		"style-conventions": {
@@ -400,7 +433,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				694987519544000672
+				696849071712763995
 			]
 		},
 		"the-end": {
@@ -410,7 +443,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				696318150404472832
+				697146873835946175
 			]
 		},
 		"timezones": {
@@ -420,7 +453,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				694987500523094189
+				696849054998593546
 			]
 		},
 		"transactions-channel": {
@@ -430,7 +463,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				695956993353187328
+				697146810766196760
 			]
 		},
 		"voting-on-proposals": {
@@ -440,7 +473,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				695957015360700416
+				697146832324788295
 			]
 		},
 		"winning": {
@@ -450,7 +483,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				695957037179338773
+				697146854328107049
 			]
 		}
 	}
