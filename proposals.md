@@ -1222,3 +1222,10 @@ Quonauts 10 must be played before Quonauts 9. This rule persists after Quonauts 
 add a new rule sinbad (%sinbad)
 All subgames must have at least one subgame.
 
+<a name='185'/>
+
+## #185
+
+add a new rule called "mistreatment" (%mistreatment)
+If a mod changes someone's nickname, said mod must change their nickname to "mod abuser"
+
