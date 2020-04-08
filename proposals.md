@@ -1215,3 +1215,10 @@ Players play a subgame of Quonauts when this rule is passed. All players who do 
 add a new rule Ali Baba (%ali-baba-is-you)
 Quonauts 10 must be played before Quonauts 9. This rule persists after Quonauts 8 ends.
 
+<a name='184'/>
+
+## #184
+
+add a new rule sinbad (%sinbad)
+All subgames must have at least one subgame.
+
