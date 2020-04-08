@@ -933,3 +933,9 @@ Replace all open proposals with copies of Proposal #134.
 
 Prevent <@!151149148639330304> and <@!421060058009305088> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.
 
+<a name='138'/>
+
+## #138
+
+Prevent everyone from making proposals until all currently open proposals are either passed or failed
+
