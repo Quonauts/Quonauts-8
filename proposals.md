@@ -945,3 +945,9 @@ Prevent everyone from making proposals until all currently open proposals are ei
 
 Prevent <@!91269654017748992> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.
 
+<a name='140'/>
+
+## #140
+
+Everyone wins the game. Fail all currently open proposals
+
