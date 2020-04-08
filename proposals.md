@@ -663,3 +663,10 @@ Replace all occurences of "You cannot change all the rules at once." in %proposa
 
 Skip the 104th proposal
 
+<a name='96'/>
+
+## #96
+
+Add a new named "Proposal 0" (%proposal-2.5):
+    Whenever Proposal #91 is failed, reopen it and remove all votes from it.
+
