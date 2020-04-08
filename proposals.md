@@ -433,7 +433,7 @@ Create a new rule %starting-money under %money:
 
 <a name='64'/>
 
-## #64
+## #64 — Failed
 
 Change the name of the "Money" quantity to "Points" if Proposal #62 passes. If not, make a new quantity named Points.
 
