@@ -993,3 +993,9 @@ Replace all open proposals with themselves.
 
 Fail every proposal except those by <@!151149148639330304> .
 
+<a name='148'/>
+
+## #148
+
+The passing of proposal #148 was not illegal. Everyone wins the game fourty-two times
+
