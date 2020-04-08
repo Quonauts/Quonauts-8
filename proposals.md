@@ -893,9 +893,7 @@ Else, the next time Proposal #86 would fail, reopen it and remove all votes from
 
 <a name='131'/>
 
-## #131
-
-Uno sucks; replace the rules with those of Monopoly
+## #131 — Deleted
 
 <a name='132'/>
 
