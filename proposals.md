@@ -571,3 +571,15 @@ Add 2 new quantities to %quantities:
 > * **sticks**: A common item with many purposes. Sticks can be used as currency and traded with other players. Each player starts out with 2 sticks.
 > * **diamond pickaxes**: A rare item with one purpose. Diamond pickaxes cannot be traded with other players. Each players starts out with none. 2 sticks and 3 diamonds may be exchanged for one diamond pickaxe.
 
+<a name='83'/>
+
+## #83
+
+Add three new quantities to %quantities:
+> buckets:
+> A useful item. Can be exchanged with a lava bucket if lava is found, or with a water bucket if water is found. Each player starts with one bucket
+> lava bucket:
+> can be exchanged for a bucket to add lava to the world
+> Water bucket
+> can be exchanged for a bucket to add water to the world
+
