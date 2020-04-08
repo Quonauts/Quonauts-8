@@ -766,3 +766,10 @@ Proposals #106 to #109 are closed but not passed or failed. This overrides %clos
 Create a rule section called %proposal-taint, below all other rules:
 > <@!421060058009305088> gains 1 proposal taint when they see fit.
 
+<a name='112'/>
+
+## #112
+
+Create a rule section called %more-taint, below all other rules, which reads:
+> <@!421060058009305088> can instantly pass proposals they like. This overrides all other rules and is definitely legal. (bc <@!421060058009305088> really wants proposal taint
+
