@@ -563,3 +563,11 @@ Place %the-end and all its subrules under %not-minecraft.
 Add a new quantity to %quantities:
 > * **diamonds**: A valuable item with many purposes. Diamonds can be used as currency and traded with other players. Each player starts out with 3 diamonds.
 
+<a name='82'/>
+
+## #82
+
+Add 2 new quantities to %quantities:
+> * **sticks**: A common item with many purposes. Sticks can be used as currency and traded with other players. Each player starts out with 2 sticks.
+> * **diamond pickaxes**: A rare item with one purpose. Diamond pickaxes cannot be traded with other players. Each players starts out with none. 2 sticks and 3 diamonds may be exchanged for one diamond pickaxe.
+
