@@ -419,7 +419,7 @@ change the contents of  the sixth line (counting the empty line) of %quantities 
 
 <a name='62'/>
 
-## #62
+## #62 — Passed
 
 add a new quantity called money (update %quantities accordingly). add a new rule, %money, under %quantities, stating that money can be traded for any other quantity at any rate as long as both parties trading agree.
 
