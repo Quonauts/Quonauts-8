@@ -217,6 +217,8 @@ The following quantities exist:
 * **passed-proposals**: the number of passed proposals submitted by a player
 * **enacted-proposals**: the number of proposals a player has carried out
 * **money**: a quantity that can be traded for other quantities
+* **ducks**: a quantity gained for every 10 **passed-proposals**
+* **bread**: a quantity that currently has no use
 
 When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
 
