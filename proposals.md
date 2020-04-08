@@ -425,7 +425,7 @@ add a new quantity called money (update %quantities accordingly). add a new rule
 
 <a name='63'/>
 
-## #63
+## #63 — Passed
 
 Depends on proposal #62.
 Create a new rule %starting-money under %money:
