@@ -447,7 +447,7 @@ Add a new rule under all existing rules named "Income" (%income):
 
 <a name='66'/>
 
-## #66
+## #66 — Failed
 
 Everyone gets one more of every quantity that exists at the time this proposal is passed.
 
