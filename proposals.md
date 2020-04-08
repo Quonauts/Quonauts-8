@@ -1208,3 +1208,10 @@ Quonauts 9, 10, 11, and 12 all begin immediately
 Add a new rule "Shahrazad" (%shahrazad):
 Players play a subgame of Quonauts when this rule is passed. All players who do not win the subgame lose Quonauts 8.
 
+<a name='183'/>
+
+## #183
+
+add a new rule Ali Baba (%ali-baba-is-you)
+Quonauts 10 must be played before Quonauts 9. This rule persists after Quonauts 8 ends.
+
