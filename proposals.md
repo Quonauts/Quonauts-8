@@ -788,3 +788,14 @@ This proposal depends on #97
 add a rule at the end of %proposal-taint stating:
 if you have over 25 proposal-taint, your vote counts double, but only if you're voting for a proposal which will not benefit you
 
+<a name='115'/>
+
+## #115
+
+this proposal depends on #97
+add a rule for ducks under %quantities:
+ducks can be traded for blood at a rate of 1 duck:1 blood.
+add a rule for bread under %quantities:
+1 blood and 1 bread can be used to gain 10 proposal-taint.
+add a quantity called blood. 1 blood and 1 bread can be used to gain 10 proposal-taint.
+
