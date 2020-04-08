@@ -732,3 +732,10 @@ Give me the raw energy that i need (bottom text xd)
 
 yo give me some proposal taint
 
+<a name='107'/>
+
+## #107
+
+Create a rule section named %a1 below all other rules:
+> Heavpoots `FOR` votes are to count as 1000 `FOR` votes. GIVE ME PrOPOSAL tainT PLS.
+
