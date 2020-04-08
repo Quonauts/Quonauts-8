@@ -769,10 +769,7 @@ Proposals #106 to #109 are closed but not passed or failed. This overrides %clos
 
 <a name='113'/>
 
-## #113
-
-This proposal depends on #112.
-Append a closing parenthesis to the end of %more-taint
+## #113 — Deleted
 
 <a name='114'/>
 
