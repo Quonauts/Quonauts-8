@@ -981,3 +981,9 @@ Give everyone the Cool role.
 
 Fail Proposal #144.
 
+<a name='146'/>
+
+## #146
+
+Replace all open proposals with themselves.
+
