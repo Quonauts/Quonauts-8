@@ -1019,3 +1019,9 @@ Create a rule violation poll on everyone. All rule violation polls created by Pr
 
 Everyone loses and wins the game simultaneously
 
+<a name='153'/>
+
+## #153
+
+Mute <@!421060058009305088> in this channel for 24 hours
+
