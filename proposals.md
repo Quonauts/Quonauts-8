@@ -365,7 +365,7 @@ Every currently failed proposal is to be passed. Every passed proposal is to hav
 
 <a name='54'/>
 
-## #54
+## #54 — Passed
 
 Add a new rule, %very-important, under [%proposals]
 No rule or proposal can prevent people from proposing or passing a rule
