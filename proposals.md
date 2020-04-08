@@ -951,3 +951,9 @@ Prevent <@!91269654017748992> from making proposals for 48 hours from the passin
 
 Everyone wins the game. Fail all currently open proposals
 
+<a name='141'/>
+
+## #141
+
+Rules and proposals are swapped.
+
