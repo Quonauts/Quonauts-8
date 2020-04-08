@@ -1103,3 +1103,9 @@ Players may not propose to proposals.
 
 Players may not propose to players.
 
+<a name='167'/>
+
+## #167
+
+Proposals may not propose players
+
