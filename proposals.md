@@ -891,3 +891,9 @@ Remove every single rule from the game
 If Proposal #86 is closed, reopen it.
 Else, the next time Proposal #86 would fail, reopen it and remove all votes from it.
 
+<a name='131'/>
+
+## #131
+
+Uno sucks; replace the rules with those of Monopoly
+
