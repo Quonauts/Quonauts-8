@@ -269,6 +269,8 @@ The first proposal is numbered #1 and each subsequent proposal's number is incre
 
 A proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.
 
+The title of a new rule section must not reference (ie. include the number of) any specific proposal.
+
 ### <a name='proposal-content'/> Proposal content
 
 A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
