@@ -22,6 +22,7 @@
     * [**2.1. Roles**](#roles)
     * [**2.2. Quantities**](#quantities)
         * [**2.2.1. Passed/enacted proposals**](#passed-enacted-proposals)
+        * [**2.2.2. Money**](#money)
 * [**3. Channels**](#channels)
     * [**3.1. #general**](#general-channel)
     * [**3.2. #proposals**](#proposals-channel)
@@ -218,6 +219,10 @@ When a new quantity is created, this rule should be edited to add it, along with
 #### <a name='passed-enacted-proposals'/> Passed/enacted proposals
 
 When a proposal is closed and has more for votes than against votes, the author gains one of the passed-proposals quantity. When the effects of that proposal have been fully carried out (if applicable)/documented then the person responsible for doing that gains one of the enacted-proposals quantity (if applicable).
+
+#### <a name='money'/> Money
+
+Money can be traded for any other quantity at any rate as long as both parties trading agree.
 
 ## <a name='channels'/> Channels
 
