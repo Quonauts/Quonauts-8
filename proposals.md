@@ -757,5 +757,5 @@ Create a rule section named %a3 below all other rules:
 
 ## #110
 
-Proposals #106 to #109 are closed but not failed. This overrides %closing-proposals.
+Proposals #106 to #109 are closed but not failed. This overrides %closing-proposals and %proposals.
 
