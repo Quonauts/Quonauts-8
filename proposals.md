@@ -439,7 +439,7 @@ Change the name of the "Money" quantity to "Points" if Proposal #62 passes. If n
 
 <a name='65'/>
 
-## #65
+## #65 — Failed
 
 This rule depends on proposal #64 
 Add a new rule under all existing rules named "Income" (%income):
