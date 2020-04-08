@@ -583,3 +583,13 @@ Add three new quantities to %quantities:
 > Water bucket
 > can be exchanged for a bucket to add water to the world
 
+<a name='84'/>
+
+## #84
+
+Add a new rule "Items" (%items) at the end. If proposal #80 passes, add it as subrule of %not-minecraft instead.
+> Items are quantities. Active players can trade items with each other, or craft them according to crafting recipes defined by the rules. Crafting consumes all items mentioned in the crafting recipe to yield one (unless specified otherwise) of the specified item. Crafting is done by explicitly mentioning the crafting process in <#695956107079843872> before doing the required transactions.
+> If a proposal adds a new item, add it to this rule. The following items exist:
+> * end stone: Can be placed as building block.
+If #81 passes, move diamonds to %items. If #82 passes, move sticks and diamond pickaxes to %items. If #83 passes, move buckets, lava buckets and water buckets to %items.
+
