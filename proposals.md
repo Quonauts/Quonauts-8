@@ -851,3 +851,9 @@ Append to %proposal-taint:
 
 Yeah, this overrides other rules, read %precedence and delete the last paragraph of %proposal-content.
 
+<a name='123'/>
+
+## #123
+
+Remove %very-important. Fail any open proposals that reference it.
+
