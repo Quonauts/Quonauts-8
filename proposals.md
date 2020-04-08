@@ -914,3 +914,10 @@ Replace the rules with those of Monopoly. Immediately fail proposal #68.
 
 Replace all open proposals with copies of Proposal #86.
 
+<a name='135'/>
+
+## #135
+
+If Proposal #131 is closed and it failed, reopen it.
+Else, the next time Proposal #130 would fail, reopen it and remove all votes from it.
+
