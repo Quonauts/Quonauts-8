@@ -834,3 +834,9 @@ No rule or proposal, except %very-important, can prevent people from proposing o
 
 Delete Proposal #112
 
+<a name='121'/>
+
+## #121
+
+Delete Proposal #111
+
