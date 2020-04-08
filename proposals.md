@@ -629,3 +629,10 @@ Anyone voting for this proposal is given read/write access to <#6080515231922258
 
 The author of proposal 90 wins the game
 
+<a name='91'/>
+
+## #91
+
+Add a rule "Cool" (%cool) that is a subsection of %roles:
+    The Cool role is a role give to the author of Proposal #91 with color #ff0000. This role persists after Quonauts 8's completetion.
+
