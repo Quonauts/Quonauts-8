@@ -1231,7 +1231,5 @@ If a mod changes someone's nickname, said mod must change their nickname to "mod
 
 <a name='186'/>
 
-## #186
-
-Someone must propose a copy of Proposal #86
+## #186 — Deleted
 
