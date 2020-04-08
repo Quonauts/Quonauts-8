@@ -884,3 +884,10 @@ pass proposal #128
 
 Remove every single rule from the game
 
+<a name='130'/>
+
+## #130
+
+If Proposal #86 is closed, reopen it.
+Else, the next time Proposal #86 would fail, reopen it and remove all votes from it.
+
