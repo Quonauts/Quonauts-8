@@ -1140,3 +1140,9 @@ All game actions are illegal. This rule overrides all other rules, and any propo
 
 All inactive players are replaced with copies of <@!151149148639330304>.
 
+<a name='173'/>
+
+## #173
+
+Moooosey is cloned
+
