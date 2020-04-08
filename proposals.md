@@ -1048,3 +1048,9 @@ mute everyone who voted for this proposal in this channel for 24 hours
 
 mute everyone who voted against this proposal in this channel for 24 hours
 
+<a name='158'/>
+
+## #158
+
+mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours
+
