@@ -1079,3 +1079,9 @@ Add a rule "Danish pastry" (%north-korea)
 
 /.,mnbvcxz\
 
+<a name='163'/>
+
+## #163
+
+Change everyone's nickname to a [noun], where [noun] is a random noun
+
