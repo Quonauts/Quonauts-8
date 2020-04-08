@@ -657,3 +657,9 @@ Edit %uncool (if it exists) by replacing all occurences of "91" with "92".
 Proposal #94 requires Proposal #104.
 Replace all occurences of "You cannot change all the rules at once." in %proposal-content with "You cannot change the rules at once."
 
+<a name='95'/>
+
+## #95
+
+Skip the 104th proposal
+
