@@ -385,7 +385,7 @@ Append to rule %proposals:
 
 <a name='57'/>
 
-## #57
+## #57 — Failed
 
 Append to %passed-enacted-proposals:
 > Effects of proposals must be carried out by a different person than the one who proposed them.
