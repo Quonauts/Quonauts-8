@@ -853,3 +853,14 @@ Append to %proposal-taint:
 
 This overrides other rules, read %precedence and delete the last paragraph of %proposal-content
 
+<a name='125'/>
+
+## #125
+
+Add a new rule "Gibson Control" (%gibson-control):
+Gibson cannot decide what to vote on proposals. To vote on a proposal, Gibson must submit a poll referencing that proposal. Any player may close one of these polls if:
+* The poll is at least 48 hours (2 days) old.
+* All active players have cast a vote on the poll.
+* There is a majority vote on the poll.
+When one of these polls is closed, Gibson's vote is chosen as the majority vote on the poll.
+
