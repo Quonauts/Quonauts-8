@@ -606,3 +606,9 @@ i would put a really good well thought out proposal here but im tired and thirst
 Add a new rule "UNO" (%uno):
     All Quonauts 8 rules (including this one) are replaced with the rules to the popular card game UNO.
 
+<a name='87'/>
+
+## #87
+
+Sinthorion is added to the <#608051523192225838> club.
+
