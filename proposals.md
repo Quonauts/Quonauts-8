@@ -1067,3 +1067,9 @@ Add a rule "Danish pastry" (%north-korea)
 > This does not end the game, and the respective players stop having won when Sunday ends.
 > This rule is an exception to 5 (%winning) and the second paragraph of 4.1 (%proposal-content).
 
+<a name='161'/>
+
+## #161
+
+\zxcvnm,./
+
