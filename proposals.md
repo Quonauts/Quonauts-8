@@ -619,3 +619,9 @@ Sinthorion is added to the <#608051523192225838> club.
 Add a new line to %proposal-content:
 You cannot change all the rules at once.
 
+<a name='89'/>
+
+## #89
+
+Anyone voting for this proposal is given read/write access to <#608051523192225838>.
+
