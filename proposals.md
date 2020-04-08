@@ -1031,3 +1031,10 @@ Mute <@!421060058009305088> in this channel for 24 hours
 
 Add a rule under %proposal-content stating that no proposal with a number greater than 154 may contain the string "<@!421060058009305088> "
 
+<a name='155'/>
+
+## #155
+
+This proposal depends on #97.
+If proposal #97 is passed, Moooosey gets 1 proposal-taint
+
