@@ -963,3 +963,9 @@ Rules and proposals are swapped.
 
 Create a new role, "nasty in Quo8". Give <@!421060058009305088> the role "nasty in Quo8". <@!151149148639330304> may opt in to getting "nasty in Quo8" if they wish.
 
+<a name='143'/>
+
+## #143
+
+Give <@!151149148639330304> the Cool role. I created it and got it ready everything before y'all voted no.
+
