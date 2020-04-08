@@ -1054,3 +1054,9 @@ mute everyone who voted against this proposal in this channel for 24 hours
 
 mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours
 
+<a name='159'/>
+
+## #159
+
+If at least three people voted for this proposal, mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours.
+
