@@ -1025,3 +1025,9 @@ Everyone loses and wins the game simultaneously
 
 Mute <@!421060058009305088> in this channel for 24 hours
 
+<a name='154'/>
+
+## #154
+
+Add a rule under %proposal-content stating that no proposal with a number greater than 154 may contain the string "<@!421060058009305088> "
+
