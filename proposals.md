@@ -1042,3 +1042,9 @@ If proposal #97 is passed, Moooosey gets 1 proposal-taint
 
 mute everyone who voted for this proposal in this channel for 24 hours
 
+<a name='157'/>
+
+## #157
+
+mute everyone who voted against this proposal in this channel for 24 hours
+
