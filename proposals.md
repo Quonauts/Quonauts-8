@@ -840,3 +840,14 @@ Delete Proposal #112
 
 Delete Proposal #111
 
+<a name='122'/>
+
+## #122
+
+This proposal depends on #97 and conflicts with #117.
+
+Append to %proposal-taint:
+> A player with more than 10 proposal-taint may not create new proposals.
+
+Yeah, this overrides other rules, read %precedence and delete the last paragraph of %proposal-content.
+
