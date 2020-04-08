@@ -678,3 +678,9 @@ Create quantity **proposal-taint**.
 Add rule %proposal-taint under %quantities:
 > Every time a proposal fails, its author gains one **proposal-taint**. At most once in a UTC day, a player may lower their own **proposal-taint** by one. This quantity cannot be traded.
 
+<a name='98'/>
+
+## #98
+
+building
+
