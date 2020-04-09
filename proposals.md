@@ -1331,3 +1331,9 @@ All players except those who voted for Proposal #200 must vote for Proposals pre
 Add a rule %anti-corruption:
 Any proposal for which the author promised rewards to players who voted for the proposal or punishments for players who voted against it is illegal and will automatically fail.
 
+<a name='202'/>
+
+## #202
+
+fail #201, it ruins the fun
+
