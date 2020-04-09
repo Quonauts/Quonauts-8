@@ -489,7 +489,7 @@ If Proposal #70 already has passed, immediately reverse its effects on the game-
 
 <a name='72'/>
 
-## #72
+## #72 — Failed
 
 Change the contents of %the-end to:
 The game does not end, unless the amount of proposals exceeds THREE (3).
