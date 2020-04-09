@@ -1154,10 +1154,7 @@ Force Moooosey to vote against this
 
 <a name='175'/>
 
-## #175
-
-Add a new rule "Prophecy" (%prophecy):
-Gibson wins Quonauts 14. This rule persists after Quonauts 8's completion.
+## #175 — Deleted
 
 <a name='176'/>
 
