@@ -1461,7 +1461,5 @@ Add a new rule named "Proposal Points" below all other rules:
 
 <a name='223'/>
 
-## #223
-
-<#556288440740741177> can be ignored if a majority vote agrees it's for a good cause
+## #223 — Deleted
 
