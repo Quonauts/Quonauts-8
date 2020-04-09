@@ -1428,3 +1428,9 @@ Archive Quonauts 4.5
 
 Each person gains 1 million money for every milleniun prize problem they solve
 
+<a name='218'/>
+
+## #218
+
+Fail a random proposal newer than #218
+
