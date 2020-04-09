@@ -1287,3 +1287,10 @@ All players get an amount of bread equal to the smallest odd perfect number, if 
 
 When Proposal #195 is passed, any players may optionally play a subgame of CARD GAME: THE CARD GAME (by <@!151149148639330304> on Tabletop Simulator). The winner(s) of the subgame gain 4000 money each.
 
+<a name='196'/>
+
+## #196
+
+Proposal #196 depends on Proposal #97.
+For each **proposal-taint** a player has, votes by that player are worth 0.01 more votes.
+
