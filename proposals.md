@@ -1480,3 +1480,15 @@ Add a new rule, reasons (%good-cause)
 
 Just end the game already
 
+<a name='227'/>
+
+## #227
+
+Create a proposal under %proposals (%stop-creating-50-proposals-a-day):
+> If 20 proposals are open at the same time, no player can propose proposals.
+> If 19 or more proposals are open at the same time, a player can 'contest' a proposal provided they have not contested a proposal for 12 hours.
+> 
+> Contesting is a process used to be able to propose more. In this process, one player chooses a proposal and pings the author of that proposal. Both players, when online, then roll two d20s and sum the rolled values. 
+> If the contesting player rolls a strictly greater number, the proposal is immediately deleted and for an hour (3600 seconds) or until the contesting player authors a proposal (whichever happens first), only the contesting player can make a proposal. 
+> Otherwise, nothing happens.
+
