@@ -1312,7 +1312,7 @@ Add a new rule: %bribery:
 
 ## #199
 
-Add a new rule: Systemic bribery (%bribery):
+Add a new rule: Systematic bribery (%bribery):
 > In a proposal, players can name any tradable quantity and amount as reward or bribe. Any player voting for the proposal gains that amount of that quantity from the proposal author. This is only effective as long as the author has at least the required amount of that quantity remaining.
 
 This proposal is incompatible with #198
