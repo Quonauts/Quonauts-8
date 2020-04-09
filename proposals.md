@@ -498,7 +498,7 @@ This proposal conflicts with #68.
 
 <a name='73'/>
 
-## #73
+## #73 — Passed
 
 This proposal conflicts with #73.
 
