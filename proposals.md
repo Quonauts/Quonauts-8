@@ -1391,3 +1391,9 @@ This proposal is a useless proposal
 
 If Proposal #210 passes, reopen it and promptly fail it.
 
+<a name='212'/>
+
+## #212
+
+Replace all unclosed proposals with a copy of the current unclosed proposal with the most votes for. If there is a tie, choose the first option. Then, reopen Proposal #212, keeping its effect.
+
