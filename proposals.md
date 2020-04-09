@@ -1492,3 +1492,10 @@ Replace proposal #229s mentions of "Moon" with "Sun", as the Moon is actually a 
 Replace the contents of %the-end with:
 All players who voted on at least one proposal win the game.
 
+<a name='234'/>
+
+## #234
+
+Replace the contents of %the-end with:
+All active players except <@!421060058009305088> win the game
+
