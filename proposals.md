@@ -1469,3 +1469,9 @@ Delete all proposals and reset the rules to their starting configuration.
 
 Play this game on the Moon. We can take this game in any direction, and some of those directions lead to the Moon.
 
+<a name='230'/>
+
+## #230
+
+Rather than ending the game, start a series of subgames.
+
