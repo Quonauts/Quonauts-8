@@ -1301,3 +1301,10 @@ For each **proposal-taint** a player has, votes by that player are worth 0.01 mo
 Append to the second paragraph of 4.1 (%proposal-content):
 > A proposal must not depend on information that is unknowable. It may propose rules that do, but those have no effect as long as the information remains unknowable.
 
+<a name='198'/>
+
+## #198
+
+Add a new rule: %bribery:
+<@!421060058009305088>'s vote counts quadruple. The votes of everyone else who votes for Proposal #198 counts double. The votes of those who vote against Proposal #198 counts only 1/2 as much.
+
