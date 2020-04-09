@@ -1337,3 +1337,9 @@ Any proposal for which the author promised rewards to players who voted for the 
 
 fail #201, it ruins the fun
 
+<a name='203'/>
+
+## #203
+
+Force everyone to agree to the truth: this is all moot if #86 passes.
+
