@@ -1434,3 +1434,9 @@ Each person gains 1 million money for every milleniun prize problem they solve
 
 Fail a random proposal newer than #218
 
+<a name='219'/>
+
+## #219
+
+Friendly reminder that if any of this is going to be enacted #86 has to fail \:(
+
