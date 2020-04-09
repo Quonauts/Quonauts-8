@@ -1367,3 +1367,9 @@ Remove all votes against #206
 
 All players get 3^^^^3 bread.
 
+<a name='208'/>
+
+## #208
+
+Delete proposal #208
+
