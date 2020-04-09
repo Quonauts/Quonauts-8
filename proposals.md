@@ -1457,3 +1457,9 @@ Create a proposal under %proposals (%stop-creating-50-proposals-a-day):
 > If the contesting player rolls a strictly greater number, the proposal is immediately deleted and for an hour (3600 seconds) or until the contesting player authors a proposal (whichever happens first), only the contesting player can make a proposal. 
 > Otherwise, nothing happens.
 
+<a name='228'/>
+
+## #228
+
+Delete all proposals and reset the rules to their starting configuration.
+
