@@ -1416,3 +1416,9 @@ Archive Quonauts 4.5
 
 <@!151149148639330304> and <@!427589146295664667> each choose a proposal newer than Proposal #136 that is automatically passed. A proposal chosen this way may not reference Proposal #86.
 
+<a name='216'/>
+
+## #216
+
+<@!421060058009305088>, <@390317093242929154>, and <@151149148639330304> each choose two Proposals new than Proposal #200 which are automatically passed.
+
