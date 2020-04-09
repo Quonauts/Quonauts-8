@@ -1379,3 +1379,9 @@ Delete proposal #208
 
 Add @Pinglol, an opt-in role which can be pinged excessively
 
+<a name='210'/>
+
+## #210
+
+This proposal is a useless proposal
+
