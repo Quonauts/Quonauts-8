@@ -1259,9 +1259,7 @@ Every active player except those who voted for Proposal #190 must propose a copy
 
 <a name='191'/>
 
-## #191
-
-All open proposals deemed "low-quality" by <@!427589146295664667> are closed and failed.
+## #191 — Deleted
 
 <a name='192'/>
 
