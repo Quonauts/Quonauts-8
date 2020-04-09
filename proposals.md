@@ -1281,3 +1281,9 @@ All open proposals deemed "low-quality" by <@!427589146295664667> are closed and
 
 All players get an amount of bread equal to the smallest odd perfect number, if it exists, or zero otherwise
 
+<a name='195'/>
+
+## #195
+
+When Proposal #195 is passed, any players may optionally play a subgame of CARD GAME: THE CARD GAME (by <@!151149148639330304> on Tabletop Simulator). The winner(s) of the subgame gain 4000 money each.
+
