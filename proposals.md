@@ -473,7 +473,7 @@ Rename rule "Proposal #10" %proposal-10 to "Legitimacy poll" %legitimacy-poll. M
 
 <a name='70'/>
 
-## #70
+## #70 — Failed
 
 This Proposal is dependent on Proposal #54. 
 If Proposal #54 has not been passed yet, immediately fail it.
