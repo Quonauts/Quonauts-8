@@ -1373,3 +1373,9 @@ All players get 3^^^^3 bread.
 
 Delete proposal #208
 
+<a name='209'/>
+
+## #209
+
+Add @Pinglol, an opt-in role which can be pinged excessively
+
