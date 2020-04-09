@@ -1294,3 +1294,10 @@ When Proposal #195 is passed, any players may optionally play a subgame of CARD 
 Proposal #196 depends on Proposal #97.
 For each **proposal-taint** a player has, votes by that player are worth 0.01 more votes.
 
+<a name='197'/>
+
+## #197
+
+Append to the second paragraph of 4.1 (%proposal-content):
+> A proposal must not depend on information that is unknowable. It may propose rules that do, but those have no effect as long as the information remains unknowable.
+
