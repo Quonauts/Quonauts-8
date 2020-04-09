@@ -1136,9 +1136,7 @@ All game actions are illegal. This rule overrides all other rules, and any propo
 
 <a name='172'/>
 
-## #172
-
-All inactive players are replaced with copies of <@!151149148639330304>.
+## #172 — Deleted
 
 <a name='173'/>
 
