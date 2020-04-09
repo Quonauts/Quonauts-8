@@ -1324,3 +1324,10 @@ This proposal is incompatible with #198
 Add a rule %yikes (%yikes):
 All players except those who voted for Proposal #200 must vote for Proposals prefixed with the string "yikes" (ex. yikes, everyone wins the game). Players who did not vote for Proposal #200 cannot prefix Proposals with the string "yikes".
 
+<a name='201'/>
+
+## #201
+
+Add a rule %anti-corruption:
+Any proposal for which the author promised rewards to players who voted for the proposal or punishments for players who voted against it is illegal and will automatically fail.
+
