@@ -324,7 +324,7 @@ Remove rule7 (%the-end). Replace rule 5 (%winning) with:
 
 <a name='47'/>
 
-## #47
+## #47 — Failed
 
 Replace contents of rule %winning:
 "All players who voted on Proposal #47 win the game. This does not end the game."
