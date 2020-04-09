@@ -821,9 +821,7 @@ No rule or proposal, except %very-important, can prevent people from proposing o
 
 <a name='120'/>
 
-## #120
-
-Delete Proposal #112
+## #120 — Deleted
 
 <a name='121'/>
 
