@@ -827,9 +827,7 @@ Delete Proposal #112
 
 <a name='121'/>
 
-## #121
-
-Delete Proposal #111
+## #121 — Deleted
 
 <a name='122'/>
 
