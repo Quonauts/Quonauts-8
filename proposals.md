@@ -413,7 +413,7 @@ Add a new rule "Ducks" (%ducks) in root:
 
 <a name='61'/>
 
-## #61
+## #61 — Passed
 
 change the contents of  the sixth line (counting the empty line) of %quantities from "must always be an integer" to "must be a complex number where both the real and imaginary parts of the number are integers"
 
