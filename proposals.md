@@ -1463,3 +1463,10 @@ Add a new rule named "Proposal Points" below all other rules:
 
 ## #223 — Deleted
 
+<a name='224'/>
+
+## #224
+
+Add a new rule, reasons (%good-cause)
+<#556288440740741177> can be ignored if it a poll agrees it is for a good cause
+
