@@ -1275,3 +1275,9 @@ All open proposals deemed "low-quality" by <@!427589146295664667> are closed and
 
 <@427589146295664667> can deem only Proposal #192 low-quality
 
+<a name='194'/>
+
+## #194
+
+All players get an amount of bread equal to the smallest odd perfect number, if it exists, or zero otherwise
+
