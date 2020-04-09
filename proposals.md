@@ -1479,3 +1479,9 @@ Play this game on the Moon. We can take this game in any direction, and some of 
 
 Keep <#694842097416536095> under at least 2h slowmode forthwith.
 
+<a name='232'/>
+
+## #232
+
+Replace proposal #229s mentions of "Moon" with "Sun", as the Moon is actually a hologram and NASA faked the Moon landing, it was actually to cover up the Solar Landing, this is a well known fact.
+
