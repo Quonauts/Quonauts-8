@@ -1422,3 +1422,9 @@ Archive Quonauts 4.5
 
 <@!421060058009305088>, <@390317093242929154>, and <@151149148639330304> each choose two Proposals new than Proposal #200 which are automatically passed.
 
+<a name='217'/>
+
+## #217
+
+Each person gains 1 million money for every milleniun prize problem they solve
+
