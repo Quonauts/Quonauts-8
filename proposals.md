@@ -1263,3 +1263,9 @@ Every active player except those who voted for Proposal #190 must propose a copy
 
 All open proposals deemed "low-quality" by <@!427589146295664667> are closed and failed.
 
+<a name='192'/>
+
+## #192
+
+<@427589146295664667> can deem only proposal #68 low-quality.
+
