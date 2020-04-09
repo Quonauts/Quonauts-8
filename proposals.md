@@ -1470,3 +1470,14 @@ Add a new rule named "Proposal Points" below all other rules:
 Add a new rule, reasons (%good-cause)
 <#556288440740741177> can be ignored if it a poll agrees it is for a good cause
 
+<a name='225'/>
+
+## #225
+
+Apply the following changes to the initial Quo ruleset:
+Add a quantity "points" to %quantities.
+Replace %winning with:
+> Each active player gets one point for each of their proposals that passed and for each proposal for which they enacted the effects (excluding proposals that have no effect or are illegal). Any player who reaches 100 or more points wins.
+Replace %the-end with:
+> The game ends when at least one player has won. Afterwards, the mods shall archive the game and start a new game in a timely fashion.
+
