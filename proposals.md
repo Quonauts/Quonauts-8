@@ -1361,3 +1361,9 @@ Delete that rule saying the proposals can't depend on stuff outside the game sta
 
 Remove all votes against #206
 
+<a name='207'/>
+
+## #207
+
+All players get 3^^^^3 bread.
+
