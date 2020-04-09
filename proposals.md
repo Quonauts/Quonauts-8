@@ -1463,3 +1463,9 @@ Create a proposal under %proposals (%stop-creating-50-proposals-a-day):
 
 Delete all proposals and reset the rules to their starting configuration.
 
+<a name='229'/>
+
+## #229
+
+Play this game on the Moon. We can take this game in any direction, and some of those directions lead to the Moon.
+
