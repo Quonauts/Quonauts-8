@@ -1265,7 +1265,7 @@ All open proposals deemed "low-quality" by <@!427589146295664667> are closed and
 
 <a name='192'/>
 
-## #192
+## #192 — Failed
 
 <@427589146295664667> can deem only proposal #68 low-quality.
 
