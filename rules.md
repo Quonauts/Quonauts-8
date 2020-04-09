@@ -209,16 +209,16 @@ A quantity is a named property with a numerical value for each player.
 By default any unique quantity added to the game:
 * applies to all players.
 * is instantiated at zero.
-* must always be an integer.
+* must be a complex number where both the real and imaginary parts of the number are integers.
 * must never have a negative value.
 
 Quantities may be traded or exchanged in ways specifically allowed by the rules.
 
 The following quantities exist:
-* **passed-proposals**: the number of passed proposals submitted by a player
+ * **passed-proposals**: the number of passed proposals submitted by a player
 * **enacted-proposals**: the number of proposals a player has carried out
 * **money**: a quantity that can be traded for other quantities
-* **ducks**: a quantity gained for every 10 **passed-proposals**
+* **ducks**: a quantity gained for every 10 passed-proposals
 * **bread**: a quantity that currently has no use
 
 When a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.
