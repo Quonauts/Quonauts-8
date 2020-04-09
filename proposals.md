@@ -1343,3 +1343,9 @@ fail #201, it ruins the fun
 
 Force everyone to agree to the truth: this is all moot if #86 passes.
 
+<a name='204'/>
+
+## #204
+
+<@421060058009305088> is forbidden from using the nickname "a scumbag" or any other nickname that includes "scumbag".
+
