@@ -1410,3 +1410,9 @@ Rules 8.2 and 8.3 of quonauts 4.5 are removed and nullified. <@42758914629566466
 
 Archive Quonauts 4.5
 
+<a name='215'/>
+
+## #215
+
+<@!151149148639330304> and <@!427589146295664667> each choose a proposal newer than Proposal #136 that is automatically passed. A proposal chosen this way may not reference Proposal #86.
+
