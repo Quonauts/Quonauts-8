@@ -953,9 +953,7 @@ Everyone wins the game. Fail all currently open proposals
 
 <a name='141'/>
 
-## #141
-
-Rules and proposals are swapped.
+## #141 — Deleted
 
 <a name='142'/>
 
