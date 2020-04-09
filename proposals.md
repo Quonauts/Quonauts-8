@@ -1175,10 +1175,7 @@ Gibson will win or lose Quonauts 14 but is in a superposition of both until obse
 
 <a name='178'/>
 
-## #178
-
-Add a new rule "Banned" (%banned) that is a subsection of %roles:
-Banned players may not make game actions. All players are Banned.
+## #178 — Deleted
 
 <a name='179'/>
 
