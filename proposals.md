@@ -1471,7 +1471,5 @@ Play this game on the Moon. We can take this game in any direction, and some of 
 
 <a name='230'/>
 
-## #230
-
-Rather than ending the game, start a series of subgames.
+## #230 — Deleted
 
