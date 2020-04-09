@@ -1450,3 +1450,12 @@ Friendly reminder that if any of this is going to be enacted #86 has to fail \:(
 
 Reopen and pass Proposal #86. This is to extend the time until it passes.
 
+<a name='222'/>
+
+## #222
+
+Add a new quantity named "Proposal Points".
+> * **Proposal Points** are a quantity which you can gain at regular intervals via having passed-proposals.
+Add a new rule named "Proposal Points" below all other rules:
+> Players may claim an amount of Proposal Points equal to their amount of passed-proposals. This cannot be done within 12 hours of the last claim of Proposal Points.
+
