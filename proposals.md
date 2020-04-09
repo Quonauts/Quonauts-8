@@ -1241,9 +1241,7 @@ Heavpoot must propose a copy of proposal #86 and vote for it
 
 <a name='188'/>
 
-## #188
-
-<@!427589146295664667> Must propse a copy of Proposal #86.
+## #188 — Deleted
 
 <a name='189'/>
 
