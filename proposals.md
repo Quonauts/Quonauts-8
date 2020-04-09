@@ -1442,10 +1442,5 @@ Friendly reminder that if any of this is going to be enacted #86 has to fail \:(
 
 <a name='220'/>
 
-## #220
-
-Add a new rule called %86-extender:
-Reopen and pass proposal #86.
-
-(To extend time till passing.)
+## #220 — Deleted
 
