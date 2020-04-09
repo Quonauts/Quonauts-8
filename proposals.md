@@ -1161,10 +1161,7 @@ Gibson wins Quonauts 14. This rule persists after Quonauts 8's completion.
 
 <a name='176'/>
 
-## #176
-
-Add a new rule "Rootkit" (%rootkit):
-Gibson loses Quonauts 14. This rule persists after Quonauts 8's completion.
+## #176 — Deleted
 
 <a name='177'/>
 
