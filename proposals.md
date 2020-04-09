@@ -372,7 +372,7 @@ No rule or proposal can prevent people from proposing or passing a rule
 
 <a name='55'/>
 
-## #55 — Passed
+## #55 — Failed
 
 Proposal #55 is to be considered failed and then have its effects retroactively undone.
 
