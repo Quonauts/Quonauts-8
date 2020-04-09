@@ -1385,3 +1385,9 @@ Add @Pinglol, an opt-in role which can be pinged excessively
 
 This proposal is a useless proposal
 
+<a name='211'/>
+
+## #211
+
+If Proposal #210 passes, reopen it and promptly fail it.
+
