@@ -51,7 +51,8 @@
 
 ## <a name='meta-rules'/> Meta rules
 
-This section details how the rules are to be applied to the game.
+This rule details how rules are to be applied to the game.
+This rule takes precedence in all situations.
 
 ### <a name='glossary'/> Glossary
 
