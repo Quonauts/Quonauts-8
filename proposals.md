@@ -1397,3 +1397,10 @@ If Proposal #210 passes, reopen it and promptly fail it.
 
 Replace all unclosed proposals with a copy of the current unclosed proposal with the most votes for. If there is a tie, choose the first option. Then, reopen Proposal #212, keeping its effect.
 
+<a name='213'/>
+
+## #213
+
+Add a new rule time machine (%time-machine): 
+Rules 8.2 and 8.3 of quonauts 4.5 are removed and nullified. <@427589146295664667> loses Quonauts 4.5.
+
