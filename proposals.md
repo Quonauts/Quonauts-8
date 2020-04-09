@@ -481,7 +481,7 @@ If Proposal #54 already has passed, immediately reverse its effects on the game-
 
 <a name='71'/>
 
-## #71
+## #71 — Failed
 
 This Proposal is dependent on Proposal #70.
 If Proposal #70 has not been passed yet, immediately fail it.
