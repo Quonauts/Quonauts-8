@@ -1308,3 +1308,12 @@ Append to the second paragraph of 4.1 (%proposal-content):
 Add a new rule: %bribery:
 <@!421060058009305088>'s vote counts quadruple. The votes of everyone else who votes for Proposal #198 counts double. The votes of those who vote against Proposal #198 counts only 1/2 as much.
 
+<a name='199'/>
+
+## #199
+
+Add a new rule: Systemic bribery (%bribery):
+> In a proposal, players can name any tradable quantity and amount as reward or bribe. Any player voting for the proposal gains that amount of that quantity from the proposal author. This is only effective as long as the author has at least the required amount of that quantity remaining.
+
+This proposal is incompatible with #198
+
