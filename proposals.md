@@ -1355,3 +1355,9 @@ Force everyone to agree to the truth: this is all moot if #86 passes.
 
 Delete that rule saying the proposals can't depend on stuff outside the game state already
 
+<a name='206'/>
+
+## #206
+
+Remove all votes against #206
+
