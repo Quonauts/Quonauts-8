@@ -1093,9 +1093,7 @@ Players may not propose proposals.
 
 <a name='165'/>
 
-## #165
-
-Players may not propose to proposals.
+## #165 — Deleted
 
 <a name='166'/>
 
