@@ -1485,3 +1485,10 @@ Keep <#694842097416536095> under at least 2h slowmode forthwith.
 
 Replace proposal #229s mentions of "Moon" with "Sun", as the Moon is actually a hologram and NASA faked the Moon landing, it was actually to cover up the Solar Landing, this is a well known fact.
 
+<a name='233'/>
+
+## #233
+
+Replace the contents of %the-end with:
+All players who voted on at least one proposal win the game.
+
