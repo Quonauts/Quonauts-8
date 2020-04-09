@@ -1182,10 +1182,7 @@ Banned players may not make game actions. All players are Banned.
 
 <a name='179'/>
 
-## #179
-
-Add a new rule "Out of Order" (%out-of-order):
-Quonauts 8 is paused until the completion of Quonauts 9.
+## #179 — Deleted
 
 <a name='180'/>
 
