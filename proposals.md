@@ -1317,3 +1317,10 @@ Add a new rule: Systematic bribery (%bribery):
 
 This proposal is incompatible with #198
 
+<a name='200'/>
+
+## #200
+
+Add a rule %yikes (%yikes):
+All players except those who voted for Proposal #200 must vote for Proposals prefixed with the string "yikes" (ex. yikes, everyone wins the game). Players who did not vote for Proposal #200 cannot prefix Proposals with the string "yikes".
+
