@@ -1269,3 +1269,9 @@ All open proposals deemed "low-quality" by <@!427589146295664667> are closed and
 
 <@427589146295664667> can deem only proposal #68 low-quality.
 
+<a name='193'/>
+
+## #193
+
+<@427589146295664667> can deem only Proposal #192 low-quality
+
