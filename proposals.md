@@ -1474,3 +1474,9 @@ Add a new rule, reasons (%good-cause)
 
 ## #225 — Deleted
 
+<a name='226'/>
+
+## #226
+
+Just end the game already
+
