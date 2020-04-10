@@ -51,8 +51,7 @@
 
 ## <a name='meta-rules'/> Meta rules
 
-This rule details how rules are to be applied to the game.
-This rule takes precedence in all situations.
+the rules to the popular card game UNO.
 
 ### <a name='glossary'/> Glossary
 
