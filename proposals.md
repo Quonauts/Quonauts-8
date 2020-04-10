@@ -601,7 +601,7 @@ i would put a really good well thought out proposal here but im tired and thirst
 
 <a name='86'/>
 
-## #86
+## #86 — Passed
 
 Add a new rule "UNO" (%uno):
     All Quonauts 8 rules (including this one) are replaced with the rules to the popular card game UNO.
