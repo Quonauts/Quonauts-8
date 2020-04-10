@@ -414,7 +414,7 @@
 		"rule-violation-polls": {
 			"tag": "rule-violation-polls",
 			"title": "Rule violation polls",
-			"content": "If any player (hereby \"the accusing player\") believes that another player (hereby \"the accused player\") has violated the rules, then the accusing player may conduct a poll (a \"rule violation poll\") to determine whether the accused player has violated the rules.\n\nIn conducting a rule violation poll, the accusing player must describe which sections or clauses of the rules were violated and what illegal game action was taken by the accused player. Players should vote in favor of this poll only if they agree that the accused player violated the rules as described.\n\nAny vote in such a poll cast by the accused player is not counted.\n\nA rule violation poll must be available for voting for at least 24 hours before any action may be taken as a result.\n\nA rule violation poll may not be started more than 7 days after the potential rule violation.\n\nFor any potential rule violation, only one rule violation poll may be conducted.\n\nIf a rule violation poll passes, then the accused player is convicted of violating the rules as described in the poll and the rule violation must be resolved, if it has not already.",
+			"content": "WOOP",
 			"parent_tag": "rule-violations",
 			"child_tags": [
 				"punitive-action"
