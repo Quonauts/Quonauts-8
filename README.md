@@ -1,6 +1,6 @@
-# Quonauts 8: Heav'd once more
+# Quonauts 9: Quorantine
 
-This is the GitHub repository for the Quonauts 8: Heav'd once more Nomic game. This
+This is the GitHub repository for the Quonauts 9: Quorantine Nomic game. This
 repository contains the entire game state, automatically updated at regular
 intervals; however, it may take up to an hour before it is updated. Do NOT
 manually commit to this repository; it should be managed entirely by
@@ -12,4 +12,4 @@ Below are links to the current game rules, proposals, and logs.
 * [**Proposals**](proposals.md)
 * [**Logs**](logs)
 
-_Last updated UTC 2020-04-10 17:45_
+_Last updated UTC 2020-04-10 18:17_
