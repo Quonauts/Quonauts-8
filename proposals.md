@@ -1,4 +1,4 @@
-# Quonauts 9: Quorantine — Proposals
+# Quonauts 8: Heav'd once more — Proposals
 
 <a name='1'/>
 

@@ -1,4 +1,4 @@
-# Quonauts 9: Quorantine — Rules
+# Quonauts 8: Heav'd once more — Rules
 
 ## Table of contents
 
