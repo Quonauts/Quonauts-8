@@ -34,7 +34,7 @@
 				"transactions-channel"
 			],
 			"message_ids": [
-				696849114419429477
+				697557939107659848
 			]
 		},
 		"closing-proposals": {
@@ -46,7 +46,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				697146850268020847
+				697557984745619507
 			]
 		},
 		"conflict-resolution": {
@@ -56,7 +56,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				697146830303133826
+				697557964776538223
 			]
 		},
 		"content": {
@@ -76,7 +76,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				697146853812076584
+				697558004903575562
 			]
 		},
 		"dependency-resolution": {
@@ -86,7 +86,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				697146831179612171
+				697557982778490880
 			]
 		},
 		"disallowed-by-default": {
@@ -99,6 +99,16 @@
 				696849030562709515
 			]
 		},
+		"ducks": {
+			"tag": "ducks",
+			"title": "Ducks",
+			"content": "For every 10 passed-proposals a player earns, they gain one duck. This applies retroactively.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				697559709007347752
+			]
+		},
 		"editing-proposals": {
 			"tag": "editing-proposals",
 			"title": "Editing proposals",
@@ -106,7 +116,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				697146852801380372
+				697557986649964645
 			]
 		},
 		"errors": {
@@ -136,7 +146,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				697146806521561312
+				697557940273676388
 			]
 		},
 		"glossary": {
@@ -159,6 +169,16 @@
 				696849073453400094
 			]
 		},
+		"legitimacy-poll": {
+			"tag": "legitimacy-poll",
+			"title": "Legitimacy Poll",
+			"content": "The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				697558005780054126
+			]
+		},
 		"lists": {
 			"tag": "lists",
 			"title": "Lists",
@@ -176,7 +196,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146876771827742
+				697558555871674448
 			]
 		},
 		"losing": {
@@ -186,13 +206,13 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146872682381412
+				697558535881621675
 			]
 		},
 		"meta-rules": {
 			"tag": "meta-rules",
 			"title": "Meta rules",
-			"content": "This section details how the rules are to be applied to the game.",
+			"content": "the rules to the popular card game UNO.",
 			"parent_tag": "root",
 			"child_tags": [
 				"glossary",
@@ -206,6 +226,18 @@
 			],
 			"message_ids": [
 				696849026938568797
+			]
+		},
+		"money": {
+			"tag": "money",
+			"title": "Money",
+			"content": "Money can be traded for any other quantity at any rate as long as both parties trading agree.",
+			"parent_tag": "quantities",
+			"child_tags": [
+				"starting-money"
+			],
+			"message_ids": [
+				697556982499901490
 			]
 		},
 		"passed-enacted-proposals": {
@@ -225,7 +257,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				697146851543089245
+				697557985433747567
 			]
 		},
 		"player-state": {
@@ -248,7 +280,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				697146810044514334
+				697557961106522162
 			]
 		},
 		"precedence": {
@@ -261,16 +293,6 @@
 				696849029836832818
 			]
 		},
-		"proposal-10": {
-			"tag": "proposal-10",
-			"title": "Proposal #10",
-			"content": "The passing of or enacting of proposals can be polled over whether the passing was legitimate. This rule overrides other rules.",
-			"parent_tag": "root",
-			"child_tags": [],
-			"message_ids": [
-				697146895142748180
-			]
-		},
 		"proposal-15": {
 			"tag": "proposal-15",
 			"title": "Proposal #15",
@@ -278,7 +300,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146875534376960
+				697558538125312111
 			]
 		},
 		"proposal-42": {
@@ -288,7 +310,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146894387904522
+				697558556442099713
 			]
 		},
 		"proposal-content": {
@@ -301,23 +323,25 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				697146829225328683
+				697557964302581830
 			]
 		},
 		"proposals": {
 			"tag": "proposals",
 			"title": "Proposals",
-			"content": "Proposals can be made by posting them to the <#694977941150367784> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.",
+			"content": "Proposals can be made by posting them to the <#694977941150367784> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.\n\nThe title of a new rule section must not reference (ie. include the number of) any specific proposal.",
 			"parent_tag": "root",
 			"child_tags": [
 				"proposal-content",
 				"voting-on-proposals",
 				"closing-proposals",
 				"editing-proposals",
-				"deleting-proposals"
+				"deleting-proposals",
+				"legitimacy-poll",
+				"very-important"
 			],
 			"message_ids": [
-				697146828084346923
+				697557963346280498
 			]
 		},
 		"proposals-channel": {
@@ -327,7 +351,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				697146807943299162
+				697557941229715546
 			]
 		},
 		"punitive-action": {
@@ -343,10 +367,11 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must always be an integer.\n* must never have a negative value.\n\nQuantities may be traded or exchanged in ways specifically allowed by the rules.\n\nThe following quantities exist:\n* **passed-proposals**: the number of passed proposals submitted by a player\n* **enacted-proposals**: the number of proposals a player has carried out\n\nWhen a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be a complex number where both the real and imaginary parts of the number are integers.\n* must never have a negative value.\n\nQuantities may be traded or exchanged in ways specifically allowed by the rules.\n\nThe following quantities exist:\n * **passed-proposals**: the number of passed proposals submitted by a player\n* **enacted-proposals**: the number of proposals a player has carried out\n* **money**: a quantity that can be traded for other quantities\n* **ducks**: a quantity gained for every 10 passed-proposals\n* **bread**: a quantity that currently has no use\n\nWhen a new quantity is created, this rule should be edited to add it, along with a short description, to the above list. The description has no relevance to the game.",
 			"parent_tag": "player-state",
 			"child_tags": [
-				"passed-enacted-proposals"
+				"passed-enacted-proposals",
+				"money"
 			],
 			"message_ids": [
 				696849095616233573
@@ -378,12 +403,12 @@
 				"proposal-15",
 				"loophole-harmlessness",
 				"proposal-42",
-				"proposal-10"
+				"ducks"
 			],
 			"message_ids": [
-				697146895893790720,
-				697146896619274300,
-				697146897198219345
+				697559710030757908,
+				697559710580080701,
+				697559711570198528
 			]
 		},
 		"rule-violation-polls": {
@@ -418,7 +443,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				697146808979161199
+				697557942140010527
+			]
+		},
+		"starting-money": {
+			"tag": "starting-money",
+			"title": "Starting money",
+			"content": "Each player may, at most once during the game, give themselves 100 money.",
+			"parent_tag": "money",
+			"child_tags": [],
+			"message_ids": [
+				697557938713395291
 			]
 		},
 		"style-conventions": {
@@ -443,7 +478,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146873835946175
+				697558536900575353
 			]
 		},
 		"timezones": {
@@ -463,7 +498,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				697146810766196760
+				697557962356555898
+			]
+		},
+		"very-important": {
+			"tag": "very-important",
+			"title": "Very important",
+			"content": "No rule or proposal can prevent people from proposing or passing a rule.",
+			"parent_tag": "proposals",
+			"child_tags": [],
+			"message_ids": [
+				697558533834801303
 			]
 		},
 		"voting-on-proposals": {
@@ -473,7 +518,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				697146832324788295
+				697557983256641619
 			]
 		},
 		"winning": {
@@ -483,7 +528,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				697146854328107049
+				697558534962806936
 			]
 		}
 	}

@@ -557,7 +557,7 @@
 			"n": 38,
 			"author": 309787486278909952,
 			"content": "Create a new rule \"Meta rules\", %meta-rules, after %meta-rules:\n> This rule details how the rules are to be applied to the game.\n> This rule takes precedence in all situations.\nThis rule takes precedence in all situations.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 695722706720784415,
 			"votes": {
 				"151149148639330304": 0,
@@ -713,7 +713,7 @@
 			"n": 47,
 			"author": 91269654017748992,
 			"content": "Replace contents of rule %winning:\n\"All players who voted on Proposal #47 win the game. This does not end the game.\"",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696431538207981738,
 			"votes": {
 				"151149148639330304": -1,
@@ -813,7 +813,7 @@
 			"n": 53,
 			"author": 160279332454006795,
 			"content": "Every currently failed proposal is to be passed. Every passed proposal is to have its effects retroactively undone and then failed.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696675279711633458,
 			"votes": {
 				"151149148639330304": -1,
@@ -830,7 +830,7 @@
 			"n": 54,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %very-important, under [%proposals]\nNo rule or proposal can prevent people from proposing or passing a rule",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696694544426860544,
 			"votes": {
 				"151149148639330304": 1,
@@ -847,7 +847,7 @@
 			"n": 55,
 			"author": 330678593904443393,
 			"content": "Proposal #55 is to be considered failed and then have its effects retroactively undone.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696704487154253864,
 			"votes": {
 				"151149148639330304": 1,
@@ -862,7 +862,7 @@
 			"n": 56,
 			"author": 330678593904443393,
 			"content": "Append to rule %proposals:\n> The title of a new rule section must not reference (ie. include the number of) any specific proposal.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696705869416628285,
 			"votes": {
 				"151149148639330304": -1,
@@ -877,7 +877,7 @@
 			"n": 57,
 			"author": 330678593904443393,
 			"content": "Append to %passed-enacted-proposals:\n> Effects of proposals must be carried out by a different person than the one who proposed them.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696706389422112788,
 			"votes": {
 				"151149148639330304": -1,
@@ -906,7 +906,7 @@
 			"n": 59,
 			"author": 309787486278909952,
 			"content": "Create two new quantities, \"ducks\" and \"bread\" (update %quantities accordingly).\n\nAdd a new rule \"Ducks\" (%ducks) in root:\n> For every 10 passed-proposals a player earns, they gain one duck. This applies retroactively.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696718282895655003,
 			"votes": {
 				"151149148639330304": 1,
@@ -934,7 +934,7 @@
 			"n": 61,
 			"author": 421060058009305088,
 			"content": "change the contents of  the sixth line (counting the empty line) of %quantities from \"must always be an integer\" to \"must be a complex number where both the real and imaginary parts of the number are integers\"",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696729914774388738,
 			"votes": {
 				"151149148639330304": 1,
@@ -947,7 +947,7 @@
 			"n": 62,
 			"author": 421060058009305088,
 			"content": "add a new quantity called money (update %quantities accordingly). add a new rule, %money, under %quantities, stating that money can be traded for any other quantity at any rate as long as both parties trading agree.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696731137678245979,
 			"votes": {
 				"151149148639330304": 1,
@@ -962,7 +962,7 @@
 			"n": 63,
 			"author": 91269654017748992,
 			"content": "Depends on proposal #62.\nCreate a new rule %starting-money under %money:\n> Each player may, at most once during the game, give themselves 100 money.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696733470671634442,
 			"votes": {
 				"151149148639330304": 1,
@@ -978,7 +978,7 @@
 			"n": 64,
 			"author": 160279332454006795,
 			"content": "Change the name of the \"Money\" quantity to \"Points\" if Proposal #62 passes. If not, make a new quantity named Points.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696747069829808160,
 			"votes": {
 				"151149148639330304": 1,
@@ -994,7 +994,7 @@
 			"n": 65,
 			"author": 160279332454006795,
 			"content": "This rule depends on proposal #64 \nAdd a new rule under all existing rules named \"Income\" (%income):\n> With a delay of no less than 20 hours, players may award themselves an amount of points equivelant to their passed-proposals quantity at that time.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696747231084281937,
 			"votes": {
 				"151149148639330304": 1,
@@ -1010,7 +1010,7 @@
 			"n": 66,
 			"author": 421060058009305088,
 			"content": "Everyone gets one more of every quantity that exists at the time this proposal is passed.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696754049952776254,
 			"votes": {
 				"151149148639330304": -1,
@@ -1058,7 +1058,7 @@
 			"n": 69,
 			"author": 91269654017748992,
 			"content": "Rename rule \"Proposal #10\" %proposal-10 to \"Legitimacy poll\" %legitimacy-poll. Move rule %legitimacy-poll to end of %proposals",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696798988510167081,
 			"votes": {
 				"151149148639330304": 1,
@@ -1073,7 +1073,7 @@
 			"n": 70,
 			"author": 512645502253400064,
 			"content": "This Proposal is dependent on Proposal #54. \nIf Proposal #54 has not been passed yet, immediately fail it.\nIf Proposal #54 already has passed, immediately reverse its effects on the game-rules.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696851040821051413,
 			"votes": {
 				"151149148639330304": 1,
@@ -1090,7 +1090,7 @@
 			"n": 71,
 			"author": 421060058009305088,
 			"content": "This Proposal is dependent on Proposal #70.\nIf Proposal #70 has not been passed yet, immediately fail it.\nIf Proposal #70 already has passed, immediately reverse its effects on the game-rules.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696857186420260965,
 			"votes": {
 				"151149148639330304": -1,
@@ -1107,7 +1107,7 @@
 			"n": 72,
 			"author": 330678593904443393,
 			"content": "Change the contents of %the-end to:\nThe game does not end, unless the amount of proposals exceeds THREE (3).\n\nThis proposal conflicts with #68.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 696957366641623101,
 			"votes": {
 				"160279332454006795": -1,
@@ -1123,7 +1123,7 @@
 			"n": 73,
 			"author": 427589146295664667,
 			"content": "This proposal conflicts with #73.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 696966777640321095,
 			"votes": {
 				"151149148639330304": 1,
@@ -1250,6 +1250,7 @@
 			"message_id": 697340826023493682,
 			"votes": {
 				"151149148639330304": 1,
+				"309787486278909952": 1,
 				"330678593904443393": 1,
 				"421060058009305088": 1,
 				"427589146295664667": 1,
@@ -1282,6 +1283,7 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": -1,
+				"309787486278909952": -1,
 				"330678593904443393": 1,
 				"421060058009305088": 1,
 				"427589146295664667": 1
@@ -1324,15 +1326,17 @@
 			"n": 86,
 			"author": 151149148639330304,
 			"content": "Add a new rule \"UNO\" (%uno):\n    All Quonauts 8 rules (including this one) are replaced with the rules to the popular card game UNO.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 697464368270409859,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": 1,
 				"309787486278909952": 1,
 				"330678593904443393": 1,
-				"421060058009305088": -1,
+				"421060058009305088": 1,
 				"427589146295664667": -1,
-				"91269654017748992": -1
+				"512645502253400064": -1,
+				"91269654017748992": 1
 			},
 			"timestamp": 1586355263
 		},
@@ -1357,6 +1361,8 @@
 			"message_id": 697480292276895805,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
 				"330678593904443393": -1,
 				"421060058009305088": 1,
 				"427589146295664667": -1,
@@ -1372,6 +1378,7 @@
 			"message_id": 697480578785607750,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": -1,
 				"309787486278909952": -1,
 				"330678593904443393": 1,
 				"421060058009305088": 1,
@@ -1388,6 +1395,7 @@
 			"message_id": 697480811775000638,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": 1,
 				"309787486278909952": -1,
 				"330678593904443393": 1,
 				"421060058009305088": 1,
@@ -1404,6 +1412,7 @@
 			"message_id": 697482346408050738,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": 0,
 				"309787486278909952": 1,
 				"330678593904443393": 0,
 				"421060058009305088": -1,
@@ -1420,9 +1429,12 @@
 			"message_id": 697483194571948163,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": 1,
 				"309787486278909952": 0,
+				"330678593904443393": 0,
 				"421060058009305088": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"91269654017748992": 1
 			},
 			"timestamp": 1586359752
 		},
@@ -1434,9 +1446,12 @@
 			"message_id": 697483675209826375,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": 1,
 				"309787486278909952": 1,
+				"330678593904443393": 1,
 				"421060058009305088": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"91269654017748992": 1
 			},
 			"timestamp": 1586359866
 		},
@@ -1448,9 +1463,12 @@
 			"message_id": 697484723152355474,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": -1,
 				"309787486278909952": -1,
+				"330678593904443393": 1,
 				"421060058009305088": -1,
-				"427589146295664667": -1
+				"427589146295664667": -1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1586360116
 		},
@@ -1462,11 +1480,2034 @@
 			"message_id": 697489373339582505,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": 1,
 				"309787486278909952": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586361225
+		},
+		{
+			"n": 96,
+			"author": 151149148639330304,
+			"content": "Add a new named \"Proposal 0\" (%proposal-2.5):\n    Whenever Proposal #91 is failed, reopen it and remove all votes from it.",
+			"status": "voting",
+			"message_id": 697503309128269825,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586364547
+		},
+		{
+			"n": 97,
+			"author": 91269654017748992,
+			"content": "Create quantity **proposal-taint**.\nAdd rule %proposal-taint under %quantities:\n> Every time a proposal fails, its author gains one **proposal-taint**. At most once in a UTC day, a player may lower their own **proposal-taint** by one. This quantity cannot be traded.",
+			"status": "voting",
+			"message_id": 697504085125103616,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586364732
+		},
+		{
+			"n": 98,
+			"author": 160279332454006795,
+			"content": "building",
+			"status": "voting",
+			"message_id": 697515753984884757,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367514
+		},
+		{
+			"n": 99,
+			"author": 160279332454006795,
+			"content": "up",
+			"status": "voting",
+			"message_id": 697515781147197580,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 0,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367520
+		},
+		{
+			"n": 100,
+			"author": 160279332454006795,
+			"content": "proposal",
+			"status": "voting",
+			"message_id": 697515793327325226,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367524
+		},
+		{
+			"n": 101,
+			"author": 160279332454006795,
+			"content": "taint",
+			"status": "voting",
+			"message_id": 697515804526248076,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 0,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367526
+		},
+		{
+			"n": 102,
+			"author": 160279332454006795,
+			"content": "for",
+			"status": "voting",
+			"message_id": 697515814626132099,
+			"votes": {
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367529
+		},
+		{
+			"n": 103,
+			"author": 160279332454006795,
+			"content": "12",
+			"status": "voting",
+			"message_id": 697515825640505416,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586367531
+		},
+		{
+			"n": 104,
+			"author": 160279332454006795,
+			"content": "hours",
+			"status": "voting",
+			"message_id": 697515837312991314,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586367534
+		},
+		{
+			"n": 105,
+			"author": 364562317645709336,
+			"content": "Give me the raw energy that i need (bottom text xd)",
+			"status": "voting",
+			"message_id": 697524957487562823,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586369709
+		},
+		{
+			"n": 106,
+			"author": 421060058009305088,
+			"content": "yo give me some proposal taint",
+			"status": "voting",
+			"message_id": 697541603614654525,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"421060058009305088": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586373677
+		},
+		{
+			"n": 107,
+			"author": 160279332454006795,
+			"content": "Create a rule section named %a1 below all other rules:\n> Heavpoots `FOR` votes are to count as 1000 `FOR` votes. GIVE ME PrOPOSAL tainT PLS.",
+			"status": "voting",
+			"message_id": 697542741000716288,
+			"votes": {
+				"151149148639330304": 0,
+				"160279332454006795": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586373948
+		},
+		{
+			"n": 108,
+			"author": 160279332454006795,
+			"content": "Create a rule section named %a2 below all other rules:\n> Heavpoots `FOR` votes are to count as 1000 `FOR` votes. GIVE ME PrOPOSAL tainT PLS.",
+			"status": "voting",
+			"message_id": 697542759707574386,
+			"votes": {
+				"151149148639330304": 0,
+				"160279332454006795": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586373953
+		},
+		{
+			"n": 109,
+			"author": 160279332454006795,
+			"content": "Create a rule section named %a3 below all other rules:\n> Heavpoots `FOR` votes are to count as 1000 `FOR` votes. GIVE ME PrOPOSAL tainT PLS.",
+			"status": "voting",
+			"message_id": 697542812056551434,
+			"votes": {
+				"151149148639330304": 0,
+				"160279332454006795": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586373965
+		},
+		{
+			"n": 110,
+			"author": 151149148639330304,
+			"content": "Proposals #106 to #109 are closed but not passed or failed. This overrides %closing-proposals and %proposals.",
+			"status": "voting",
+			"message_id": 697549023325716532,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586375446
+		},
+		{
+			"n": 111,
+			"author": 421060058009305088,
+			"content": "Create a rule section called %proposal-taint, below all other rules:\n> <@!421060058009305088> gains 1 proposal taint when they see fit.",
+			"status": "deleted",
+			"message_id": 697560416452214824,
+			"votes": {
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586378163
+		},
+		{
+			"n": 112,
+			"author": 421060058009305088,
+			"content": "Create a rule section called %more-taint, below all other rules, which reads:\n> <@!421060058009305088> can instantly pass proposals they like. This overrides all other rules and is definitely legal. (bc <@!421060058009305088> really wants proposal taint",
+			"status": "deleted",
+			"message_id": 697560955277803572,
+			"votes": {
+				"421060058009305088": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586378291
+		},
+		{
+			"n": 113,
+			"author": 421060058009305088,
+			"content": "This proposal depends on #112.\nAppend a closing parenthesis to the end of %more-taint",
+			"status": "deleted",
+			"message_id": 697561234177916958,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586378358
+		},
+		{
+			"n": 114,
+			"author": 421060058009305088,
+			"content": "This proposal depends on #97\nadd a rule at the end of %proposal-taint stating:\nif you have over 25 proposal-taint, your vote counts double, but only if you're voting for a proposal which will not benefit you",
+			"status": "voting",
+			"message_id": 697561952603471902,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586378529
+		},
+		{
+			"n": 115,
+			"author": 421060058009305088,
+			"content": "this proposal depends on #97\nadd a rule for ducks under %quantities:\nducks can be traded for blood at a rate of 1 duck:1 blood.\nadd a rule for bread under %quantities:\n1 blood and 1 bread can be used to gain 10 proposal-taint.\nadd a quantity called blood. 1 blood and 1 bread can be used to gain 10 proposal-taint.",
+			"status": "voting",
+			"message_id": 697562951577501826,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": -1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586378767
+		},
+		{
+			"n": 116,
+			"author": 421060058009305088,
+			"content": "add a new rule under %proposals:\nnobody can propose more than 10 proposals per day. this overrides other rules.",
+			"status": "voting",
+			"message_id": 697563398816137286,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586378874
+		},
+		{
+			"n": 117,
+			"author": 309787486278909952,
+			"content": "This proposal depends on #97.\n\nRemove the quantity \"proposal taint\", and all rules that mention it. Fail every open proposal that mentions it.",
+			"status": "voting",
+			"message_id": 697564324859871322,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586379094
+		},
+		{
+			"n": 118,
+			"author": 421060058009305088,
+			"content": "Change %very-important to:\n\"no proposal or rule, besides this one, can prevent people from proposing rules\"",
+			"status": "voting",
+			"message_id": 697566016959545367,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586379498
+		},
+		{
+			"n": 119,
+			"author": 421060058009305088,
+			"content": "Change %very-important to:\nNo rule or proposal, except %very-important, can prevent people from proposing or passing a rule.",
+			"status": "voting",
+			"message_id": 697566492988014663,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
 				"421060058009305088": 1,
 				"427589146295664667": 1
 			},
-			"timestamp": 1586361225
+			"timestamp": 1586379611
+		},
+		{
+			"n": 120,
+			"author": 151149148639330304,
+			"content": "Delete Proposal #112",
+			"status": "deleted",
+			"message_id": 697566622524768297,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1586379642
+		},
+		{
+			"n": 121,
+			"author": 151149148639330304,
+			"content": "Delete Proposal #111",
+			"status": "deleted",
+			"message_id": 697566699217748058,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1586379661
+		},
+		{
+			"n": 122,
+			"author": 309787486278909952,
+			"content": "This proposal depends on #97 and conflicts with #117.\n\nAppend to %proposal-taint:\n> A player with more than 10 proposal-taint may not create new proposals.\n\nYeah, this overrides other rules, read %precedence and delete the last paragraph of %proposal-content.",
+			"status": "deleted",
+			"message_id": 697567069050241165,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 1,
+				"421060058009305088": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586379749
+		},
+		{
+			"n": 123,
+			"author": 309787486278909952,
+			"content": "Remove %very-important. Fail any open proposals that reference it.",
+			"status": "voting",
+			"message_id": 697567301226070217,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586379804
+		},
+		{
+			"n": 124,
+			"author": 309787486278909952,
+			"content": "This proposal depends on #97 and conflicts with #117.\n\nAppend to %proposal-taint:\n\n> A player with more than 10 proposal-taint may not create new proposals. Every 24 hours, a player with more than 10 proposal-taint loses 1 proposal taint (in addition to the one they may remove at their choice)\n\nThis always takes precedence.",
+			"status": "voting",
+			"message_id": 697567633503158353,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586379883
+		},
+		{
+			"n": 125,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Gibson Control\" (%gibson-control):\nGibson cannot decide what to vote on proposals. To vote on a proposal, Gibson must submit a poll referencing that proposal. Any player may close one of these polls if:\n* The poll is at least 48 hours (2 days) old.\n* All active players have cast a vote on the poll.\n* There is a majority vote on the poll.\nWhen one of these polls is closed, Gibson's vote is chosen as the majority vote on the poll.",
+			"status": "voting",
+			"message_id": 697569085117956106,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 0,
+				"427589146295664667": -1
+			},
+			"timestamp": 1586380229
+		},
+		{
+			"n": 126,
+			"author": 421060058009305088,
+			"content": "reopen the poll for proposal #86",
+			"status": "deleted",
+			"message_id": 697569299732234251,
+			"votes": {},
+			"timestamp": 1586380281
+		},
+		{
+			"n": 127,
+			"author": 421060058009305088,
+			"content": "reopen the voting for proposal #86",
+			"status": "deleted",
+			"message_id": 697569488522051616,
+			"votes": {
+				"151149148639330304": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1586380326
+		},
+		{
+			"n": 128,
+			"author": 421060058009305088,
+			"content": "pass proposal #128",
+			"status": "voting",
+			"message_id": 697570251205771365,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380507
+		},
+		{
+			"n": 129,
+			"author": 421060058009305088,
+			"content": "Remove every single rule from the game",
+			"status": "voting",
+			"message_id": 697570576394485760,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380585
+		},
+		{
+			"n": 130,
+			"author": 151149148639330304,
+			"content": "If Proposal #86 is closed, reopen it.\nElse, the next time Proposal #86 would fail, reopen it and remove all votes from it.",
+			"status": "voting",
+			"message_id": 697570673845075989,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380608
+		},
+		{
+			"n": 131,
+			"author": 421060058009305088,
+			"content": "Uno sucks; replace the rules with those of Monopoly",
+			"status": "deleted",
+			"message_id": 697571216046948452,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380737
+		},
+		{
+			"n": 132,
+			"author": 151149148639330304,
+			"content": "If Proposal #130 is closed, reopen it.\nElse, the next time Proposal #130 would fail, reopen it and remove all votes from it.",
+			"status": "voting",
+			"message_id": 697571285617737839,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380754
+		},
+		{
+			"n": 133,
+			"author": 421060058009305088,
+			"content": "Replace the rules with those of Monopoly. Immediately fail proposal #68.",
+			"status": "voting",
+			"message_id": 697571516467904512,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380809
+		},
+		{
+			"n": 134,
+			"author": 151149148639330304,
+			"content": "Replace all open proposals with copies of Proposal #86.",
+			"status": "voting",
+			"message_id": 697571721695199303,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1586380858
+		},
+		{
+			"n": 135,
+			"author": 421060058009305088,
+			"content": "If Proposal #131 is closed and it failed, reopen it.\nElse, the next time Proposal #130 would fail, reopen it and remove all votes from it.",
+			"status": "voting",
+			"message_id": 697571762870812762,
+			"votes": {
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380868
+		},
+		{
+			"n": 136,
+			"author": 421060058009305088,
+			"content": "Replace all open proposals with copies of Proposal #134.",
+			"status": "voting",
+			"message_id": 697571830973595660,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1586380884
+		},
+		{
+			"n": 137,
+			"author": 91269654017748992,
+			"content": "Prevent <@!151149148639330304> and <@!421060058009305088> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.",
+			"status": "voting",
+			"message_id": 697572017666261052,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586380929
+		},
+		{
+			"n": 138,
+			"author": 421060058009305088,
+			"content": "Prevent everyone from making proposals until all currently open proposals are either passed or failed",
+			"status": "voting",
+			"message_id": 697572174491549806,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380966
+		},
+		{
+			"n": 139,
+			"author": 151149148639330304,
+			"content": "Prevent <@!91269654017748992> from making proposals for 48 hours from the passing of this proposal. Fail all of their currently open proposals.",
+			"status": "voting",
+			"message_id": 697572187124662332,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586380969
+		},
+		{
+			"n": 140,
+			"author": 421060058009305088,
+			"content": "Everyone wins the game. Fail all currently open proposals",
+			"status": "voting",
+			"message_id": 697572549956993126,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381055
+		},
+		{
+			"n": 141,
+			"author": 151149148639330304,
+			"content": "Rules and proposals are swapped.",
+			"status": "deleted",
+			"message_id": 697572846356136080,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381126
+		},
+		{
+			"n": 142,
+			"author": 421060058009305088,
+			"content": "Create a new role, \"nasty in Quo8\". Give <@!421060058009305088> the role \"nasty in Quo8\". <@!151149148639330304> may opt in to getting \"nasty in Quo8\" if they wish.",
+			"status": "voting",
+			"message_id": 697572955441594389,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381152
+		},
+		{
+			"n": 143,
+			"author": 309787486278909952,
+			"content": "Give <@!151149148639330304> the Cool role. I created it and got it ready everything before y'all voted no.",
+			"status": "voting",
+			"message_id": 697573110634774619,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381189
+		},
+		{
+			"n": 144,
+			"author": 421060058009305088,
+			"content": "Give everyone the Cool role.",
+			"status": "voting",
+			"message_id": 697573196588646471,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586381210
+		},
+		{
+			"n": 145,
+			"author": 151149148639330304,
+			"content": "Fail Proposal #144.",
+			"status": "voting",
+			"message_id": 697573273613107331,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381228
+		},
+		{
+			"n": 146,
+			"author": 151149148639330304,
+			"content": "Replace all open proposals with themselves.",
+			"status": "voting",
+			"message_id": 697573397210595418,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381257
+		},
+		{
+			"n": 147,
+			"author": 421060058009305088,
+			"content": "Fail every proposal except those by <@!151149148639330304> .",
+			"status": "voting",
+			"message_id": 697573469512007741,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381275
+		},
+		{
+			"n": 148,
+			"author": 421060058009305088,
+			"content": "The passing of proposal #148 was not illegal. Everyone wins the game fourty-two times",
+			"status": "voting",
+			"message_id": 697573880637947924,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381373
+		},
+		{
+			"n": 149,
+			"author": 421060058009305088,
+			"content": "Create a rule violation poll on everyone.",
+			"status": "deleted",
+			"message_id": 697574082094301315,
+			"votes": {
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586381421
+		},
+		{
+			"n": 150,
+			"author": 421060058009305088,
+			"content": "All rule violation polls immediately pass.",
+			"status": "deleted",
+			"message_id": 697574315125637150,
+			"votes": {},
+			"timestamp": 1586381476
+		},
+		{
+			"n": 151,
+			"author": 421060058009305088,
+			"content": "Create a rule violation poll on everyone. All rule violation polls created by Proposal #151 immediately pass.",
+			"status": "voting",
+			"message_id": 697574468553408572,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1
+			},
+			"timestamp": 1586381513
+		},
+		{
+			"n": 152,
+			"author": 421060058009305088,
+			"content": "Everyone loses and wins the game simultaneously",
+			"status": "voting",
+			"message_id": 697574834686787693,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586381600
+		},
+		{
+			"n": 153,
+			"author": 421060058009305088,
+			"content": "Mute <@!421060058009305088> in this channel for 24 hours",
+			"status": "deleted",
+			"message_id": 697574922649731092,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1586381621
+		},
+		{
+			"n": 154,
+			"author": 421060058009305088,
+			"content": "Add a rule under %proposal-content stating that no proposal with a number greater than 154 may contain the string \"<@!421060058009305088> \"",
+			"status": "voting",
+			"message_id": 697575811506503730,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381833
+		},
+		{
+			"n": 155,
+			"author": 421060058009305088,
+			"content": "This proposal depends on #97.\nIf proposal #97 is passed, Moooosey gets 1 proposal-taint",
+			"status": "voting",
+			"message_id": 697576304530292766,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586381951
+		},
+		{
+			"n": 156,
+			"author": 421060058009305088,
+			"content": "mute everyone who voted for this proposal in this channel for 24 hours",
+			"status": "voting",
+			"message_id": 697577318260146178,
+			"votes": {
+				"151149148639330304": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586382192
+		},
+		{
+			"n": 157,
+			"author": 421060058009305088,
+			"content": "mute everyone who voted against this proposal in this channel for 24 hours",
+			"status": "voting",
+			"message_id": 697577369321472020,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586382204
+		},
+		{
+			"n": 158,
+			"author": 421060058009305088,
+			"content": "mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours",
+			"status": "deleted",
+			"message_id": 697577583109210212,
+			"votes": {
+				"421060058009305088": 0
+			},
+			"timestamp": 1586382255
+		},
+		{
+			"n": 159,
+			"author": 421060058009305088,
+			"content": "If at least three people voted for this proposal, mute everyone who voted for or abstained from voting for this proposal in this channel for 24 hours.",
+			"status": "voting",
+			"message_id": 697577977164070994,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 0,
+				"421060058009305088": 0,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586382349
+		},
+		{
+			"n": 160,
+			"author": 330678593904443393,
+			"content": "Add a rule \"Danish pastry\" (%north-korea)\n> On Sundays (UTC+0) any active player whose username or real name contains at least one 'i' wins the game, but only if the CoViD-19 pandemic is still ongoing (according to WHO) and if P != NP.\n> This does not end the game, and the respective players stop having won when Sunday ends.\n> This rule is an exception to 5 (%winning) and the second paragraph of 4.1 (%proposal-content).",
+			"status": "voting",
+			"message_id": 697579107852222505,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586382619
+		},
+		{
+			"n": 161,
+			"author": 160279332454006795,
+			"content": "\\zxcvnm,./",
+			"status": "voting",
+			"message_id": 697582779843477574,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"427589146295664667": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586383494
+		},
+		{
+			"n": 162,
+			"author": 160279332454006795,
+			"content": "/.,mnbvcxz\\",
+			"status": "voting",
+			"message_id": 697582816162218015,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586383503
+		},
+		{
+			"n": 163,
+			"author": 421060058009305088,
+			"content": "Change everyone's nickname to a [noun], where [noun] is a random noun",
+			"status": "voting",
+			"message_id": 697583344673620008,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586383629
+		},
+		{
+			"n": 164,
+			"author": 151149148639330304,
+			"content": "Players may not propose proposals.",
+			"status": "deleted",
+			"message_id": 697585134387462174,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384056
+		},
+		{
+			"n": 165,
+			"author": 151149148639330304,
+			"content": "Players may not propose to proposals.",
+			"status": "deleted",
+			"message_id": 697585179081965660,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384067
+		},
+		{
+			"n": 166,
+			"author": 151149148639330304,
+			"content": "Players may not propose to players.",
+			"status": "deleted",
+			"message_id": 697585282035220490,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384091
+		},
+		{
+			"n": 167,
+			"author": 421060058009305088,
+			"content": "Proposals may not propose players",
+			"status": "voting",
+			"message_id": 697585297554145403,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384095
+		},
+		{
+			"n": 168,
+			"author": 421060058009305088,
+			"content": "Proposals may not propose to players",
+			"status": "voting",
+			"message_id": 697585562609123448,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384158
+		},
+		{
+			"n": 169,
+			"author": 421060058009305088,
+			"content": "Proposals may not propose proposals",
+			"status": "voting",
+			"message_id": 697585639050313818,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384176
+		},
+		{
+			"n": 170,
+			"author": 421060058009305088,
+			"content": "Proposals may not propose to proposals",
+			"status": "voting",
+			"message_id": 697585702522716201,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384191
+		},
+		{
+			"n": 171,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Softlock\" (%softlock):\nAll game actions are illegal. This rule overrides all other rules, and any proposal referencing this rule automatically fail.",
+			"status": "deleted",
+			"message_id": 697585820290514954,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384219
+		},
+		{
+			"n": 172,
+			"author": 151149148639330304,
+			"content": "All inactive players are replaced with copies of <@!151149148639330304>.",
+			"status": "deleted",
+			"message_id": 697586360520802366,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"330678593904443393": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384348
+		},
+		{
+			"n": 173,
+			"author": 421060058009305088,
+			"content": "Moooosey is cloned",
+			"status": "voting",
+			"message_id": 697586449465475173,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384369
+		},
+		{
+			"n": 174,
+			"author": 421060058009305088,
+			"content": "Force Moooosey to vote against this",
+			"status": "voting",
+			"message_id": 697586610761498645,
+			"votes": {
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384408
+		},
+		{
+			"n": 175,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Prophecy\" (%prophecy):\nGibson wins Quonauts 14. This rule persists after Quonauts 8's completion.",
+			"status": "deleted",
+			"message_id": 697586696233156628,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384428
+		},
+		{
+			"n": 176,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Rootkit\" (%rootkit):\nGibson loses Quonauts 14. This rule persists after Quonauts 8's completion.",
+			"status": "deleted",
+			"message_id": 697586875711619123,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586384471
+		},
+		{
+			"n": 177,
+			"author": 421060058009305088,
+			"content": "Add a new rule \"Cat\" (%cat):\nGibson will win or lose Quonauts 14 but is in a superposition of both until observed. This rule persists after Quonauts 8's completion",
+			"status": "voting",
+			"message_id": 697587226028015658,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586384555
+		},
+		{
+			"n": 178,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Banned\" (%banned) that is a subsection of %roles:\nBanned players may not make game actions. All players are Banned.",
+			"status": "deleted",
+			"message_id": 697587286862463096,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384569
+		},
+		{
+			"n": 179,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Out of Order\" (%out-of-order):\nQuonauts 8 is paused until the completion of Quonauts 9.",
+			"status": "deleted",
+			"message_id": 697587562314989578,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384635
+		},
+		{
+			"n": 180,
+			"author": 421060058009305088,
+			"content": "Add a new rule \"why not\" (%i-eat-keyboards-mmmmm)\nAll players must either win or lose Quonauts 23. This rule persists after Quonauts 8's completion.",
+			"status": "voting",
+			"message_id": 697588014452572191,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586384743
+		},
+		{
+			"n": 181,
+			"author": 421060058009305088,
+			"content": "Add a new rule \"hurry\" (%faster)\nQuonauts 9, 10, 11, and 12 all begin immediately",
+			"status": "voting",
+			"message_id": 697588503910809691,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384859
+		},
+		{
+			"n": 182,
+			"author": 151149148639330304,
+			"content": "Add a new rule \"Shahrazad\" (%shahrazad):\nPlayers play a subgame of Quonauts when this rule is passed. All players who do not win the subgame lose Quonauts 8.",
+			"status": "voting",
+			"message_id": 697588702750310500,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586384907
+		},
+		{
+			"n": 183,
+			"author": 421060058009305088,
+			"content": "add a new rule Ali Baba (%ali-baba-is-you)\nQuonauts 10 must be played before Quonauts 9. This rule persists after Quonauts 8 ends.",
+			"status": "voting",
+			"message_id": 697589289646686338,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385046
+		},
+		{
+			"n": 184,
+			"author": 421060058009305088,
+			"content": "add a new rule sinbad (%sinbad)\nAll subgames must have at least one subgame.",
+			"status": "voting",
+			"message_id": 697589836432801822,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385177
+		},
+		{
+			"n": 185,
+			"author": 421060058009305088,
+			"content": "add a new rule called \"mistreatment\" (%mistreatment)\nIf a mod changes someone's nickname, said mod must change their nickname to \"mod abuser\"",
+			"status": "voting",
+			"message_id": 697590763718180906,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385398
+		},
+		{
+			"n": 186,
+			"author": 421060058009305088,
+			"content": "Someone must propose a copy of Proposal #86",
+			"status": "deleted",
+			"message_id": 697591031616766033,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586385462
+		},
+		{
+			"n": 187,
+			"author": 421060058009305088,
+			"content": "Heavpoot must propose a copy of proposal #86 and vote for it",
+			"status": "voting",
+			"message_id": 697591370906468412,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385543
+		},
+		{
+			"n": 188,
+			"author": 151149148639330304,
+			"content": "<@!427589146295664667> Must propse a copy of Proposal #86.",
+			"status": "deleted",
+			"message_id": 697591412711227512,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385553
+		},
+		{
+			"n": 189,
+			"author": 421060058009305088,
+			"content": "Every active player except <@!421060058009305088> must propose a copy of Proposal #86 and vote for it",
+			"status": "voting",
+			"message_id": 697591799174398012,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385645
+		},
+		{
+			"n": 190,
+			"author": 421060058009305088,
+			"content": "Every active player except those who voted for Proposal #190 must propose a copy of Proposal #86 and a copy of Proposal #190",
+			"status": "voting",
+			"message_id": 697592161062879294,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": -1,
+				"364562317645709336": -1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586385731
+		},
+		{
+			"n": 191,
+			"author": 151149148639330304,
+			"content": "All open proposals deemed \"low-quality\" by <@!427589146295664667> are closed and failed.",
+			"status": "deleted",
+			"message_id": 697594829496123413,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586386367
+		},
+		{
+			"n": 192,
+			"author": 421060058009305088,
+			"content": "<@427589146295664667> can deem only proposal #68 low-quality.",
+			"status": "failed",
+			"message_id": 697602729907847229,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586388251
+		},
+		{
+			"n": 193,
+			"author": 421060058009305088,
+			"content": "<@427589146295664667> can deem only Proposal #192 low-quality",
+			"status": "voting",
+			"message_id": 697603643641167872,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586388469
+		},
+		{
+			"n": 194,
+			"author": 390317093242929154,
+			"content": "All players get an amount of bread equal to the smallest odd perfect number, if it exists, or zero otherwise",
+			"status": "voting",
+			"message_id": 697608051179651182,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
+				"364562317645709336": 1,
+				"390317093242929154": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586389520
+		},
+		{
+			"n": 195,
+			"author": 151149148639330304,
+			"content": "When Proposal #195 is passed, any players may optionally play a subgame of CARD GAME: THE CARD GAME (by <@!151149148639330304> on Tabletop Simulator). The winner(s) of the subgame gain 4000 money each.",
+			"status": "voting",
+			"message_id": 697625773456097351,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"364562317645709336": -1,
+				"421060058009305088": 0,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586393745
+		},
+		{
+			"n": 196,
+			"author": 151149148639330304,
+			"content": "Proposal #196 depends on Proposal #97.\nFor each **proposal-taint** a player has, votes by that player are worth 0.01 more votes.",
+			"status": "voting",
+			"message_id": 697626414031175742,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1,
+				"330678593904443393": -1,
+				"364562317645709336": -1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586393898
+		},
+		{
+			"n": 197,
+			"author": 330678593904443393,
+			"content": "Append to the second paragraph of 4.1 (%proposal-content):\n> A proposal must not depend on information that is unknowable. It may propose rules that do, but those have no effect as long as the information remains unknowable.",
+			"status": "voting",
+			"message_id": 697707151682043955,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586413147
+		},
+		{
+			"n": 198,
+			"author": 421060058009305088,
+			"content": "Add a new rule: %bribery:\n<@!421060058009305088>'s vote counts quadruple. The votes of everyone else who votes for Proposal #198 counts double. The votes of those who vote against Proposal #198 counts only 1/2 as much.",
+			"status": "voting",
+			"message_id": 697775142645923860,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586429357
+		},
+		{
+			"n": 199,
+			"author": 330678593904443393,
+			"content": "Add a new rule: Systematic bribery (%bribery):\n> In a proposal, players can name any tradable quantity and amount as reward or bribe. Any player voting for the proposal gains that amount of that quantity from the proposal author. This is only effective as long as the author has at least the required amount of that quantity remaining.\n\nThis proposal is incompatible with #198",
+			"status": "voting",
+			"message_id": 697777081135792158,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 0,
+				"427589146295664667": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586429819
+		},
+		{
+			"n": 200,
+			"author": 421060058009305088,
+			"content": "Add a rule %yikes (%yikes):\nAll players except those who voted for Proposal #200 must vote for Proposals prefixed with the string \"yikes\" (ex. yikes, everyone wins the game). Players who did not vote for Proposal #200 cannot prefix Proposals with the string \"yikes\".",
+			"status": "voting",
+			"message_id": 697777322811719680,
+			"votes": {
+				"151149148639330304": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586429877
+		},
+		{
+			"n": 201,
+			"author": 330678593904443393,
+			"content": "Add a rule %anti-corruption:\nAny proposal for which the author promised rewards to players who voted for the proposal or punishments for players who voted against it is illegal and will automatically fail.",
+			"status": "voting",
+			"message_id": 697778032605265920,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1586430046
+		},
+		{
+			"n": 202,
+			"author": 421060058009305088,
+			"content": "fail #201, it ruins the fun",
+			"status": "voting",
+			"message_id": 697778211215507538,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586430089
+		},
+		{
+			"n": 203,
+			"author": 421060058009305088,
+			"content": "Force everyone to agree to the truth: this is all moot if #86 passes.",
+			"status": "voting",
+			"message_id": 697778632080228353,
+			"votes": {
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586430189
+		},
+		{
+			"n": 204,
+			"author": 330678593904443393,
+			"content": "<@421060058009305088> is forbidden from using the nickname \"a scumbag\" or any other nickname that includes \"scumbag\".",
+			"status": "voting",
+			"message_id": 697779955978993675,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 0,
+				"427589146295664667": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1586430505
+		},
+		{
+			"n": 205,
+			"author": 421060058009305088,
+			"content": "Delete that rule saying the proposals can't depend on stuff outside the game state already",
+			"status": "voting",
+			"message_id": 697781796150050826,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586430944
+		},
+		{
+			"n": 206,
+			"author": 421060058009305088,
+			"content": "Remove all votes against #206",
+			"status": "voting",
+			"message_id": 697782578647924796,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586431130
+		},
+		{
+			"n": 207,
+			"author": 421060058009305088,
+			"content": "All players get 3^^^^3 bread.",
+			"status": "voting",
+			"message_id": 697785587901661244,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": -1,
+				"390317093242929154": 1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586431848
+		},
+		{
+			"n": 208,
+			"author": 421060058009305088,
+			"content": "Delete proposal #208",
+			"status": "voting",
+			"message_id": 697791691045732463,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586433302
+		},
+		{
+			"n": 209,
+			"author": 421060058009305088,
+			"content": "Add @Pinglol, an opt-in role which can be pinged excessively",
+			"status": "voting",
+			"message_id": 697792495941058590,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586433495
+		},
+		{
+			"n": 210,
+			"author": 421060058009305088,
+			"content": "This proposal is a useless proposal",
+			"status": "voting",
+			"message_id": 697803449915539466,
+			"votes": {
+				"330678593904443393": 0,
+				"390317093242929154": 0,
+				"421060058009305088": 0,
+				"427589146295664667": 1,
+				"91269654017748992": 0
+			},
+			"timestamp": 1586436106
+		},
+		{
+			"n": 211,
+			"author": 421060058009305088,
+			"content": "If Proposal #210 passes, reopen it and promptly fail it.",
+			"status": "voting",
+			"message_id": 697805228375801886,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586436530
+		},
+		{
+			"n": 212,
+			"author": 421060058009305088,
+			"content": "Replace all unclosed proposals with a copy of the current unclosed proposal with the most votes for. If there is a tie, choose the first option. Then, reopen Proposal #212, keeping its effect.",
+			"status": "voting",
+			"message_id": 697807127812636802,
+			"votes": {
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586436983
+		},
+		{
+			"n": 213,
+			"author": 421060058009305088,
+			"content": "Add a new rule time machine (%time-machine): \nRules 8.2 and 8.3 of quonauts 4.5 are removed and nullified. <@427589146295664667> loses Quonauts 4.5.",
+			"status": "voting",
+			"message_id": 697809700594385016,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586437597
+		},
+		{
+			"n": 214,
+			"author": 421060058009305088,
+			"content": "Archive Quonauts 4.5",
+			"status": "voting",
+			"message_id": 697810291613892698,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586437737
+		},
+		{
+			"n": 215,
+			"author": 151149148639330304,
+			"content": "<@!151149148639330304> and <@!427589146295664667> each choose a proposal newer than Proposal #136 that is automatically passed. A proposal chosen this way may not reference Proposal #86.",
+			"status": "deleted",
+			"message_id": 697811816889188513,
+			"votes": {
+				"151149148639330304": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1586438101
+		},
+		{
+			"n": 216,
+			"author": 421060058009305088,
+			"content": "<@!421060058009305088>, <@390317093242929154>, and <@151149148639330304> each choose two Proposals new than Proposal #200 which are automatically passed.",
+			"status": "voting",
+			"message_id": 697812492268863569,
+			"votes": {
+				"151149148639330304": 1,
+				"330678593904443393": -1,
+				"390317093242929154": 1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586438262
+		},
+		{
+			"n": 217,
+			"author": 390317093242929154,
+			"content": "Each person gains 1 million money for every milleniun prize problem they solve",
+			"status": "voting",
+			"message_id": 697812558429683843,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"390317093242929154": 1,
+				"421060058009305088": 0,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586438278
+		},
+		{
+			"n": 218,
+			"author": 421060058009305088,
+			"content": "Fail a random proposal newer than #218",
+			"status": "voting",
+			"message_id": 697813114028163082,
+			"votes": {
+				"309787486278909952": -1,
+				"330678593904443393": 0,
+				"421060058009305088": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586438410
+		},
+		{
+			"n": 219,
+			"author": 421060058009305088,
+			"content": "Friendly reminder that if any of this is going to be enacted #86 has to fail \\:(",
+			"status": "voting",
+			"message_id": 697813709804011530,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": -1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586438552
+		},
+		{
+			"n": 220,
+			"author": 421060058009305088,
+			"content": "Add a new rule called %86-extender:\nReopen and pass proposal #86.\n\n(To extend time till passing.)",
+			"status": "deleted",
+			"message_id": 697815358685315092,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586438946
+		},
+		{
+			"n": 221,
+			"author": 421060058009305088,
+			"content": "Reopen and pass Proposal #86. This is to extend the time until it passes.",
+			"status": "voting",
+			"message_id": 697815946894639164,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586439086
+		},
+		{
+			"n": 222,
+			"author": 160279332454006795,
+			"content": "Add a new quantity named \"Proposal Points\".\n> * **Proposal Points** are a quantity which you can gain at regular intervals via having passed-proposals.\nAdd a new rule named \"Proposal Points\" below all other rules:\n> Players may claim an amount of Proposal Points equal to their amount of passed-proposals. This cannot be done within 12 hours of the last claim of Proposal Points.",
+			"status": "voting",
+			"message_id": 697819866748551253,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586440020
+		},
+		{
+			"n": 223,
+			"author": 421060058009305088,
+			"content": "<#556288440740741177> can be ignored if a majority vote agrees it's for a good cause",
+			"status": "deleted",
+			"message_id": 697821023994904586,
+			"votes": {},
+			"timestamp": 1586440296
+		},
+		{
+			"n": 224,
+			"author": 421060058009305088,
+			"content": "Add a new rule, reasons (%good-cause)\n<#556288440740741177> can be ignored if it a poll agrees it is for a good cause",
+			"status": "voting",
+			"message_id": 697821282284208189,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586440358
+		},
+		{
+			"n": 225,
+			"author": 330678593904443393,
+			"content": "Apply the following changes to the initial Quo ruleset:\nAdd a quantity \"points\" to %quantities.\nReplace %winning with:\n> Each active player gets one point for each of their proposals that passed and for each proposal for which they enacted the effects (excluding proposals that have no effect or are illegal). Any player who reaches 100 or more points wins.\nReplace %the-end with:\n> The game ends when at least one player has won. Afterwards, the mods shall archive the game and start a new game in a timely fashion.",
+			"status": "deleted",
+			"message_id": 697821740230901821,
+			"votes": {
+				"151149148639330304": -1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1586440467
+		},
+		{
+			"n": 226,
+			"author": 421060058009305088,
+			"content": "Just end the game already",
+			"status": "voting",
+			"message_id": 697822367841255949,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586440617
+		},
+		{
+			"n": 227,
+			"author": 364562317645709336,
+			"content": "Create a proposal under %proposals (%stop-creating-50-proposals-a-day):\n> If 20 proposals are open at the same time, no player can propose proposals.\n> If 19 or more proposals are open at the same time, a player can 'contest' a proposal provided they have not contested a proposal for 12 hours.\n> \n> Contesting is a process used to be able to propose more. In this process, one player chooses a proposal and pings the author of that proposal. Both players, when online, then roll two d20s and sum the rolled values. \n> If the contesting player rolls a strictly greater number, the proposal is immediately deleted and for an hour (3600 seconds) or until the contesting player authors a proposal (whichever happens first), only the contesting player can make a proposal. \n> Otherwise, nothing happens.",
+			"status": "voting",
+			"message_id": 697822419347439656,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"364562317645709336": 1,
+				"421060058009305088": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586440629
+		},
+		{
+			"n": 228,
+			"author": 151149148639330304,
+			"content": "Delete all proposals and reset the rules to their starting configuration.",
+			"status": "voting",
+			"message_id": 697825374570151936,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"330678593904443393": 0,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586441334
+		},
+		{
+			"n": 229,
+			"author": 427589146295664667,
+			"content": "Play this game on the Moon. We can take this game in any direction, and some of those directions lead to the Moon.",
+			"status": "voting",
+			"message_id": 697826159928279100,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586441521
+		},
+		{
+			"n": 230,
+			"author": 421060058009305088,
+			"content": "Rather than ending the game, start a series of subgames.",
+			"status": "deleted",
+			"message_id": 697826805247115364,
+			"votes": {},
+			"timestamp": 1586441675
+		},
+		{
+			"n": 231,
+			"author": 330678593904443393,
+			"content": "Keep <#694842097416536095> under at least 2h slowmode forthwith.",
+			"status": "voting",
+			"message_id": 697827552147800084,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": -1,
+				"427589146295664667": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1586441853
+		},
+		{
+			"n": 232,
+			"author": 160279332454006795,
+			"content": "Replace proposal #229s mentions of \"Moon\" with \"Sun\", as the Moon is actually a hologram and NASA faked the Moon landing, it was actually to cover up the Solar Landing, this is a well known fact.",
+			"status": "voting",
+			"message_id": 697871868480323704,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"390317093242929154": 1,
+				"421060058009305088": 1,
+				"427589146295664667": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586452419
+		},
+		{
+			"n": 233,
+			"author": 421060058009305088,
+			"content": "Replace the contents of %the-end with:\nAll players who voted on at least one proposal win the game.",
+			"status": "voting",
+			"message_id": 697881965344456844,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1586454826
+		},
+		{
+			"n": 234,
+			"author": 421060058009305088,
+			"content": "Replace the contents of %the-end with:\nAll active players except <@!421060058009305088> win the game",
+			"status": "voting",
+			"message_id": 697886004685570128,
+			"votes": {
+				"151149148639330304": -1,
+				"390317093242929154": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1586455789
 		}
 	]
 }

@@ -1,23 +1,49 @@
 {
+	"bread": {
+		"name": "bread",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
+	"ducks": {
+		"name": "ducks",
+		"aliases": [],
+		"players": {},
+		"default_value": 0
+	},
 	"enacted-proposals": {
 		"name": "enacted-proposals",
-		"aliases": [],
+		"aliases": [
+			"enacted"
+		],
 		"players": {
 			"160279332454006795": 1,
-			"309787486278909952": 11
+			"309787486278909952": 11,
+			"330678593904443393": 3,
+			"91269654017748992": 6
+		},
+		"default_value": 0
+	},
+	"money": {
+		"name": "money",
+		"aliases": [],
+		"players": {
+			"91269654017748992": 100
 		},
 		"default_value": 0
 	},
 	"passed-proposals": {
 		"name": "passed-proposals",
-		"aliases": [],
+		"aliases": [
+			"passed"
+		],
 		"players": {
 			"160279332454006795": 2,
-			"309787486278909952": 1,
-			"330678593904443393": 1,
-			"421060058009305088": 4,
+			"309787486278909952": 3,
+			"330678593904443393": 3,
+			"421060058009305088": 7,
 			"427589146295664667": 1,
-			"91269654017748992": 1
+			"91269654017748992": 3
 		},
 		"default_value": 0
 	}
